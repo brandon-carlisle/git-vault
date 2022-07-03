@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "85f2db1c028cda14",
+        "id": "e8cbe707dd240444",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -82,7 +82,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "85f2db1c028cda14",
+  "active": "e8cbe707dd240444",
   "lastOpenFiles": [
     "Git Test.md",
     "test 2.md"
