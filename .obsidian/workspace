@@ -7,12 +7,8 @@
         "id": "85f2db1c028cda14",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "test 2.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +84,7 @@
   },
   "active": "85f2db1c028cda14",
   "lastOpenFiles": [
-    "test 2.md",
-    "Git Test.md"
+    "Git Test.md",
+    "test 2.md"
   ]
 }
