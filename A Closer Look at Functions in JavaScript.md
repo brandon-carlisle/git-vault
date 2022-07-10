@@ -7,4 +7,5 @@ Sometimes it's useful to have functions where some parameters are set by default
 Here we set some default values on the number of passenger and the price of the booking.
 
 ### How passing arguments works: Value vs. Reference
-When we pass 
+When we pass a reference type to a function, what is copied is really just a reference to the object in the memory heap. 
+
