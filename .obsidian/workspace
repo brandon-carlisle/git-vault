@@ -6,20 +6,6 @@
       {
         "id": "e8cbe707dd240444",
         "type": "leaf",
-        "dimension": 61.08974358974359,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "JavaScript.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "a402b0eaeb93be4e",
-        "type": "leaf",
-        "dimension": 38.91025641025641,
         "state": {
           "type": "markdown",
           "state": {
@@ -83,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript.md",
+                "file": "A Closer Look at Functions in JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,8 +89,8 @@
   },
   "active": "e8cbe707dd240444",
   "lastOpenFiles": [
-    "JavaScript.md",
     "A Closer Look at Functions in JavaScript.md",
+    "JavaScript.md",
     "Code_RnyzI2vSg7 1.png.md",
     "Code_RnyzI2vSg7.png",
     "Code_RnyzI2vSg7 1.png",
