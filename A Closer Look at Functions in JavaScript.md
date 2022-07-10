@@ -5,3 +5,5 @@ Sometimes it's useful to have functions where some parameters are set by default
 ![[Code_RnyzI2vSg7.png]]
 
 Here we set some default values on the number of passenger and the price of the booking.
+
+### How passing arguments works: Value vs. Reference
