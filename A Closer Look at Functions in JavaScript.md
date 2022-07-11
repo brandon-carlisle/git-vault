@@ -9,3 +9,7 @@ Here we set some default values on the number of passenger and the price of the 
 ### How passing arguments works: Value vs. Reference
 When we pass a reference type to a function, what is copied is really just a reference to the object in the memory heap. 
 
+When we pass a primitive type to a function is just the same as copying the value to a new variable.
+
+We need to be careful of passing objects to functions in big codebases.
+
