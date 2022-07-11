@@ -14,10 +14,30 @@ When we pass a primitive type to a function is just the same as copying the valu
 We need to be careful of passing objects to functions in big codebases.
 
 ### First-class and Higher-Order functions
+#### First-class functions
 - JavaScript treats functions as first-class citizens
 - This means functions are simply values
 - Functions are just another "type" of object
 
-- This means we can store functions in variables or properties
-- We can pass functions as arguments to OTHER functions
-- Can also return functions FROM functi
+- This means we can store functions in variables or properties:
+
+![[chrome_u7XPkEvZAT.png]]
+- We can pass functions as arguments to OTHER functions:
+
+![[chrome_zkuz6ZtyvH.png]]
+
+- Can also return functions FROM functions
+
+- We can call methods on functions:
+
+![[chrome_NE41c5KVge.png]]
+
+#### Higher-order functions
+- A function that receives another functions as an arguments, that returns a new functions, or both
+- This is only possible because of first-class functions
+
+1) Function that receives another function:
+
+![[chrome_0WGo49Akza.png]]
+
+2) Function t
