@@ -40,4 +40,6 @@ We need to be careful of passing objects to functions in big codebases.
 
 ![[chrome_0WGo49Akza.png]]
 
-2) Function t
+2) Function that returns another function:
+
+![[chrome_NVK8Ui4uOc.png]]
