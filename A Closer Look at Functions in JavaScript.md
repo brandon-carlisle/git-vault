@@ -51,4 +51,4 @@ We need to be careful of passing objects to functions in big codebases.
 #### The Call and Apply Methods
 The call method allows us to manually and explicitly set the this keyword of any function we want to call
 
-The apply method works in the same way except 
+The apply method works in the same way except it takes in the method and an array with the call parameters. -- Not used as much now because we can use the spread operator with the call method.
