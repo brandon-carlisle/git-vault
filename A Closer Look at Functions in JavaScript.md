@@ -68,3 +68,4 @@ Used to create a new function with one or more of its arguments already 'set', o
 
 Here we use partial applicating using the bind method, where we set the tax rate:
 
+![[Code_PQj7pL1yGI.png]]
