@@ -55,3 +55,16 @@ The apply method works in the same way except it takes in the method and an arra
 
 #### The bind method
 Just like the call method, the bind method allows us to manually set the this keyword for any function call - but it does immeditely call the function, instead it returns a new function where the this keyword is bound. It is set to whatever value we pass into bind.
+
+Example of using the bind method on a event listener, because when we use an event listener, the this keyword becomes whichever element we are selecting, in this case it would be the buy button:
+
+![[Code_U2IIAWOTwM.png]]
+
+-------
+
+Partial application  -
+
+Used to create a new function with one or more of its arguments already 'set', or partially applied. 
+
+Here we use partial applicating using the bind method, where we set the tax rate:
+
