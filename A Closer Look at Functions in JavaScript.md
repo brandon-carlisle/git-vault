@@ -43,3 +43,5 @@ We need to be careful of passing objects to functions in big codebases.
 2) Function that returns another function:
 
 ![[chrome_NVK8Ui4uOc.png]]
+
+#### Functions returning Functions
