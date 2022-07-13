@@ -49,3 +49,4 @@ We need to be careful of passing objects to functions in big codebases.
 ![[Code_xnIJtTngmg.png]]
 
 #### The Call and Apply Methods
+The call method allows us to manually and explicitly set the this keyword of any function we want to call
