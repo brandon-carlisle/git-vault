@@ -52,3 +52,6 @@ We need to be careful of passing objects to functions in big codebases.
 The call method allows us to manually and explicitly set the this keyword of any function we want to call
 
 The apply method works in the same way except it takes in the method and an array with the call parameters. -- Not used as much now because we can use the spread operator with the call method.
+
+#### The bind method
+Just like the call method, the bind method allows us to manually set the this keyword for any function call - but it does immeditely call the function, instead it returns a new function where the this keyword is bound. It is set to whatever value we pass into bind.
