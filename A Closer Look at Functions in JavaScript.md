@@ -45,3 +45,7 @@ We need to be careful of passing objects to functions in big codebases.
 ![[chrome_NVK8Ui4uOc.png]]
 
 #### Functions returning Functions
+
+![[Code_xnIJtTngmg.png]]
+
+#### The Call and Apply Methods
