@@ -69,3 +69,7 @@ Used to create a new function with one or more of its arguments already 'set', o
 Here we use partial applicating using the bind method, where we set the tax rate:
 
 ![[Code_PQj7pL1yGI.png]]
+
+### Immediately Invoked Functions (IIFE)
+Sometimes in JavaScript we need a function that is only executed once, and then never again. Basically a function that disapears right after it is called.
+
