@@ -73,3 +73,12 @@ Here we use partial applicating using the bind method, where we set the tax rate
 ### Immediately Invoked Functions (IIFE)
 Sometimes in JavaScript we need a function that is only executed once, and then never again. Basically a function that disapears right after it is called.
 
+![[Code_ML4QGEPZGl.png]]
+
+Same with an arrow function:
+
+![[Code_yxj6GooOhX.png]]
+
+#### Why was this pattern invented?
+
+We already know that functions create scopes. One scope does not have access to variables from an inner scope
