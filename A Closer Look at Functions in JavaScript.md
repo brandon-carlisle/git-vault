@@ -81,4 +81,6 @@ Same with an arrow function:
 
 #### Why was this pattern invented?
 
-We already know that functions create scopes. One scope does not have access to variables from an inner scope
+We already know that functions create scopes. One scope does not have access to variables from an inner scope. All data that is inside a scope are encapsulated (private).
+
+If we used var to create the variable inside a function it would not be function scoped, unlike let and const
