@@ -92,3 +92,6 @@ We can say a closure makes a function remember all the variables that existed at
 
 Any function always has access to the variable enviroment of the execution context in which the function was created.
 Closure: Variable enviroment attached to the function, exactly as it was at the time and place the function was created.
+
+JavaScript first looks for variables in a closure before the scope chain (has priority).
+
