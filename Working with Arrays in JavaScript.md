@@ -8,4 +8,6 @@ Works in same was a slice but it mutates the original array.
 
 ![[Code_HNCbtcVr0n.png]]
 
-Works great for removing
+Works great for removing last element from an array
+
+![[Code_nUNaPzQDJ4.png]]
