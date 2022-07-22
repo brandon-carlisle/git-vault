@@ -95,3 +95,5 @@ Closure: Variable enviroment attached to the function, exactly as it was at the 
 
 JavaScript first looks for variables in a closure before the scope chain (has priority).
 
+![[chrome_XtQKAzs8ed.png]]
+
