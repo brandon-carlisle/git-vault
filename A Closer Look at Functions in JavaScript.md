@@ -97,3 +97,4 @@ JavaScript first looks for variables in a closure before the scope chain (has pr
 
 ![[chrome_XtQKAzs8ed.png]]
 
+![[Code_xZgxKEGqzT.png]]
