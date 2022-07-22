@@ -88,3 +88,4 @@ If we used var to create the variable inside a function it would not be function
 ### Closures
 A closure is not something we manually create, like a new array or function. A closure simply happens in certain situations.
 
+We can say a closure makes a function remember all the variables that existed at the functions 'birth place'.
