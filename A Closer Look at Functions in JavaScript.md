@@ -84,3 +84,7 @@ Same with an arrow function:
 We already know that functions create scopes. One scope does not have access to variables from an inner scope. All data that is inside a scope are encapsulated (private).
 
 If we used var to create the variable inside a function it would not be function scoped, unlike let and const
+
+### Closures
+A closure is not something we manually create, like a new array or function. A closure simply happens in certain situations.
+
