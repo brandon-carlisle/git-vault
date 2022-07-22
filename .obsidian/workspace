@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "Working with Arrays in JavaScript.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Working with Arrays in JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +89,9 @@
   },
   "active": "e8cbe707dd240444",
   "lastOpenFiles": [
-    "A Closer Look at Functions in JavaScript.md",
     "JavaScript.md",
+    "Working with Arrays in JavaScript.md",
+    "A Closer Look at Functions in JavaScript.md",
     "Code_RnyzI2vSg7 1.png.md",
     "Code_RnyzI2vSg7.png",
     "Code_RnyzI2vSg7 1.png",
