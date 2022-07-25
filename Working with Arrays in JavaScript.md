@@ -42,4 +42,7 @@ Here's an example but with a for of loop:
 
 ![[Code_UaKuhqaQS2.png]]
 
-Here is the same 
+Here is the same idea but with the forEach method:
+
+![[Code_5VawqNYG7t.png]]
+
