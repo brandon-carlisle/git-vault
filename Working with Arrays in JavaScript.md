@@ -30,3 +30,8 @@ Returns a string with each element joined together with specified argument like 
 #### At method
 ![[SitApp_lgcImK8y8s.png]]
 
+Useful for getting last array element
+![[SitApp_B2qgMKKqgg.png]]
+
+Note: Also works on strings
+
