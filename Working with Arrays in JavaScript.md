@@ -35,3 +35,11 @@ Useful for getting last array element
 
 Note: Also works on strings
 
+## For Each method
+The for each method is used to loop over arrays, but we call the for each method and pass in a callback function with our code. The callback function argument is the current element of the array as seen below.
+
+Here's an example but with a for of loop:
+
+![[Code_UaKuhqaQS2.png]]
+
+Here is the same 
