@@ -38,6 +38,8 @@ Note: Also works on strings
 ## For Each method
 The for each method is used to loop over arrays, but we call the for each method and pass in a callback function with our code. The callback function argument is the current element of the array as seen below.
 
+Unlike a for of loop, you cannot break out of a for each loop.
+
 Here's an example but with a for of loop:
 
 ![[Code_UaKuhqaQS2.png]]
@@ -46,3 +48,14 @@ Here is the same idea but with the forEach method:
 
 ![[Code_5VawqNYG7t.png]]
 
+------------------
+
+What if we want to access the index of the current element?
+
+Here's an example but with a for of loop:
+
+![[SitApp_0wcQdpB3xv.png]]
+
+Here is the same idea but with the forEach method:
+
+![[SitApp_0g0fW5uGhp.png]]
