@@ -18,5 +18,11 @@ The reverse method DOES mutate the original array!
 ![[SitApp_IY8cV1p2HJ.png]]
 
 #### Concat
-The concat method is used to join two arrays.
+The concat method is used to join two arrays. Does not mutate orignal array.
 
+![[SitApp_tnCrvciCbz.png]]
+
+#### Join
+Returns a string with each element joined together with specified argument like so:
+
+![[SitApp_itKZ2YNKSF.png]]
