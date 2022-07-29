@@ -59,3 +59,18 @@ Here's an example but with a for of loop:
 Here is the same idea but with the forEach method:
 
 ![[SitApp_0g0fW5uGhp.png]]
+
+## Data Transformations: Map, Filter & Reduce
+### Map
+Similar to for each, but map creates a brand new array based on the original. It maps the values of the original array to a new array. 
+
+![[chrome_nDc9yNwaD2.png]]
+
+### Filter
+Used to filter for elements in the original array that satify certain condition, then returns the passed elements into a new filtered array.
+
+![[chrome_RlvEBaRXP5.png]]
+
+### Reduce
+Reduces all array elements into one single value.
+
