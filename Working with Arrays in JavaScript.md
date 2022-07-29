@@ -74,3 +74,5 @@ Used to filter for elements in the original array that satify certain condition,
 ### Reduce
 Reduces all array elements into one single value.
 
+![[chrome_ylWMNKSZKR.png]]
+
