@@ -76,3 +76,7 @@ Reduces all array elements into one single value.
 
 ![[chrome_ylWMNKSZKR.png]]
 
+### Chaining
+We can chain these methods together.
+
+![[Code_lyyD6pC8oO.png]]
