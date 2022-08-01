@@ -81,3 +81,8 @@ We can chain these methods together.
 
 ![[Code_lyyD6pC8oO.png]]
  For debugging we can inspect the current array using the array parameter on each step. 
+
+### The find method
+Used to find an element from an array based on a condition. Returns the first found element of the specified condition. 
+
+![[X7uOKkzGbD.png]]
