@@ -80,3 +80,4 @@ Reduces all array elements into one single value.
 We can chain these methods together.
 
 ![[Code_lyyD6pC8oO.png]]
+ For debugging we can inspect the current array using the array parameter on each step. 
