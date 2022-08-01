@@ -86,3 +86,5 @@ We can chain these methods together.
 Used to find an element from an array based on a condition. Returns the first found element of the specified condition. 
 
 ![[X7uOKkzGbD.png]]
+
+![[U4N9C6ZF4s.png]]
