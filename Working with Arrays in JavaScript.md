@@ -88,3 +88,7 @@ Used to find an element from an array based on a condition. Returns the first fo
 ![[X7uOKkzGbD.png]]
 
 ![[U4N9C6ZF4s.png]]
+
+### the findIndex method
+Similar to the find method, but instead of finding the element it returns the index of the found element instead.
+
