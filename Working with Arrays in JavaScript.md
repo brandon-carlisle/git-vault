@@ -128,3 +128,11 @@ It's pretty common to first map an array and the use the flat method, so we can 
 Note: Flatmap only goes one level deep.
 
 ## Sorting Arrays
+By default, the sort method sorts alphabetically, even numbers in an array. This is because the sort method sorts numbers as if they were strings, like in example below:
+
+![[chrome_4THk8UrP9h.png]]
+
+We can change the default for numbers by passing in a callback function:
+
+
+
