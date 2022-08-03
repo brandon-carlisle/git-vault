@@ -106,6 +106,8 @@ Similar to the some method, but only returns true if all the elements pass the c
 
 ### Flat and flatMap
 
+Great for nested arrays!
+
 #### Flat
 
 Flattens arrays of arrays into one array:
@@ -119,4 +121,8 @@ Flat method only goes one level deep of arrays unless we pass in the depth argum
 ![[Code_MKPrMDOxh7.png]]
 
 #### flatMap
+It's pretty common to first map an array and the use the flat method, so we can use the flatMap method instead:
 
+![[Code_LEK20vI0yk.png]]
+
+Note: Flatmap only goes one level deep.
