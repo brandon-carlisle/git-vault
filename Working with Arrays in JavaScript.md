@@ -104,3 +104,5 @@ Similar to the includes method, but instead of testing for equality, we can test
 #### Every
 Similar to the some method, but only returns true if all the elements pass the condition we pass in.
 
+### Flat and flatMap
+
