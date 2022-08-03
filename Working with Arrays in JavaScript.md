@@ -94,3 +94,10 @@ Similar to the find method, but instead of finding the element it returns the in
 
 ![[SitApp_rZiAC9IMA0.png]]
 
+### Some and Every methods
+
+#### Some
+Similar to the includes method, but instead of testing for equality, we can test for a certain condition.
+
+![[GbPQyT4nC2.png]]
+
