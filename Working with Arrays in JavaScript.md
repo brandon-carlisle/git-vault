@@ -106,3 +106,13 @@ Similar to the some method, but only returns true if all the elements pass the c
 
 ### Flat and flatMap
 
+#### Flat
+
+Flattens arrays of arrays into one array:
+
+![[MdTpmu2YL1.png]]
+
+Flat method only goes one level deep of arrays unless we pass 
+
+#### flatMap
+
