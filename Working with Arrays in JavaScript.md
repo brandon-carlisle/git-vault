@@ -112,7 +112,11 @@ Flattens arrays of arrays into one array:
 
 ![[MdTpmu2YL1.png]]
 
-Flat method only goes one level deep of arrays unless we pass 
+Flat method only goes one level deep of arrays unless we pass in the depth argument:
+
+![[Code_HpSaOw3w2h.png]]
+
+![[Code_MKPrMDOxh7.png]]
 
 #### flatMap
 
