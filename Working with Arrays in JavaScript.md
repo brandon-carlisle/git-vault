@@ -126,3 +126,5 @@ It's pretty common to first map an array and the use the flat method, so we can 
 ![[Code_LEK20vI0yk.png]]
 
 Note: Flatmap only goes one level deep.
+
+## Sorting Arrays
