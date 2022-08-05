@@ -143,7 +143,14 @@ Here's a simplified version of this:
 ![[chrome_ao7G1rC83B.png]]
 
 ## More ways of creating and filling arrays
-Fill method:
+#### Fill method:
 
 ![[SitApp_OjybcOirnF.png]]
+
+![[SitApp_GabMlgtc3T.png]]
+
+Doesn't have to be empty array.
+
+#### Array.from
+![[SitApp_pexauXHfnR.png]]
 
