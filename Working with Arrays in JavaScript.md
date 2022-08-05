@@ -154,3 +154,5 @@ Doesn't have to be empty array.
 #### Array.from
 ![[SitApp_pexauXHfnR.png]]
 
+![[SitApp_brkFjzNRQH.png]]
+
