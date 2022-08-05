@@ -141,3 +141,9 @@ Note: This mutates the original array.
 Here's a simplified version of this:
 
 ![[chrome_ao7G1rC83B.png]]
+
+## More ways of creating and filling arrays
+Fill method:
+
+![[SitApp_OjybcOirnF.png]]
+
