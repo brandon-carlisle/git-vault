@@ -134,5 +134,10 @@ By default, the sort method sorts alphabetically, even numbers in an array. This
 
 We can change the default for numbers by passing in a callback function:
 
+![[chrome_YO8HhH1edc.png]]
 
+Note: This mutates the original array.
 
+Here's a simplified version of this:
+
+![[chrome_ao7G1rC83B.png]]
