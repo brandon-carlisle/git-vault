@@ -156,3 +156,6 @@ Doesn't have to be empty array.
 
 ![[SitApp_brkFjzNRQH.png]]
 
+## Which array method to use? 
+
+![[k1nOgcSQm9.png]]
