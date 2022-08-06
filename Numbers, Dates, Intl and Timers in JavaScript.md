@@ -16,3 +16,5 @@ We can use the remainder operator to check if a number is even or odd. If we tak
 
 ![[Screenshot 2022-08-06 at 12.59.56.png]]
 
+Whenever we need to do something every (n)th time, we can use the remainder operator, like this we color each every second row of our app:
+
