@@ -23,3 +23,8 @@ Whenever we need to do something every (n)th time, we can use the remainder oper
 ![[Screenshot 2022-08-06 at 13.11.27.png]]
 
 ## Numeric Separators
+Starting for ES2021 we can use a feature called numeric separators to format numbers in a way that is easier for us and other developers to read and understand.
+
+We can use underscores as 'thousand' markers, like we would in real life when writing large numbers to make it much easier to read:
+
+![[Screenshot 2022-08-06 at 13.18.42.png]]
