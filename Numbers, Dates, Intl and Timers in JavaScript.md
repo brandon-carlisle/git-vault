@@ -11,3 +11,6 @@ MDN Docs on Math and rounding methods: https://developer.mozilla.org/en-US/docs/
 It simply returns the remainder of a division. 
 
 ![[Screenshot 2022-08-06 at 12.53.06.png]]
+
+We can use the remainder operator to check if a number is even or odd. If we take any number and (x % 2), if it is even the result will be 0, if not it will be odd.
+
