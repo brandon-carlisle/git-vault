@@ -18,3 +18,8 @@ We can use the remainder operator to check if a number is even or odd. If we tak
 
 Whenever we need to do something every (n)th time, we can use the remainder operator, like this we color each every second row of our app:
 
+![[Screenshot 2022-08-06 at 13.10.56.png]]
+
+![[Screenshot 2022-08-06 at 13.11.27.png]]
+
+## Numeric Separators
