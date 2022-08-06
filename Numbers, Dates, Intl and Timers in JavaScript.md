@@ -14,3 +14,5 @@ It simply returns the remainder of a division.
 
 We can use the remainder operator to check if a number is even or odd. If we take any number and (x % 2), if it is even the result will be 0, if not it will be odd.
 
+![[Screenshot 2022-08-06 at 12.59.56.png]]
+
