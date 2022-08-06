@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Numbers, Dates, Intl and Timers in JavaScript.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c625e5cc0b5de280",
@@ -90,9 +89,9 @@
   },
   "active": "e8cbe707dd240444",
   "lastOpenFiles": [
-    "Numbers, Dates, Intl and Timers in JavaScript.md",
     "Working with Arrays in JavaScript.md",
     "A Closer Look at Functions in JavaScript.md",
+    "Numbers, Dates, Intl and Timers in JavaScript.md",
     "JavaScript.md",
     "Code_RnyzI2vSg7 1.png.md",
     "Code_RnyzI2vSg7.png",
