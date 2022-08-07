@@ -38,4 +38,13 @@ If there are only 53 bits to store the number, that means there is a limit on ho
 ![[Screenshot 2022-08-07 at 17.26.54.png]]
 This is the largest number we can store safely in JS. (aka we will lose precision when working with a number bigger than this)
 
-There might be situations where we do need
+------------------------------
+
+There might be situations where we do need numbers bigger than this, such as when we work with database IDs or some data from API's. So we need to use BigInt.
+
+We use the n prefix at the end of a large number to convert it to a bigint, like here:
+
+![[Screenshot 2022-08-07 at 17.32.09.png]]
+![[Screenshot 2022-08-07 at 17.32.38.png]]
+
+When doing operations with bigints all the usual operators still work the same.
