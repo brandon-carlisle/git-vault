@@ -52,3 +52,12 @@ When doing operations with bigints all the usual operators still work the same. 
 The above statement is true apart from the comparison operator and the loose type equality operator ( == ).
 
 ## Creating Dates
+In JavaScript there is 4 ways to make dates, but they all use the Date contructor. 
+
+The first way is this:
+
+![[Screenshot 2022-08-07 at 18.55.00.png]]
+![[Screenshot 2022-08-07 at 18.56.04.png]]
+
+The second way is to parse the date from a string like this:
+
