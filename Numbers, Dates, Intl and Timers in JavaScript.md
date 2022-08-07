@@ -74,4 +74,11 @@ Finally we can also pass in the amount of milliseconds past, since the beggining
 ![[Screenshot 2022-08-07 at 19.16.28.png]]
 ![[Screenshot 2022-08-07 at 19.16.43.png]]
 
-			----------------------
+------------------------
+
+These dates are just another type of special object, so they have methods like arrays or strings. We can use these methods to get or set components off a date.
+
+![[Screenshot 2022-08-07 at 19.21.44.png]]
+![[Screenshot 2022-08-07 at 19.22.05.png]]
+Never use getYear, always use getFullYear!
+
