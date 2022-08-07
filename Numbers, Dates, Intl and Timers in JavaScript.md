@@ -47,4 +47,7 @@ We use the n prefix at the end of a large number to convert it to a bigint, like
 ![[Screenshot 2022-08-07 at 17.32.09.png]]
 ![[Screenshot 2022-08-07 at 17.32.38.png]]
 
-When doing operations with bigints all the usual operators still work the same.
+When doing operations with bigints all the usual operators still work the same. We cannot mix BigInt numbers with regular numbers, otherwise we will get a TypeError.
+
+The above statement is true apart from the comparison operator and the loose type equality operator ( == ).
+
