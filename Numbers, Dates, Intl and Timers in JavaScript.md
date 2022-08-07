@@ -71,3 +71,7 @@ Notice that the months are zero based, aka they start at 0 instead of one.
 
 Finally we can also pass in the amount of milliseconds past, since the beggining of the unix time:
 
+![[Screenshot 2022-08-07 at 19.16.28.png]]
+![[Screenshot 2022-08-07 at 19.16.43.png]]
+
+			----------------------
