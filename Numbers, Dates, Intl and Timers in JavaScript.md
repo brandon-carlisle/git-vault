@@ -61,3 +61,7 @@ The first way is this:
 
 The second way is to parse the date from a string like this:
 
+![[Screenshot 2022-08-07 at 18.58.27.png]]
+![[Screenshot 2022-08-07 at 18.58.52.png]]
+The third way is we can pass numbers in to create a date:
+
