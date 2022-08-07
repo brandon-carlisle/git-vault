@@ -82,3 +82,6 @@ These dates are just another type of special object, so they have methods like a
 ![[Screenshot 2022-08-07 at 19.22.05.png]]
 Never use getYear, always use getFullYear!
 
+Some more methods here:
+MDN reference on Date methods: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#instance_methods
+
