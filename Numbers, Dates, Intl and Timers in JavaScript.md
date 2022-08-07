@@ -65,3 +65,9 @@ The second way is to parse the date from a string like this:
 ![[Screenshot 2022-08-07 at 18.58.52.png]]
 The third way is we can pass numbers in to create a date:
 
+![[Screenshot 2022-08-07 at 19.04.41.png]]
+![[Screenshot 2022-08-07 at 19.05.00.png]]
+Notice that the months are zero based, aka they start at 0 instead of one.
+
+Finally we can also pass in the amount of milliseconds past, since the beggining of the unix time:
+
