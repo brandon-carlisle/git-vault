@@ -32,4 +32,10 @@ We can use underscores as 'thousand' markers, like we would in real life when wr
 ## Working with BigInt
 BigInt is a special type of integer that was introduced in ES2020. Numbers are represented internally as 64 bits (exactly 64 1's or 0's to represent any number), but only 53 bits are used to store the digits themselves, the rest are used to store the position of the decimal point and the sign.
 
-If there are only 53 bits to store the number, that means there is a limit on how big the numbee
+If there are only 53 bits to store the number, that means there is a limit on how big the number can be.
+
+![[Screenshot 2022-08-07 at 17.26.30.png]]
+![[Screenshot 2022-08-07 at 17.26.54.png]]
+This is the largest number we can store safely in JS. (aka we will lose precision when working with a number bigger than this)
+
+There might be situations where we do need
