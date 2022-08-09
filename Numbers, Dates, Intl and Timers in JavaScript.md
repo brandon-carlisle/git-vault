@@ -92,3 +92,8 @@ Here's a date converted to a number:
 
 ![[Screenshot 2022-08-09 at 15.35.27.png]]
 ![[Screenshot 2022-08-09 at 15.35.43.png]]
+
+Once we've converted the date to a number (milliseconds), we can then do mathmatical operations on it and the convert it back to a date(hours,days etc).
+
+Here's a functions that takes in to dates, and returns the number of days passed between them:
+
