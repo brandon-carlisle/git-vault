@@ -164,4 +164,7 @@ We can actually cancel the timeout (atleast until before the timeout value has b
 ![[Screenshot 2022-08-09 at 20.06.40.png]]
 
 ### setInterval
-What if we wanted to run a function over and over again? We can use the setInterval
+What if we wanted to run a function over and over again? We can use the setInterval.
+
+![[Screenshot 2022-08-09 at 20.13.19.png]]
+![[Screenshot 2022-08-09 at 20.13.48.png]]
