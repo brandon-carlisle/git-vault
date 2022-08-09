@@ -157,3 +157,8 @@ setTimeout is an asynchronous function, meaning that this function will not paus
 We can pass arguments to the function by typing them after where we specify the delay
 
 ![[Screenshot 2022-08-09 at 20.01.13.png]]![[Screenshot 2022-08-09 at 20.01.37.png]]
+
+We can actually cancel the timeout (atleast until before the timeout value has been reached)
+
+![[Screenshot 2022-08-09 at 20.06.40.png]]
+
