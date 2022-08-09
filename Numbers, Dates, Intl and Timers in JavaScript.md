@@ -113,3 +113,5 @@ Result:
 
 List of locale strings to pass into DateTimeFormat: http://www.lingoes.net/en/translator/langcode.htm
 
+We can customize this further, say if we want to display the minutes and hours as well as the date. We just need to create a config object (the options object in screenshot) and pass it as a second argument to the DateTimeFormat method:
+
