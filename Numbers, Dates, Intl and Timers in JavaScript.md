@@ -85,3 +85,10 @@ Never use getYear, always use getFullYear!
 Some more methods here:
 MDN reference on Date methods: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#instance_methods
 
+## Operations with dates
+We can do calculations with dates. For example, we can subtract one date from another date, to calculate the time between them, this works because whenever we attempt to convert a date to number - then the result will be the timestamp in milliseconds.
+
+Here's a date converted to a number:
+
+![[Screenshot 2022-08-09 at 15.35.27.png]]
+![[Screenshot 2022-08-09 at 15.35.43.png]]
