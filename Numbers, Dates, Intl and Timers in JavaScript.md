@@ -102,4 +102,5 @@ Here's a functions that takes in to dates, and returns the number of days passed
 If we need more precise calculations, including time changes due to daylight saving and other edge cases, we should use a date library like MomentJS.
 
 ## Internationalizing Dates (Intl)
-JavaScript has a internationalisation API. 
+JavaScript has a internationalisation API. It allows us to format numbers and strings according to different lanuages. With this, we can make our app support different languages for users around the world. For example, currencies or dates are represented in a completely different wayin Europe or the USA or Asia. 
+
