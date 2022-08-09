@@ -147,6 +147,7 @@ In JavaScript, we have two kinds of timers:
  - setTimeout timer runs just once after a defined time
  - setInterval timer keeps running forever until we stop it
 
+### setTimeout
 We can use setTimeout to execute some code at some point in the future.
 
 ![[Screenshot 2022-08-09 at 19.52.41.png]]
@@ -162,3 +163,5 @@ We can actually cancel the timeout (atleast until before the timeout value has b
 
 ![[Screenshot 2022-08-09 at 20.06.40.png]]
 
+### setInterval
+What if we wanted to run a function over and over again? We can use the setInterval
