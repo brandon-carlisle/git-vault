@@ -139,3 +139,5 @@ And also like dates we can use additional options object to configure the format
 ![[Screenshot 2022-08-09 at 18.43.05.png]]
 ![[Screenshot 2022-08-09 at 18.43.24.png]]
 
+Here's a list of the different syntax and options for NumberFormat: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/NumberFormat/NumberFormat#syntax
+
