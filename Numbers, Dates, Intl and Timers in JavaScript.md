@@ -130,3 +130,9 @@ Internationalizing numbers works in the same way as dates, like this:
 
 ![[Screenshot 2022-08-09 at 18.35.06.png]]
 ![[Screenshot 2022-08-09 at 18.35.37.png]]
+Just like dates, we can also use the locale from the browser:
+
+![[Screenshot 2022-08-09 at 18.39.52.png]]
+
+And also like dates we can use additional options object to configure the formatting:
+
