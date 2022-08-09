@@ -136,3 +136,6 @@ Just like dates, we can also use the locale from the browser:
 
 And also like dates we can use additional options object to configure the formatting:
 
+![[Screenshot 2022-08-09 at 18.43.05.png]]
+![[Screenshot 2022-08-09 at 18.43.24.png]]
+
