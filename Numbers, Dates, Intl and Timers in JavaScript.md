@@ -98,3 +98,6 @@ Once we've converted the date to a number (milliseconds), we can then do mathmat
 Here's a functions that takes in to dates, and returns the number of days passed between them:
 
 ![[Screenshot 2022-08-09 at 15.45.25.png]]
+
+If we need more precise calculations, including time changes due to daylight saving and other edge cases, we should use a date library like MomentJS.
+
