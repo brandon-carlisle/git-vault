@@ -126,3 +126,7 @@ In most cases we can not specify the locale manually and get it from the users b
 ![[Screenshot 2022-08-09 at 16.39.22.png]]
 
 ## Internationalizing Numbers (Intl)
+Internationalizing numbers works in the same way as dates, like this:
+
+![[Screenshot 2022-08-09 at 18.35.06.png]]
+![[Screenshot 2022-08-09 at 18.35.37.png]]
