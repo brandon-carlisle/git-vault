@@ -154,3 +154,6 @@ The console log will run after 5 seconds(5000 milliseconds).
 
 setTimeout is an asynchronous function, meaning that this function will not pause the execution of other functions.
 
+We can pass arguments to the function by typing them after where we specify the delay
+
+![[Screenshot 2022-08-09 at 20.01.13.png]]![[Screenshot 2022-08-09 at 20.01.37.png]]
