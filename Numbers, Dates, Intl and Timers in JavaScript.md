@@ -141,3 +141,5 @@ And also like dates we can use additional options object to configure the format
 
 Here's a list of the different syntax and options for NumberFormat: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/NumberFormat/NumberFormat#syntax
 
+
+## Timers: setTimeout and setInterval
