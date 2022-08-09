@@ -143,3 +143,8 @@ Here's a list of the different syntax and options for NumberFormat: https://deve
 
 
 ## Timers: setTimeout and setInterval
+In JavaScript, we have two kinds of timers:
+ - setTimeout timer runs just once after a defined time
+ - setInterval timer keeps running forever until we stop it
+
+We can use setTimeout to execute some code at some point in the future.
