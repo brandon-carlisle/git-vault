@@ -115,3 +115,13 @@ List of locale strings to pass into DateTimeFormat: http://www.lingoes.net/en/tr
 
 We can customize this further, say if we want to display the minutes and hours as well as the date. We just need to create a config object (the options object in screenshot) and pass it as a second argument to the DateTimeFormat method:
 
+![[Screenshot 2022-08-09 at 16.36.49.png]]
+
+Result:
+
+![[Screenshot 2022-08-09 at 16.37.08.png]]
+
+In most cases we can not specify the locale manually and get it from the users browser:
+
+![[Screenshot 2022-08-09 at 16.39.22.png]]
+
