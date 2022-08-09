@@ -104,3 +104,5 @@ If we need more precise calculations, including time changes due to daylight sav
 ## Internationalizing Dates (Intl)
 JavaScript has a internationalisation API. It allows us to format numbers and strings according to different lanuages. With this, we can make our app support different languages for users around the world. For example, currencies or dates are represented in a completely different wayin Europe or the USA or Asia. 
 
+![[Screenshot 2022-08-09 at 16.24.11.png]]
+Here we created a new date as usual, then used the Intl namespace (api) + the DateTimeFormat method and passed in the "locale string"
