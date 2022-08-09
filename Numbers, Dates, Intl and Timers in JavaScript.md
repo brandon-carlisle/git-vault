@@ -148,3 +148,9 @@ In JavaScript, we have two kinds of timers:
  - setInterval timer keeps running forever until we stop it
 
 We can use setTimeout to execute some code at some point in the future.
+
+![[Screenshot 2022-08-09 at 19.52.41.png]]
+The console log will run after 5 seconds(5000 milliseconds).
+
+setTimeout is an asynchronous function, meaning that this function will not pause the execution of other functions.
+
