@@ -125,3 +125,4 @@ In most cases we can not specify the locale manually and get it from the users b
 
 ![[Screenshot 2022-08-09 at 16.39.22.png]]
 
+## Internationalizing Numbers (Intl)
