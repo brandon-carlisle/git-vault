@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Numbers, Dates, Intl and Timers in JavaScript.md",
+            "file": "Advanced DOM and.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Numbers, Dates, Intl and Timers in JavaScript.md",
+                "file": "Advanced DOM and.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,9 +89,9 @@
   },
   "active": "e8cbe707dd240444",
   "lastOpenFiles": [
+    "Numbers, Dates, Intl and Timers in JavaScript.md",
     "Working with Arrays in JavaScript.md",
     "A Closer Look at Functions in JavaScript.md",
-    "Numbers, Dates, Intl and Timers in JavaScript.md",
     "JavaScript.md",
     "Code_RnyzI2vSg7 1.png.md",
     "Code_RnyzI2vSg7.png",
