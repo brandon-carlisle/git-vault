@@ -168,3 +168,4 @@ What if we wanted to run a function over and over again? We can use the setInter
 
 ![[Screenshot 2022-08-09 at 20.13.19.png]]
 ![[Screenshot 2022-08-09 at 20.13.48.png]]
+
