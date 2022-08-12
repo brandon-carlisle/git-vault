@@ -30,3 +30,8 @@ Adding styles with JavaScript creates inline styles.
 
 Retreiving styles
 ![[Screenshot 2022-08-12 at 23.18.32.png]]
+![[Screenshot 2022-08-12 at 23.20.19.png]]
+![[Screenshot 2022-08-12 at 23.20.36.png]]
+
+Adding using JS to add height (or any value) to a CSS property.
+![[Screenshot 2022-08-12 at 23.24.25.png]]
