@@ -45,4 +45,4 @@ Working with CSS variables (custom properties)
 
 Getting non standard HTML attributes
 ![[Screenshot 2022-08-12 at 23.34.36.png]]
-![[Screenshot 2022-08-12 at 23.35.13.png]]
+![[Screenshot 2022-08-12 at 23.35.13.png]]![[Screenshot 2022-08-12 at 23.35.42.png]]
