@@ -28,3 +28,5 @@
 Adding styles with JavaScript creates inline styles.
 ![[Screenshot 2022-08-12 at 23.14.28.png]]
 
+Retreiving styles
+![[Screenshot 2022-08-12 at 23.18.32.png]]
