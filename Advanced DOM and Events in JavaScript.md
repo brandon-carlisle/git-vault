@@ -40,3 +40,9 @@ Working with CSS variables (custom properties)
 ![[Screenshot 2022-08-12 at 23.28.16.png]]
 
 ### Attributes
+![[Screenshot 2022-08-12 at 23.32.07.png]]
+![[Screenshot 2022-08-12 at 23.32.22.png]]
+
+Getting non standard HTML attributes
+![[Screenshot 2022-08-12 at 23.34.36.png]]
+![[Screenshot 2022-08-12 at 23.35.13.png]]
