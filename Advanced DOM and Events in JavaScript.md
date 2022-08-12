@@ -11,3 +11,5 @@
 ![[Screenshot 2022-08-12 at 17.56.10.png]]
 
 ### Creating and Inserting Elements
+![[Screenshot 2022-08-12 at 18.09.38.png]]
+![[Screenshot 2022-08-12 at 18.10.09.png]]
