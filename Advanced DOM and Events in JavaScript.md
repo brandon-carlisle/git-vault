@@ -5,5 +5,9 @@
 ![[Screenshot 2022-08-12 at 17.38.00.png]]
 
 ## Selecting, Creating and Deleting Elements
+### Selecting Elements
 ![[Screenshot 2022-08-12 at 17.47.58.png]]
 ![[Screenshot 2022-08-12 at 17.48.15.png]]
+![[Screenshot 2022-08-12 at 17.56.10.png]]
+
+### Creating and Inserting Elements
