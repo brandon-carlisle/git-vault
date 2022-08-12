@@ -3,3 +3,5 @@
 ![[Screenshot 2022-08-12 at 17.27.58.png]]
 
 ![[Screenshot 2022-08-12 at 17.38.00.png]]
+
+## Selecting, Creating and Deleting Elements
