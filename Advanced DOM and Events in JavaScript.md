@@ -24,3 +24,7 @@
 ![[Screenshot 2022-08-12 at 18.18.22.png]]
 
 ## Styles, Attributes and Classes
+### Styles
+Adding styles with JavaScript creates inline styles.
+![[Screenshot 2022-08-12 at 23.14.28.png]]
+
