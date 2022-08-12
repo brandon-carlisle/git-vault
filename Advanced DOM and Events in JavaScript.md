@@ -23,3 +23,4 @@
 ### Deleting Elements
 ![[Screenshot 2022-08-12 at 18.18.22.png]]
 
+## Styles, Attributes and Classes
