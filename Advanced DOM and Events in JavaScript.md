@@ -18,3 +18,8 @@
 ![[Screenshot 2022-08-12 at 18.11.59.png]]
 
 ![[Screenshot 2022-08-12 at 18.14.54.png]]
+![[Screenshot 2022-08-12 at 18.15.43.png]]
+
+### Deleting Elements
+![[Screenshot 2022-08-12 at 18.18.22.png]]
+
