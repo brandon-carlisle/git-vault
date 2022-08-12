@@ -35,3 +35,8 @@ Retreiving styles
 
 Adding using JS to add height (or any value) to a CSS property.
 ![[Screenshot 2022-08-12 at 23.24.25.png]]
+
+Working with CSS variables (custom properties)
+![[Screenshot 2022-08-12 at 23.28.16.png]]
+
+### Attributes
