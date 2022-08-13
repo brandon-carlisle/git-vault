@@ -57,3 +57,8 @@ We then listen for these events using event handlers.
 
 JavaScript event references MDN: https://developer.mozilla.org/en-US/docs/Web/Events#event_index
 
+Removing event listeners:
+![[Screenshot 2022-08-13 at 15.36.57.png]]
+
+## Event Propagation: Bubbling and Capturing
+
