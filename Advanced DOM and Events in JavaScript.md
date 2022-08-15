@@ -61,4 +61,5 @@ Removing event listeners:
 ![[Screenshot 2022-08-13 at 15.36.57.png]]
 
 ## Event Propagation: Bubbling and Capturing
+JavaScript events have a capturing phase and bubbling phase.
 
