@@ -77,3 +77,8 @@ We can solve this with event delegation. In this, we use the fact that events 'b
 1. Add event listenener to common parent element
 2. Determine what element originated the event (the target)
 
+Here's the example from before but with event delegation:
+
+![[Screenshot 2022-08-16 at 15.10.51.png]]
+
+Another important use case is when we are working with elements that are not yet on the page on runtime
