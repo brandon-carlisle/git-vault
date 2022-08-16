@@ -99,7 +99,7 @@ Traversing upwards:
 ![[Screenshot 2022-08-16 at 16.31.41.png]]
 
 ![[Screenshot 2022-08-16 at 16.31.55.png]]
-Going sideways:
+Traversing sideways:
 
 ![[Screenshot 2022-08-16 at 16.43.08.png]]
 
