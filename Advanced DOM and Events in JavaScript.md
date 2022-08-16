@@ -85,3 +85,8 @@ Another important use case is when we are working with elements that are not yet
 
 ## DOM Traversing
 DOM travsersing is basically 'walking' through the DOM, which means we can select an element based on another element. This is important because sometimes we need to select elements relative to a certain other element, for example, a direct child or a direct parent element.
+
+Here's some examples:
+
+![[Screenshot 2022-08-16 at 16.16.23.png]]
+
