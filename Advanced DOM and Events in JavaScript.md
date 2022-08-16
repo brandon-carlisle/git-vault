@@ -84,3 +84,4 @@ Here's the example from before but with event delegation:
 Another important use case is when we are working with elements that are not yet on the page on runtime (by the time the page loads). An example of this is buttons that are added dynamically while using the app. It is not possible to add event handlers onto elements that do not yet exist, but we can still handle events on elements that don't exist yet by using event delegation.
 
 ## DOM Traversing
+DOM travsersing is basically 'walking' through the DOM, which means we can select an element based on another element. This is important because sometimes we need to select elements relative to a certain other element, for example, a direct child or a direct parent element.
