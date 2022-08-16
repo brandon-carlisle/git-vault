@@ -81,4 +81,6 @@ Here's the example from before but with event delegation:
 
 ![[Screenshot 2022-08-16 at 15.10.51.png]]
 
-Another important use case is when we are working with elements that are not yet on the page on runtime
+Another important use case is when we are working with elements that are not yet on the page on runtime (by the time the page loads). An example of this is buttons that are added dynamically while using the app. It is not possible to add event handlers onto elements that do not yet exist, but we can still handle events on elements that don't exist yet by using event delegation.
+
+## DOM Traversing
