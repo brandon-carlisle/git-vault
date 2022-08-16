@@ -65,3 +65,11 @@ JavaScript events have a capturing phase and bubbling phase.
 
 ![[Screenshot 2022-08-15 at 18.51.06.png]]
 
+## Event Delegation: Implementing Page Navigation (smooth scroll)
+Here's an example of implementing smooth scroll with JavaScript without event delegation on some nav links that point to different sections of the page:
+
+![[Screenshot 2022-08-16 at 14.57.06.png]]
+
+The problem with this is that we are effectively attaching the same callback function on every nav link element because we are using the forEach method. Not a problem for a small number of elements but if we scale to say a thousand links, it wouldn't be very efficient.
+
+We can solve this with event delegation.
