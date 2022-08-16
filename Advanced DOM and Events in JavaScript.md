@@ -94,3 +94,10 @@ Travsering down:
 
 ![[Screenshot 2022-08-16 at 16.24.13.png]]
 ![[Screenshot 2022-08-16 at 16.24.41.png]]
+Traversing upwards:
+
+![[Screenshot 2022-08-16 at 16.31.41.png]]
+
+![[Screenshot 2022-08-16 at 16.31.55.png]]
+Going sideways:
+
