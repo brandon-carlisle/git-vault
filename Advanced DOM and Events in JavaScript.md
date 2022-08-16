@@ -72,4 +72,8 @@ Here's an example of implementing smooth scroll with JavaScript without event de
 
 The problem with this is that we are effectively attaching the same callback function on every nav link element because we are using the forEach method. Not a problem for a small number of elements but if we scale to say a thousand links, it wouldn't be very efficient.
 
-We can solve this with event delegation.
+We can solve this with event delegation. In this, we use the fact that events 'bubble up'. We do this by putting the event listener on a common parent of all the elements we are interested in (for example a container containing all the links).
+
+1. Add event listenener to common parent element
+2. Determine what element originated the event (the target)
+
