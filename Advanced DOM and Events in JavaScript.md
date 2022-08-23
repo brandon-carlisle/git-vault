@@ -108,3 +108,6 @@ Traversing sideways:
 ## The Intersection Observer API
 Allows our code to 'observe' changes to the way a certain target element intersects another element, or the way it intersects the viewport. Useful for implementing sticky navigation.
 
+![[Screenshot 2022-08-23 at 12.46.39.png]]
+
+The root is the 'other element' on which the target element intersects. In this cas
