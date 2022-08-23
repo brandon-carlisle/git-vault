@@ -128,3 +128,6 @@ Improving this to make the nav appear before the threshold is met by using the r
 
 ![[Screen Recording 2022-08-23 at 13.10.40.mov]]
 
+One last improvement to make the height on the rootMargin dynamic:
+
+![[Screenshot 2022-08-23 at 13.15.04.png]]
