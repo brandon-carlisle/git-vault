@@ -110,4 +110,11 @@ Allows our code to 'observe' changes to the way a certain target element interse
 
 ![[Screenshot 2022-08-23 at 12.46.39.png]]
 
-The root is the 'other element' on which the target element intersects. In this cas
+The root is the 'other element' on which the target element intersects. In this case the root set to null is the viewport. 
+
+The threshold is the percentage of the target element that needs to be intersecting for the callback function to be called. In this case, 10% of the section1 element needs to be visible in the viewport for the callback to be called.
+
+![[Screenshot 2022-08-23 at 12.50.31.png]]
+
+We get the isIntersecting as false when less than 10% is visible (or intersecting), and viceversa for the second log. (notice the intersectionRatio).
+
