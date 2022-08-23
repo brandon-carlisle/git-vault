@@ -122,3 +122,9 @@ Using this to create a sticky nav:
 
 ![[Screenshot 2022-08-23 at 13.05.56.png]]
 
+Improving this to make the nav appear before the threshold is met by using the rootMargin:
+
+![[Screenshot 2022-08-23 at 13.10.04.png]]
+
+![[Screen Recording 2022-08-23 at 13.10.40.mov]]
+
