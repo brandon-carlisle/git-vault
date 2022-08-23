@@ -118,3 +118,7 @@ The threshold is the percentage of the target element that needs to be intersect
 
 We get the isIntersecting as false when less than 10% is visible (or intersecting), and viceversa for the second log. (notice the intersectionRatio).
 
+Using this to create a sticky nav:
+
+![[Screenshot 2022-08-23 at 13.05.56.png]]
+
