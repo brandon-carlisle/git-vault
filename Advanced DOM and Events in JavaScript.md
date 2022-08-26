@@ -153,3 +153,4 @@ Before unload event - This also gets fired by the window, but this event is fire
 ## Efficient Script Loading: defer and async
 ![[Screenshot 2022-08-26 at 18.51.23.png]]
 
+![[Screenshot 2022-08-26 at 18.55.49.png]]
