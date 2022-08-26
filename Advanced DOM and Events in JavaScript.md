@@ -151,3 +151,5 @@ Load event - this event is fired by the window as soon not only the HTML and JS 
 
 Before unload event - This also gets fired by the window, but this event is fired immedietly before a user is about to leave a page. For example clicking the close tab button.
 ## Efficient Script Loading: defer and async
+![[Screenshot 2022-08-26 at 18.51.23.png]]
+
