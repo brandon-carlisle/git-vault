@@ -132,3 +132,11 @@ One last improvement to make the height on the rootMargin dynamic:
 
 ![[Screenshot 2022-08-23 at 13.15.04.png]]
 
+
+## Lifecycle DOM Events
+"Lifecycle" - Right from the moment the page is first accessed, until the user leaves.
+
+DOM content loaded - this event is fired as soon as the HTML is completely parsed (HTML has been downloaded and been converted to the DOM tree) & all scripts must be downloaded and executed. 
+
+Does not wait for images and other external sources to load.
+
