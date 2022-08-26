@@ -140,3 +140,6 @@ DOM content loaded - this event is fired as soon as the HTML is completely parse
 
 Does not wait for images and other external sources to load.
 
+------------------
+
+Load event - this event is fired by the window as soon not only the HTML and JS is parsed, but also when the images and all the external resources (like CSS files)
