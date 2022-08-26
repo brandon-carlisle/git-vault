@@ -134,12 +134,19 @@ One last improvement to make the height on the rootMargin dynamic:
 
 
 ## Lifecycle DOM Events
+
 "Lifecycle" - Right from the moment the page is first accessed, until the user leaves.
 
-DOM content loaded - this event is fired as soon as the HTML is completely parsed (HTML has been downloaded and been converted to the DOM tree) & all scripts must be downloaded and executed. 
+---------------------
+
+DOM content loaded - this event is fired by the document as soon as the HTML is completely parsed (HTML has been downloaded and been converted to the DOM tree) & all scripts must be downloaded and executed. 
 
 Does not wait for images and other external sources to load.
 
 ------------------
 
-Load event - this event is fired by the window as soon not only the HTML and JS is parsed, but also when the images and all the external resources (like CSS files)
+Load event - this event is fired by the window as soon not only the HTML and JS is parsed, but also when the images and all the external resources (like CSS files) are loaded.
+
+-----------------------------
+
+Before unload event - This also gets fired by the window, but this event is fired immedietly before a user is about to leave a page. For example clicking the close tab button.
