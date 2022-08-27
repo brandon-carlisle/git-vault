@@ -12,3 +12,6 @@
 
 ![[Screenshot 2022-08-27 at 18.51.34.png]]
 
+![[Screenshot 2022-08-27 at 18.54.17.png]]
+
+## OOP in JavaScript
