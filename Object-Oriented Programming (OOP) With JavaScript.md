@@ -17,3 +17,5 @@
 ## OOP in JavaScript
 ![[Screenshot 2022-08-27 at 19.02.35.png]]
 
+![[Screenshot 2022-08-27 at 19.06.11.png]]
+
