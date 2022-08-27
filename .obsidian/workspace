@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Advanced DOM and Events in JavaScript.md",
+            "file": "Object-Oriented Programming (OOP) With JavaScript.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced DOM and Events in JavaScript.md",
+                "file": "Object-Oriented Programming (OOP) With JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +89,8 @@
   },
   "active": "e8cbe707dd240444",
   "lastOpenFiles": [
-    "Numbers, Dates, Intl and Timers in JavaScript.md",
     "Advanced DOM and Events in JavaScript.md",
+    "Numbers, Dates, Intl and Timers in JavaScript.md",
     "Working with Arrays in JavaScript.md",
     "A Closer Look at Functions in JavaScript.md",
     "attachments/Screenshot 2022-08-16 at 16.43.20.png",
