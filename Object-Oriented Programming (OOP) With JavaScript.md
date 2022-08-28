@@ -45,11 +45,13 @@ First each and every function in JavaScript automatically has a property called 
 
 Every object that is created by a certain contructor function will get access to all the methods and properties that we define of the contructors prototype property.
 
-![[Screenshot 2022-08-28 at 13.09.19.png]]
+![[Screenshot 2022-08-28 at 13.12.29.png]]
 ![[Screenshot 2022-08-28 at 13.09.43.png]]
 
 We can now call this method on each function we have created from the constructor:
 
+![[Screenshot 2022-08-28 at 13.12.54.png]]
+![[Screenshot 2022-08-28 at 13.13.18.png]]
 
-
+The brandon object doesn't actually contain the calc age method, but because of prototypal inheritance, it still has access to it.
 
