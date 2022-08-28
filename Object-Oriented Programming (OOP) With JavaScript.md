@@ -24,3 +24,14 @@ We can use contructor functions to build an object using a function. A construct
 
 ![[Screenshot 2022-08-28 at 12.43.39.png]]
 
+Using the new keyword there are a few steps when calling the function behind the scenes:
+
+1) New {} is created
+2) function is called, this = {}
+3) {} linked to prototype
+4) function automatically returns {}
+
+![[Screenshot 2022-08-28 at 12.49.49.png]]
+
+![[Screenshot 2022-08-28 at 12.50.15.png]]
+
