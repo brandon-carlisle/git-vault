@@ -58,3 +58,5 @@ The brandon object doesn't actually contain the calc age method, but because of 
 ## Prototypal Inheritance and The Prototype Chain
 ![[Screenshot 2022-08-28 at 13.35.21.png]]
 
+![[Screenshot 2022-08-28 at 13.41.13.png]]
+
