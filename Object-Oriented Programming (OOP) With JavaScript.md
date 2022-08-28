@@ -60,3 +60,10 @@ The brandon object doesn't actually contain the calc age method, but because of 
 
 ![[Screenshot 2022-08-28 at 13.41.13.png]]
 
+## ES6 Classes
+
+This is how we used ES6 classes. We can create new objects with the classes in the same way using contructor functions.
+
+![[Screenshot 2022-08-28 at 20.33.52.png]]
+![[Screenshot 2022-08-28 at 20.35.06.png]]
+
