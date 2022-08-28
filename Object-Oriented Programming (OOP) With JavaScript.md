@@ -35,3 +35,10 @@ Using the new keyword there are a few steps when calling the function behind the
 
 ![[Screenshot 2022-08-28 at 12.50.15.png]]
 
+We can check if something is an "instance" of a certain constructor function using instanceof:
+
+![[Screenshot 2022-08-28 at 13.00.24.png]]
+![[Screenshot 2022-08-28 at 13.00.43.png]]
+
+
+
