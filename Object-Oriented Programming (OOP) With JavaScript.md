@@ -70,3 +70,9 @@ This is how we used ES6 classes. We can create new objects with the classes in t
 We when create methods we create them INSIDE the class but OUTSIDE of the constructor method, so they are on the object prototype and not on each object, like this:
 
 ![[Screenshot 2022-08-28 at 20.38.20.png]]
+
+Some notes about classes:
+
+1) Classes are NOT hoisted (can't use before they are declared)
+2) Just like functions, classes are 'first-class cititzens'
+3) Classes are executed in strict mode
