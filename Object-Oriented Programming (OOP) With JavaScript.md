@@ -55,3 +55,4 @@ We can now call this method on each function we have created from the constructo
 
 The brandon object doesn't actually contain the calc age method, but because of prototypal inheritance, it still has access to it.
 
+## Prototypal Inheritance and The Prototype Chain
