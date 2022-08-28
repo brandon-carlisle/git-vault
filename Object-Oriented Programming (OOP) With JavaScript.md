@@ -67,3 +67,6 @@ This is how we used ES6 classes. We can create new objects with the classes in t
 ![[Screenshot 2022-08-28 at 20.33.52.png]]
 ![[Screenshot 2022-08-28 at 20.35.06.png]]
 
+We when create methods we create them INSIDE the class but OUTSIDE of the constructor method, so they are on the object prototype and not on each object, like this:
+
+![[Screenshot 2022-08-28 at 20.38.20.png]]
