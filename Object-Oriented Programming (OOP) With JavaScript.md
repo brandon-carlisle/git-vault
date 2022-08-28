@@ -19,3 +19,6 @@
 
 ![[Screenshot 2022-08-27 at 19.06.11.png]]
 
+## Constructor Functions and the new Operator
+We can use contructor functions to build an object using a function. A constructer functions is actually a completely normal function. The only difference is that we call a constructor function with the New operator.
+
