@@ -40,5 +40,8 @@ We can check if something is an "instance" of a certain constructor function usi
 ![[Screenshot 2022-08-28 at 13.00.24.png]]
 ![[Screenshot 2022-08-28 at 13.00.43.png]]
 
+## Prototypes
+First each and every function in JavaScript automatically has a property called "Prototype", which of course includes contructor functions.
 
+Every object that is created by a certain contructor function will get access to all the methods and properties that we define of the contructors prototype property.
 
