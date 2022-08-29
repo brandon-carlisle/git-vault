@@ -81,3 +81,6 @@ Some notes about classes:
 Every object in JavaScript can have setter and getter properties. These are called accessor properties, while the more 'normal' properties are called data properites.
 
 Getters and Setters are basically functions that get and set a value (but still look like normal properties on the outside).
+
+![[Screenshot 2022-08-29 at 15.49.44.png]]
+
