@@ -85,3 +85,6 @@ Getters and Setters are basically functions that get and set a value (but still 
 ![[Screenshot 2022-08-29 at 15.49.44.png]]
 
 ## Static Methods
+A static method is defined on the class itself, so you cannot call the static method on an object. We could also say the method is in the 'namespace' of a certain class. It will NOT be available to use on the instances created from the class. 
+
+How a static method looks l
