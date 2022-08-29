@@ -84,3 +84,4 @@ Getters and Setters are basically functions that get and set a value (but still 
 
 ![[Screenshot 2022-08-29 at 15.49.44.png]]
 
+## Static Methods
