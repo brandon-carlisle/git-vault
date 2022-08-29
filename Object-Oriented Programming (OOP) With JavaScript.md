@@ -76,3 +76,8 @@ Some notes about classes:
 1) Classes are NOT hoisted (can't use before they are declared)
 2) Just like functions, classes are 'first-class cititzens'
 3) Classes are executed in strict mode
+
+## Setters and Getters
+Every object in JavaScript can have setter and getter properties. These are called accessor properties, while the more 'normal' properties are called data properites.
+
+Getters and Setters are basically functions that get and set a value (but still look like normal properties on the outside).
