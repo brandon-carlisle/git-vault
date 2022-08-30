@@ -99,4 +99,8 @@ We can use this function to manually set the prototype of an object to any other
 
 ![[Screenshot 2022-08-30 at 19.52.31.png]]
 ![[Screenshot 2022-08-30 at 19.53.01.png]]
+---------------------------------------
 
+How object.create works:
+
+![[Screenshot 2022-08-30 at 20.06.11.png]]
