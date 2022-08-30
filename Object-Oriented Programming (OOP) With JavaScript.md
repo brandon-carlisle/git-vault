@@ -96,3 +96,7 @@ How a static method looks like in a class, by using the static keyword:
 Object.create is the third way we can implement prototypal inheritance, alonside contructor functions and ES6 Classes.
 
 We can use this function to manually set the prototype of an object to any other object that we want. 
+
+![[Screenshot 2022-08-30 at 19.52.31.png]]
+![[Screenshot 2022-08-30 at 19.53.01.png]]
+
