@@ -123,4 +123,9 @@ Here lets imrpove this solution:
 
 ![[Screenshot 2022-09-02 at 13.44.43.png]]
 
-Now we are using the person function inside of the student contructor function. Notice the call method, this is because if we didn't use call here, the 'this' keyword would be set to undefined. If we use call, the 'this' keyword wou
+Now we are using the person function inside of the student contructor function. Notice the call method, this is because if we didn't use call here, the 'this' keyword would be set to undefined. 
+
+If we use call, and set the first argument to 'this', the 'this' keyword is no longer undefined and it is now set to the empty object we orginally create using the 'new' keyword when we made the mike object.
+
+-----------------------------
+We actually want the 
