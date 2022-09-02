@@ -108,3 +108,8 @@ How object.create works:
 
 In the real world, this method is used the least compared to constructor functions and classes, but we still use it to link prototypes between classes.
 
+
+## Inheritance between classes
+All of these techniques (contructor functions, ES6 classes and Object.create) basically allow objects to inherit methods from its prototype, or to 'delegate'. 
+
+### Contructor functions
