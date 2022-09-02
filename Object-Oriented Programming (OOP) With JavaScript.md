@@ -134,3 +134,11 @@ We actually want the proto of student to be Person.Prototype. So it can 'inherit
 
 We do this using Object.create, because object.create defines prototypes manually.
 
+![[Screenshot 2022-09-02 at 13.58.07.png]]
+
+We use object.create before we set any of our methods on the student prototype. This is because we use use object.create, it returns an empty object and if we did it after creating our methods, they would be overwritten.
+
+![[Screenshot 2022-09-02 at 13.59.29.png]]
+
+We can now use the methods of the Person class, on any student object we create such as the calcAge method. Here's how:
+
