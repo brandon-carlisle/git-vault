@@ -115,3 +115,4 @@ All of these techniques (contructor functions, ES6 classes and Object.create) ba
 ### Contructor functions
 ![[Screenshot 2022-09-02 at 13.32.24.png]]
 
+Here we have two classes, a person class and a student class. Currently we have duplicate code between both classes, but we have a method specific to 
