@@ -158,3 +158,7 @@ Here is our starting Person class:
 
 Now to implement inheritance between two classes in ES6 Classes, we only need to ingredients - the 'extends' keyword and the 'super' function.
 
+Here's how to do it:
+
+![[Screenshot 2022-09-02 at 17.09.34.png]]
+
