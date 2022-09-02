@@ -112,7 +112,7 @@ In the real world, this method is used the least compared to constructor functio
 ## Inheritance between classes
 All of these techniques (contructor functions, ES6 classes and Object.create) basically allow objects to inherit methods from its prototype, or to 'delegate'. 
 
-### Contructor functions
+### Inheritance Between Classes: Contructor functions
 ![[Screenshot 2022-09-02 at 13.32.24.png]]
 
 Here we have two classes, a person class and a student class. Currently we have duplicate code between both classes, but we have a method specific to the student class(the introduce method):
@@ -149,7 +149,7 @@ One last fix to set the contructor of Student to Student instead of Person:
 ![[Screenshot 2022-09-02 at 14.10.27.png]]
 
 
-### ES6 Classes
+### Inheritance Between Classes: ES6 Classes
 Recreating the same example from before but with ES6 Classes.
 
 Here is our starting Person class:
@@ -161,4 +161,8 @@ Now to implement inheritance between two classes in ES6 Classes, we only need to
 Here's how to do it:
 
 ![[Screenshot 2022-09-02 at 17.09.34.png]]
+
+
+### Inheritance Between Classes: Object.create
+Here we create the same example again but with Object.create.
 
