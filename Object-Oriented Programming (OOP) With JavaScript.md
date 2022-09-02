@@ -128,4 +128,9 @@ Now we are using the person function inside of the student contructor function. 
 If we use call, and set the first argument to 'this', the 'this' keyword is no longer undefined and it is now set to the empty object we orginally create using the 'new' keyword when we made the mike object.
 
 -----------------------------
-We actually want the 
+We actually want the proto of student to be Person.Prototype. So it can 'inherit' the methods of the Person class. We have to do this manually:
+
+![[Screenshot 2022-09-02 at 13.53.01.png]]
+
+We do this using Object.create, because object.create defines prototypes manually.
+
