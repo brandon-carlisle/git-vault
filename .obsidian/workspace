@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "p",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -54,7 +54,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c625e5cc0b5de280",
@@ -88,7 +89,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9555cd99bac09bf1",
+  "active": "e8cbe707dd240444",
   "lastOpenFiles": [
     "A Closer Look at Functions in JavaScript.md",
     "Advanced DOM and Events in JavaScript.md",

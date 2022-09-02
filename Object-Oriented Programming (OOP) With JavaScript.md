@@ -150,3 +150,5 @@ One last fix to set the contructor of Student to Student instead of Person:
 
 
 ### ES6 Classes
+Recreating the same example from before but with ES6 Classes.
+
