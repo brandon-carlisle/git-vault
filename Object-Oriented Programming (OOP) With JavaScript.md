@@ -115,4 +115,12 @@ All of these techniques (contructor functions, ES6 classes and Object.create) ba
 ### Contructor functions
 ![[Screenshot 2022-09-02 at 13.32.24.png]]
 
-Here we have two classes, a person class and a student class. Currently we have duplicate code between both classes, but we have a method specific to 
+Here we have two classes, a person class and a student class. Currently we have duplicate code between both classes, but we have a method specific to the student class(the introduce method):
+
+![[Screenshot 2022-09-02 at 13.41.37.png]]
+
+Here lets imrpove this solution:
+
+![[Screenshot 2022-09-02 at 13.44.43.png]]
+
+Now we are using the person function inside of the student contructor function. Notice the call method, this is because if we didn't use call here, the 'this' keyword would be set to undefined. If we use call, the 'this' keyword wou
