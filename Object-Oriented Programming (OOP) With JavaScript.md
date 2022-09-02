@@ -178,3 +178,7 @@ Here's how to prototype chain looks like with this method above:
 
 Adding the init method to the Student object:
 
+![[Screenshot 2022-09-02 at 18.51.36.png]]
+
+Adding the introduce method to the student object:
+
