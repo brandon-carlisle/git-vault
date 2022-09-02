@@ -166,3 +166,9 @@ Here's how to do it:
 ### Inheritance Between Classes: Object.create
 Here we create the same example again but with Object.create.
 
+The starting point of our Person 'class' (or blueprint object):
+
+![[Screenshot 2022-09-02 at 18.40.02.png]]
+
+![[Screenshot 2022-09-02 at 18.42.46.png]]
+
