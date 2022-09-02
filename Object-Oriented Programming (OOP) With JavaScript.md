@@ -172,3 +172,9 @@ The starting point of our Person 'class' (or blueprint object):
 
 ![[Screenshot 2022-09-02 at 18.42.46.png]]
 
+Here's how to prototype chain looks like with this method above: 
+
+![[Screenshot 2022-09-02 at 18.44.56.png]]
+
+Adding the init method to the Student object:
+
