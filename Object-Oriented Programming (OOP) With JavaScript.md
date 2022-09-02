@@ -142,3 +142,5 @@ We use object.create before we set any of our methods on the student prototype. 
 
 We can now use the methods of the Person class, on any student object we create such as the calcAge method. Here's how:
 
+![[Screenshot 2022-09-02 at 14.03.48.png]]
+
