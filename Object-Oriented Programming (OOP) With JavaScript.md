@@ -112,6 +112,6 @@ In the real world, this method is used the least compared to constructor functio
 ## Inheritance between classes
 All of these techniques (contructor functions, ES6 classes and Object.create) basically allow objects to inherit methods from its prototype, or to 'delegate'. 
 
-
-
 ### Contructor functions
+![[Screenshot 2022-09-02 at 13.32.24.png]]
+
