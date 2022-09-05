@@ -225,3 +225,4 @@ Private methods:
 
 
 ## ES6 Classes Summary
+![[Screenshot 2022-09-05 at 18.42.06.png]]
