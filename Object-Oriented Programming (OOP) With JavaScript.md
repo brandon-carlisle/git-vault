@@ -221,3 +221,5 @@ By default methods are public.
 
 Private methods:
 
+![[Screenshot 2022-09-05 at 17.53.34.png]]
+
