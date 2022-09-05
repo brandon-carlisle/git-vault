@@ -199,7 +199,8 @@ Here is the starting class that requires data privacy:
 
 We use an underscore as a naming convention to let other people in the codebase that this is a 'protected' property.
 
-JavaScript doesn't feature true privacy in classes.
-
 ![[Screenshot 2022-09-05 at 17.21.29.png]]
 
+-------------------
+
+Implementing truly private methods, 
