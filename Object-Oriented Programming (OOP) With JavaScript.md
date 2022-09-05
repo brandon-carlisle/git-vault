@@ -203,4 +203,11 @@ We use an underscore as a naming convention to let other people in the codebase 
 
 -------------------
 
-Implementing truly private methods, 
+Implementing truly private methods, using private class fields and methods:
+
+First there is 4(8) types of class fields - 
+1) Public fields(instances)
+2) Private fields
+3) Public methods
+4) Private methods
+
