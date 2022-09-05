@@ -217,3 +217,7 @@ We can now no longer access the movements array from outside of the class:
 
 ![[Screenshot 2022-09-05 at 17.42.28.png]]
 
+By default methods are public.
+
+Private methods:
+
