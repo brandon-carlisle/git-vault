@@ -190,6 +190,10 @@ Adding the introduce method to the student object:
 In classes, we sometimes need encapsulation to keep certain methods and properties 'private' inside the class, so they are not accesible from outside the class. Then the rest of the methods are exposed as a public interface (api).
 
 We need encapsulation for two main reasons:
-
 1) To prevent code from outside of a class accidentally maniulating data inside the class
-2) 
+2) When we expose only a small interface, then we can change all the other internal methods with more confidence. - So external code does not rely on private methods.
+
+Here is the starting class that requires data privacy:
+
+![[Screenshot 2022-09-05 at 17.18.16.png]]
+
