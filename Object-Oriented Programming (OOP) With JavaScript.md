@@ -211,3 +211,9 @@ First there is 4(8) types of class fields -
 3) Public methods
 4) Private methods
 
+![[Screenshot 2022-09-05 at 17.40.07.png]]
+
+We can now no longer access the movements array from outside of the class:
+
+![[Screenshot 2022-09-05 at 17.42.28.png]]
+
