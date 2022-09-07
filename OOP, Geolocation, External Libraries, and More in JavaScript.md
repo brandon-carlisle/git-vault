@@ -8,6 +8,7 @@
 
 ![[Screenshot 2022-09-06 at 21.53.54.png]]
 
+![[Screenshot 2022-09-07 at 18.31.56.png]]
 
 
 ## Using the Geolocation API
