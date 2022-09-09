@@ -18,3 +18,9 @@
 ## Working with localStorage
 We use local storage to persist data after page reload or closing the page.
 
+Local storage is a simple key/value store, so we pass in a key as a string and a value as a string. We can pass objects in as values by using JSON stringify.
+
+Setting local storage: 
+
+![[Screenshot 2022-09-09 at 15.03.52.png]]
+
