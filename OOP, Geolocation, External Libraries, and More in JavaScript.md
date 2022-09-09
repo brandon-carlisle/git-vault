@@ -28,3 +28,4 @@ Getting local storage:
 
 ![[Screenshot 2022-09-09 at 15.13.03.png]]
 
+When we convert objects to strings and then back to objects again, they will lose the prototype chain that we set up with classes. 
