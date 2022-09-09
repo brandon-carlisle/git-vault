@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "OOP, Geolocation, External Libraries, and More in JavaScript.md",
+            "file": "Advanced DOM and Events in JavaScript.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "delega",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OOP, Geolocation, External Libraries, and More in JavaScript.md",
+                "file": "Advanced DOM and Events in JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +90,7 @@
   },
   "active": "e8cbe707dd240444",
   "lastOpenFiles": [
+    "OOP, Geolocation, External Libraries, and More in JavaScript.md",
     "Object-Oriented Programming (OOP) With JavaScript.md",
     "A Closer Look at Functions in JavaScript.md",
     "Advanced DOM and Events in JavaScript.md",
@@ -97,7 +99,6 @@
     "JavaScript.md",
     "attachments/Screenshot 2022-08-16 at 16.43.20.png",
     "Code_RnyzI2vSg7 1.png.md",
-    "Code_RnyzI2vSg7.png",
-    "Code_RnyzI2vSg7 1.png"
+    "Code_RnyzI2vSg7.png"
   ]
 }
