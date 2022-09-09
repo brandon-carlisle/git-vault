@@ -30,4 +30,7 @@ Getting local storage:
 
 When we convert objects to strings and then back to objects again, they will lose the prototype chain that we set up with classes. 
 
-Del
+Deleting items from local storage and reloading the page:
+
+![[Screenshot 2022-09-09 at 15.30.44.png]]
+
