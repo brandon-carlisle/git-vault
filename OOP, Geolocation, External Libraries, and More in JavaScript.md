@@ -14,3 +14,7 @@
 ## Using the Geolocation API
 ![[Screenshot 2022-09-06 at 23.01.43.png]]
 
+
+## Working with localStorage
+We use local storage to persist data after page reload or closing the page.
+
