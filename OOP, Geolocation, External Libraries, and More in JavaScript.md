@@ -24,3 +24,7 @@ Setting local storage:
 
 ![[Screenshot 2022-09-09 at 15.03.52.png]]
 
+Getting local storage:
+
+![[Screenshot 2022-09-09 at 15.13.03.png]]
+
