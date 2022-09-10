@@ -17,3 +17,5 @@ What is an API?
 ## Our first AJAX Call: XMLHttp Request
 In JavaScript there are multiple ways of doing AJAX calls, but starting with the most old school way:
 
+![[Screenshot 2022-09-10 at 13.22.40.png]]
+
