@@ -45,3 +45,4 @@ Another, more obvious example of callback hell:
 
 ![[Screenshot 2022-09-10 at 14.58.14.png]]
 
+## Promises and the Fetch API
