@@ -58,3 +58,10 @@ What are promises?
 ![[Screenshot 2022-09-10 at 19.48.43.png]]
 
 ## Consuming Promises
+![[Screenshot 2022-09-10 at 20.03.34.png]]
+
+![[Screenshot 2022-09-10 at 20.03.48.png]]
+Simplifing the code from above using arrow functions:
+
+![[Screenshot 2022-09-10 at 20.06.21.png]]
+
