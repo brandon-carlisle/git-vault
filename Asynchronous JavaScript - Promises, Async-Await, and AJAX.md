@@ -55,3 +55,6 @@ What are promises?
 
 ![[Screenshot 2022-09-10 at 19.44.28.png]]
 
+![[Screenshot 2022-09-10 at 19.48.43.png]]
+
+## Consuming Promises
