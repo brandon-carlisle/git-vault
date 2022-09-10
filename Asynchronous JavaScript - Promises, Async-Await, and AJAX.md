@@ -22,3 +22,7 @@ In JavaScript there are multiple ways of doing AJAX calls, but starting with the
 ![[Screenshot 2022-09-10 at 14.00.44.png]]
 If we call this function multiple times, and reload the page a few times, we will get the countries in a different order. This is because it is non blocking, and we may get the data back in a different order.
 
+## How the Web Works: Requests and Responses
+What happens when we access a webserver:
+![[Screenshot 2022-09-10 at 14.10.14.png]]
+
