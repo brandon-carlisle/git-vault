@@ -17,5 +17,8 @@ What is an API?
 ## Our first AJAX Call: XMLHttp Request
 In JavaScript there are multiple ways of doing AJAX calls, but starting with the most old school way:
 
-![[Screenshot 2022-09-10 at 13.22.40.png]]
+![[Screenshot 2022-09-10 at 14.00.24.png]]
+
+![[Screenshot 2022-09-10 at 14.00.44.png]]
+If we call this function multiple times, and reload the page a few times, we will get the countries in a different order. This is because it is non blocking, and we may get the data back in a different order.
 

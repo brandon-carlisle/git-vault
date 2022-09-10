@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Working with Arrays in JavaScript.md",
-            "mode": "preview",
+            "file": "Asynchronous JavaScript - Promises, Async-Await, and AJAX.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Working with Arrays in JavaScript.md",
+                "file": "Asynchronous JavaScript - Promises, Async-Await, and AJAX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,13 +89,13 @@
   },
   "active": "e8cbe707dd240444",
   "lastOpenFiles": [
+    "OOP, Geolocation, External Libraries, and More in JavaScript.md",
+    "Working with Arrays in JavaScript.md",
     "Asynchronous JavaScript - Promises, Async-Await, and AJAX.md",
     "Advanced DOM and Events in JavaScript.md",
-    "OOP, Geolocation, External Libraries, and More in JavaScript.md",
     "Object-Oriented Programming (OOP) With JavaScript.md",
     "A Closer Look at Functions in JavaScript.md",
     "Numbers, Dates, Intl and Timers in JavaScript.md",
-    "Working with Arrays in JavaScript.md",
     "JavaScript.md",
     "attachments/Screenshot 2022-08-16 at 16.43.20.png",
     "Code_RnyzI2vSg7 1.png.md"
