@@ -38,4 +38,10 @@ Lets say we want to get data about a certain country, and then make a call about
 
 In the code above we have callbacks inside of callbacks, imagine if we then wanted to get the neighbours, neighbours country and so on. 
 
-- Callback hell is when have a lot nested callbacks, in order to execute async t
+- Callback hell is when have a lot nested callbacks, in order to execute async tasks in sequence.
+- This happens for all async tasks which are handled by callbacks, not just AJAX calls.
+
+Another, more obvious example of callback hell:
+
+![[Screenshot 2022-09-10 at 14.58.14.png]]
+
