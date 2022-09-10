@@ -65,3 +65,6 @@ Simplifing the code from above using arrow functions:
 
 ![[Screenshot 2022-09-10 at 20.06.21.png]]
 
+## Chaining Promises
+Creating the functionality from before of been able to add neighbour countries based on the first country:
+
