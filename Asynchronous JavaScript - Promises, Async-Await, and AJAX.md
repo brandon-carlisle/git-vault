@@ -31,3 +31,6 @@ What happens when we access a webserver:
 
 ## Welcome to Callback Hell
 In our first AJAX call example, as we called the function multiple times - we made multiple AJAX calls at the same time. As they were running in paralel, and we could not control which one finished first.
+
+Lets say we want to get data about a certain country, and then make a call about the neighbouring country and display it next to the first one. Here we would NEED the order to matter. So we need to implement a sequence of AJAX calls.
+
