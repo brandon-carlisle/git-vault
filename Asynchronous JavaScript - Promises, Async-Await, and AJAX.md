@@ -49,3 +49,9 @@ Another, more obvious example of callback hell:
 Transforming the 'old' method of using AJAX calls from the previous example into the new modern way using the fetch API:
 
 ![[Screenshot 2022-09-10 at 19.40.14.png]]
+![[Screenshot 2022-09-10 at 19.40.51.png]]
+
+What are promises?
+
+![[Screenshot 2022-09-10 at 19.44.28.png]]
+
