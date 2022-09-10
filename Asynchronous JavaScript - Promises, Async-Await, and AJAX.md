@@ -34,3 +34,8 @@ In our first AJAX call example, as we called the function multiple times - we ma
 
 Lets say we want to get data about a certain country, and then make a call about the neighbouring country and display it next to the first one. Here we would NEED the order to matter. So we need to implement a sequence of AJAX calls.
 
+![[Screenshot 2022-09-10 at 14.52.04.png]]
+
+In the code above we have callbacks inside of callbacks, imagine if we then wanted to get the neighbours, neighbours country and so on. 
+
+- Callback hell is when have a lot nested callbacks, in order to execute async t
