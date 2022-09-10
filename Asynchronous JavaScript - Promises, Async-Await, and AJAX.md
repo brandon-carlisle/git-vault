@@ -26,3 +26,8 @@ If we call this function multiple times, and reload the page a few times, we wil
 What happens when we access a webserver:
 ![[Screenshot 2022-09-10 at 14.10.14.png]]
 
+![[Screenshot 2022-09-10 at 14.24.35.png]]
+
+
+## Welcome to Callback Hell
+In our first AJAX call example, as we called the function multiple times - we made multiple AJAX calls at the same time. As they were running in paralel, and we could not control which one finished first.
