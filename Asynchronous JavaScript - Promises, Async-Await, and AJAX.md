@@ -90,4 +90,7 @@ Instead of having to add another callback for each fetch request we can add the 
 
 ![[Screenshot 2022-09-11 at 17.36.58.png]]
 
-So .then callback will only be executed if we get a 
+So .then callback will only be executed if we get a successful promise, the .catch callback will only be executed if there is an error caught and finally, the .finally method will execute its callback no matter what. This is useful for things like that always need to happen at the end of a chain, such as a loading spinner:
+
+![[Screenshot 2022-09-11 at 17.44.11.png]]
+
