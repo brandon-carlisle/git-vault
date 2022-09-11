@@ -89,3 +89,5 @@ Instead of having to add another callback for each fetch request we can add the 
 ![[Screenshot 2022-09-11 at 17.36.45.png]]
 
 ![[Screenshot 2022-09-11 at 17.36.58.png]]
+
+So .then callback will only be executed if we get a 
