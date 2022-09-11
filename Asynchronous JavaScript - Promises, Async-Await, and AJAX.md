@@ -72,4 +72,11 @@ Creating the functionality from before of been able to add neighbour countries b
 ![[Screenshot 2022-09-10 at 20.19.39.png]]
 Here, instead of having callback hell, we now have easier to read code. This is called a 'flat chain of promises'.
 ## Handling Rejected Promises
-In promises we can get a failed to fetch error if the user loses internet connection 
+In promises we can get a failed to fetch error if the user loses internet connection while trying to make a request, so we have to handle these rejected promises:
+
+![[Screenshot 2022-09-11 at 17.17.56.png]]
+
+There are two ways on handling rejections in promises:
+
+The first is passing a second callback function into the .then method on the fetch method -
+
