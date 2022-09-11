@@ -79,4 +79,10 @@ In promises we can get a failed to fetch error if the user loses internet connec
 There are two ways on handling rejections in promises:
 
 The first is passing a second callback function into the .then method on the fetch method -
+![[Screenshot 2022-09-11 at 17.22.54.png]]
+![[Screen Recording 2022-09-11 at 17.22.19.mov]]
+
+We have now 'handled/caught' the error. But what if we first fetch on the first country was succesful but the second one failed?
+
+Instead of having to add another callback for each fetch request we can add the catch method to the end of the chain, and it will still catch any errors no matter where they are in the chain:
 
