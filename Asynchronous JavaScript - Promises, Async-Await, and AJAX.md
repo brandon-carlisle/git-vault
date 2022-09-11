@@ -94,3 +94,12 @@ So .then callback will only be executed if we get a successful promise, the .cat
 
 ![[Screenshot 2022-09-11 at 17.44.11.png]]
 
+## Throwing Errors Manually
+When we get a 404 from the API, such as searching for a country that doesn't exist, the promise doesn't actually get rejected.
+
+![[Screenshot 2022-09-11 at 18.16.10.png]]
+![[Screenshot 2022-09-11 at 18.16.23.png]]
+Note: Can ignore the TypeError and focus on the GET 404 error.
+
+We will have to reject the promise ourself, manually incase we get a 404 (ok: false):
+
