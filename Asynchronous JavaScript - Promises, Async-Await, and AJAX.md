@@ -86,3 +86,6 @@ We have now 'handled/caught' the error. But what if we first fetch on the first 
 
 Instead of having to add another callback for each fetch request we can add the catch method to the end of the chain, and it will still catch any errors no matter where they are in the chain:
 
+![[Screenshot 2022-09-11 at 17.36.45.png]]
+
+![[Screenshot 2022-09-11 at 17.36.58.png]]
