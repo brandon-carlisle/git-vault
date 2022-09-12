@@ -103,3 +103,10 @@ Note: Can ignore the TypeError and focus on the GET 404 error.
 
 We will have to reject the promise ourself, manually incase we get a 404 (ok: false):
 
+![[Code_P8vIMCkvJu.png]]
+
+First we check if the response .ok is falsy, then if it is, we create the new error (we throw) and pass in a message which will be the error message. Using the throw keyword will immedietly terminate the current function, just like return.
+
+The effect of creating and throwing an error in any of the then methods will be that, the promise will be immeditely reject. So basically the promise returned by the .then method will be a rejected promise. The rejection will then propogate down to the catch handler that we made before.
+
+So now we get the error message displayed 
