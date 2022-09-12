@@ -126,3 +126,8 @@ Exporting the functionality of getting the JSON and throwing an error.
 ![[Code_B77F6dSWvD.png]]
 Calling that function inside of our original function and passing in the URL and error message we want to display.
 
+## Asynchronous Behind the Scenes: The Event Loop
+REVIEW: JAVASCRIPT RUNTIME
+
+![[Screenshot 2022-09-12 at 20.03.43.png]]
+
