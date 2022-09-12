@@ -109,4 +109,12 @@ First we check if the response .ok is falsy, then if it is, we create the new er
 
 The effect of creating and throwing an error in any of the then methods will be that, the promise will be immeditely reject. So basically the promise returned by the .then method will be a rejected promise. The rejection will then propogate down to the catch handler that we made before.
 
-So now we get the error message displayed 
+So now we get the error message displayed:
+
+![[chrome_B69rMiUP0R.png]]
+
+Why should we bother handling these errors?
+
+1) Handling these errors is the only we we can display an error message on the screen for a user
+2) Bad practice to leave errors unhandled
+
