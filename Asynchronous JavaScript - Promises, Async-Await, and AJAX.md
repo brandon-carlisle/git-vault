@@ -138,4 +138,8 @@ HOW ASYNCHRONOUS JAVASCRIPT WORKS BEHIND THE SCENES
 ## The Event Loop in Practice
 1) Top level code gets executed first
 2) async tasks run in the web API context such as fetching data or loading images
-3) Microtasks 
+3) Microtasks (callbacks inside of promises) get prio over regular callbacks
+4) All other callbacks that aren't in the microtask queue get executed sequentially
+
+Demo:
+
