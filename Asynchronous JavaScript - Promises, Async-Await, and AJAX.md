@@ -135,3 +135,7 @@ HOW ASYNCHRONOUS JAVASCRIPT WORKS BEHIND THE SCENES
 
 ![[Screenshot 2022-09-12 at 20.21.58.png]]
 
+## The Event Loop in Practice
+1) Top level code gets executed first
+2) async tasks run in the web API context such as fetching data or loading images
+3) Microtasks 
