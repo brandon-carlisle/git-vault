@@ -118,3 +118,5 @@ Why should we bother handling these errors?
 1) Handling these errors is the only we we can display an error message on the screen for a user
 2) Bad practice to leave errors unhandled
 
+What if the first fetch was successful but the second(neighbour) fetch was not? We could copy the throw new error code to the second fetch, but it would be repeatigng code. So refactoring and handling the second fetch:
+
