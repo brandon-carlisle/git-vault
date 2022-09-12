@@ -143,3 +143,7 @@ HOW ASYNCHRONOUS JAVASCRIPT WORKS BEHIND THE SCENES
 
 Demo:
 
+![[Screenshot 2022-09-12 at 21.39.52.png]]
+
+![[Screenshot 2022-09-12 at 21.40.22.png]]
+
