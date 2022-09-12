@@ -120,3 +120,9 @@ Why should we bother handling these errors?
 
 What if the first fetch was successful but the second(neighbour) fetch was not? We could copy the throw new error code to the second fetch, but it would be repeatigng code. So refactoring and handling the second fetch:
 
+![[Code_hjADNvV2U3.png]]
+Exporting the functionality of getting the JSON and throwing an error.
+
+![[Code_B77F6dSWvD.png]]
+Calling that function inside of our original function and passing in the URL and error message we want to display.
+
