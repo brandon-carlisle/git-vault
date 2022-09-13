@@ -211,3 +211,10 @@ As soon at the fetch promise is resolved, then the value of whole await expressi
 
 Async/Await is simply just syntactic sugar over the .then method, we are still using promises, this is just a different way of consuming them.
 
+Getting the data from the API using async await:
+
+![[Screenshot 2022-09-13 at 18.35.39.png]]
+
+We now no longer need to use the .then method, or return any promises manually ^.
+
+![[Screenshot 2022-09-13 at 18.35.58.png]]
