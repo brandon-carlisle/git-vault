@@ -154,3 +154,7 @@ The new Promise object takes in one arguement, which is the so called executor f
 
 As it runs the executor function, it will pass in two other arguments:
 1) Resolve
+2) Reject
+
+The executor function will contain the async behaivour that we are trying to handle with the promise.
+
