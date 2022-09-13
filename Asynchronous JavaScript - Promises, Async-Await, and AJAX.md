@@ -218,3 +218,4 @@ Getting the data from the API using async await:
 We now no longer need to use the .then method, or return any promises manually ^.
 
 ![[Screenshot 2022-09-13 at 18.35.58.png]]
+
