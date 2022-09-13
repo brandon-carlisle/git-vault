@@ -147,3 +147,10 @@ Demo:
 
 ![[Screenshot 2022-09-12 at 21.40.22.png]]
 
+## Building a Simple Promise
+Building a promise based on the idea of the lottery - A fufilled promise means to win the lottery and a rejected promise means to lose the lottery:
+
+The new Promise object takes in one arguement, which is the so called executor function. As soon as the promise contructor runs, it will automatically run the executor function that we pass in. 
+
+As it runs the executor function, it will pass in two other arguments:
+1) Resolve
