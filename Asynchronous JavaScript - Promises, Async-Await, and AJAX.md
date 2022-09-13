@@ -263,3 +263,5 @@ The value that we return from an async function (100), will become the fufilled 
 Because a promise is returned, all we need to do is use .then on the promise:
 
 ![[Screenshot 2022-09-13 at 20.27.18.png]]
+![[Screenshot 2022-09-13 at 20.27.34.png]]
+
