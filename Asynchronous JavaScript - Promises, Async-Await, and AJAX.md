@@ -239,4 +239,10 @@ Handling errors in async await functions:
 ![[Screenshot 2022-09-13 at 19.58.06.png]]
 All we need to do is to wrap our code inside of the async function into a catch...try block, and the error will propogate down like before.
 
-Adding back the renderError function to display the error message on screen
+Adding back the renderError function to display the error message on screen:
+
+![[Screenshot 2022-09-13 at 20.02.43.png]]
+![[Screenshot 2022-09-13 at 20.03.02.png]]
+![[Screenshot 2022-09-13 at 20.03.28.png]]
+
+Like before, the fetch won't reject the promise if there is an error such as a 403 or 404 
