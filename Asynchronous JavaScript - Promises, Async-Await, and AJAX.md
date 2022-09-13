@@ -224,3 +224,9 @@ We now no longer need to use the .then method, or return any promises manually ^
 ![[Screenshot 2022-09-13 at 18.46.06.png]]
 
 ## Error Handling With try...catch
+In async await functions we can't use the .catch method we were using before, because there isn't anything to attach it to, so we have to use try..catch statements (can be used seperately to async await)
+
+Simple demo of try catch:
+
+![[Screenshot 2022-09-13 at 19.52.10.png]]
+The catch part will get acess to
