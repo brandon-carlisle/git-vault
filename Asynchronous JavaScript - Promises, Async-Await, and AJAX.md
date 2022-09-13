@@ -236,3 +236,7 @@ The catch part will get access to any error that occurs inside of the try block.
 
 Handling errors in async await functions:
 
+![[Screenshot 2022-09-13 at 19.58.06.png]]
+All we need to do is to wrap our code inside of the async function into a catch...try block, and the error will propogate down like before.
+
+Adding back the renderError function to display the error message on screen
