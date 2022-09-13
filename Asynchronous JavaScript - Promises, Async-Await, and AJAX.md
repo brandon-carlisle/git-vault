@@ -189,3 +189,6 @@ Promisifying the geolocation API:
 
 ![[Screenshot 2022-09-13 at 15.07.21.png]]
 
+## Consuming Promises with Async/Await
+SInce ES2017 there is now an easier way to consume promises, called async/await.
+
