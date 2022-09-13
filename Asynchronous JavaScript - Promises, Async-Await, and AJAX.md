@@ -198,4 +198,10 @@ Inside an async function, we can have one or more await statements:
 
 ![[Screenshot 2022-09-13 at 18.19.56.png]]
 
-The await keyword will essentially wait for the result of the promise. Or you 
+The await keyword will essentially wait for the result of the promise. Or you could say the await will stop the code execution at this point of the function until the promise is fufilled.
+
+Isn't await stopping the execution and blocking a bad thing?
+No, because the entire function is running asyncronously in the background, therefore it is not blocking the main thread of execution.
+
+As soon at the fetch promise is resolved, then the value of whole await expression will be the resolved value of the promise.
+
