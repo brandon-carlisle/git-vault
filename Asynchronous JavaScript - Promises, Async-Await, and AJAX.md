@@ -185,3 +185,7 @@ VS
 
 ![[Screenshot 2022-09-13 at 14.46.10.png]]
 
+Promisifying the geolocation API:
+
+![[Screenshot 2022-09-13 at 15.07.21.png]]
+
