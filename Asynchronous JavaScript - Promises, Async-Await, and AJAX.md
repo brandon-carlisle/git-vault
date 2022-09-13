@@ -245,4 +245,7 @@ Adding back the renderError function to display the error message on screen:
 ![[Screenshot 2022-09-13 at 20.03.02.png]]
 ![[Screenshot 2022-09-13 at 20.03.28.png]]
 
-Like before, the fetch won't reject the promise if there is an error such as a 403 or 404 
+Like before, the fetch won't reject the promise if there is an error such as a 403 or 404, so we need to manually throw an error, by checking if the response .ok is false or not:
+
+![[Screenshot 2022-09-13 at 20.10.51.png]]
+
