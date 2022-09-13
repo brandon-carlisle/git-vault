@@ -250,3 +250,9 @@ Like before, the fetch won't reject the promise if there is an error such as a 4
 ![[Screenshot 2022-09-13 at 20.10.51.png]]
 
 ## Returning Values from Async Functions
+Async functions automatically return a promise, see how we try to return something out of the async function, but when we log it to the console, we only get a promise and not the value we specified:
+
+![[Screenshot 2022-09-13 at 20.21.42.png]]
+
+![[Screenshot 2022-09-13 at 20.22.14.png]]
+ 
