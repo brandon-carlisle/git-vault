@@ -192,3 +192,10 @@ Promisifying the geolocation API:
 ## Consuming Promises with Async/Await
 SInce ES2017 there is now an easier way to consume promises, called async/await.
 
+We use the async keyword before the function, and then the code inside of the function will keep running in the backing. Then when the function is done, it will automatically return a promise.
+
+Inside an async function, we can have one or more await statements:
+
+![[Screenshot 2022-09-13 at 18.19.56.png]]
+
+The await keyword will essentially wait for the result of the promise. Or you 
