@@ -165,4 +165,9 @@ Encapsulating the promise function into some async code, such as a setTimeout fu
 
 ![[Screenshot 2022-09-13 at 14.24.19.png]]
 
-Most of the time, we normally only consume promises. Sometime we only build promises to wrap old callback based functions into promises - which is a process called 'Promisification' 
+Most of the time, we normally only consume promises. Sometime we only build promises to wrap old callback based functions into promises - which is a process called 'Promisification'.
+
+Promisifying basically means to convert callback based asyncronous behavour to promise based.
+
+Promisifying the setTimeout function:
+
