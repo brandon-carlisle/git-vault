@@ -205,3 +205,9 @@ No, because the entire function is running asyncronously in the background, ther
 
 As soon at the fetch promise is resolved, then the value of whole await expression will be the resolved value of the promise.
 
+![[Screenshot 2022-09-13 at 18.26.03.png]]
+
+![[Screenshot 2022-09-13 at 18.26.17.png]]
+
+Async/Await is simply just syntactic sugar over the .then method, we are still using promises, this is just a different way of consuming them.
+
