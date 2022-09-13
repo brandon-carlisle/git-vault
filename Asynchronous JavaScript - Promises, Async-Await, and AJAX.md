@@ -179,3 +179,9 @@ Consuming that promise:
 
 This is much better than the callback hell of the setTimeout that looked like this:
 
+![[Screenshot 2022-09-13 at 14.44.18.png]]
+
+VS
+
+![[Screenshot 2022-09-13 at 14.46.10.png]]
+
