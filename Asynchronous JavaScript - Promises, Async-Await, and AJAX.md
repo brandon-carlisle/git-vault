@@ -171,3 +171,7 @@ Promisifying basically means to convert callback based asyncronous behavour to p
 
 Promisifying the setTimeout function:
 
+![[Screenshot 2022-09-13 at 14.36.03.png]]
+
+Consuming that promise:
+
