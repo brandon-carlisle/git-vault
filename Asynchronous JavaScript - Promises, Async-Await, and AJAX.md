@@ -161,3 +161,8 @@ The executor function will contain the async behaivour that we are trying to han
 ![[Code_o3VDeplvxW.png]]
 
 ![[Code_BUrseBtNAn.png]]
+Encapsulating the promise function into some async code, such as a setTimeout function:
+
+![[Screenshot 2022-09-13 at 14.24.19.png]]
+
+Most of the time, we normally only consume promises. Sometime we only build promises to wrap old callback based functions into promises - which is a process called 'Promisification' 
