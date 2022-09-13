@@ -228,5 +228,11 @@ In async await functions we can't use the .catch method we were using before, be
 
 Simple demo of try catch:
 
-![[Screenshot 2022-09-13 at 19.52.10.png]]
-The catch part will get acess to
+![[Screenshot 2022-09-13 at 19.53.37.png]]
+
+The catch part will get access to any error that occurs inside of the try block. Then we can do something with it, such as displaying an alert with the error message.
+
+![[Screenshot 2022-09-13 at 19.53.54.png]]
+
+Handling errors in async await functions:
+
