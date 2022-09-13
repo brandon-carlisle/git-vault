@@ -255,4 +255,11 @@ Async functions automatically return a promise, see how we try to return somethi
 ![[Screenshot 2022-09-13 at 20.21.42.png]]
 
 ![[Screenshot 2022-09-13 at 20.22.14.png]]
- 
+
+In a normal function, the return value would be 100 and we would see it in the console.
+
+The value that we return from an async function (100), will become the fufilled value of the promise that is returned by the function.
+
+Because a promise is returned, all we need to do is use .then on the promise:
+
+![[Screenshot 2022-09-13 at 20.27.18.png]]
