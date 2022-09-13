@@ -158,3 +158,6 @@ As it runs the executor function, it will pass in two other arguments:
 
 The executor function will contain the async behaivour that we are trying to handle with the promise.
 
+![[Code_o3VDeplvxW.png]]
+
+![[Code_BUrseBtNAn.png]]
