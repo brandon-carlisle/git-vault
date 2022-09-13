@@ -221,3 +221,6 @@ We now no longer need to use the .then method, or return any promises manually ^
 
 ![[Screenshot 2022-09-13 at 18.45.51.png]]
 
+![[Screenshot 2022-09-13 at 18.46.06.png]]
+
+## Error Handling With try...catch
