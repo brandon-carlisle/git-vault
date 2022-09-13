@@ -175,3 +175,7 @@ Promisifying the setTimeout function:
 
 Consuming that promise:
 
+![[Screenshot 2022-09-13 at 14.39.51.png]]
+
+This is much better than the callback hell of the setTimeout that looked like this:
+
