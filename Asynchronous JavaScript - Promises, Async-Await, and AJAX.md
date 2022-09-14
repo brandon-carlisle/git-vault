@@ -279,3 +279,4 @@ We can see this in the network tab:
 Instead of running these promises in sequence, we can actually run them in parallel (all at the same time), meaning we save valuable loading time.
 
 We do this by using the Promise.all() function, which takes in an array of promises, and it will return a new promise.
+
