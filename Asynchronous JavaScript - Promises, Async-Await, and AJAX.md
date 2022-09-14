@@ -295,3 +295,8 @@ This should be used whenever you need to run multiple async functions or ajax ca
 Just like all other promise combinators, it receives an array of promises and it also returns a promise.
 
 The promise that is returned by race, is settled as soon as one of the input promises is settled.
+(settled = a value is available, but doesn't matter if the promise is rejected or fufilled)
+
+You could say: 'The first settled promise, wins the race'.
+
+If the winning promise is a fufilled promise, then the fufillment value of whole race promise will be the fufillement value of the winning prom
