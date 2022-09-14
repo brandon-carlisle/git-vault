@@ -266,3 +266,5 @@ Because a promise is returned, all we need to do is use .then on the promise:
 ![[Screenshot 2022-09-13 at 20.27.34.png]]
 
 ## Running Promises in Parallel
+Lets say we want to get data about 3 countries at the same time, but the order doesn't matter:
+
