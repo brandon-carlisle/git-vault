@@ -299,4 +299,7 @@ The promise that is returned by race, is settled as soon as one of the input pro
 
 You could say: 'The first settled promise, wins the race'.
 
-If the winning promise is a fufilled promise, then the fufillment value of whole race promise will be the fufillement value of the winning prom
+If the winning promise is a fufilled promise, then the fufillment value of whole race promise will be the fufillement value of the winning promise.
+
+![[Screenshot 2022-09-14 at 15.03.22.png]]
+
