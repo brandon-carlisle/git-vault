@@ -268,3 +268,9 @@ Because a promise is returned, all we need to do is use .then on the promise:
 ## Running Promises in Parallel
 Lets say we want to get data about 3 countries at the same time, but the order doesn't matter:
 
+![[Screenshot 2022-09-14 at 14.34.32.png]]
+
+Here, this looks right, but what we actually did was run each ajax call one after another, even though we don't need them in order.
+
+We can see this in the network tab:
+
