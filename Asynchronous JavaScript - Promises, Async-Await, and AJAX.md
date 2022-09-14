@@ -303,3 +303,8 @@ If the winning promise is a fufilled promise, then the fufillment value of whole
 
 ![[Screenshot 2022-09-14 at 15.03.22.png]]
 
+### Promise.allSettled
+Introduced in ES2020. Again it takes in an array of promises, and then it will return an array of all the settled promises (no matter if they are rejected or not).
+
+![[Screenshot 2022-09-14 at 18.02.32.png]]
+
