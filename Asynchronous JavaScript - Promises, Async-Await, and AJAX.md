@@ -285,3 +285,13 @@ We do this by using the Promise.all() function, which takes in an array of promi
 Now we should see all the countries been loaded at the same time, compared to the previous network tab:
 
 ![[Screenshot 2022-09-14 at 14.51.50.png]]
+
+Note: If one of the promise rejects, then the whole promise.all rejects. 
+
+This should be used whenever you need to run multiple async functions or ajax calls and they don't need to be ran in order.
+
+## Other Promise Combinators: race, allSettled and any
+### Promise.race
+Just like all other promise combinators, it receives an array of promises and it also returns a promise.
+
+The promise that is returned by race, is settled as soon as one of the input promises is settled.
