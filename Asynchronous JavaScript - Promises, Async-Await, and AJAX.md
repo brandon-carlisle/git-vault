@@ -280,3 +280,8 @@ Instead of running these promises in sequence, we can actually run them in paral
 
 We do this by using the Promise.all() function, which takes in an array of promises, and it will return a new promise.
 
+![[Screenshot 2022-09-14 at 14.51.00.png]]
+
+Now we should see all the countries been loaded at the same time, compared to the previous network tab:
+
+![[Screenshot 2022-09-14 at 14.51.50.png]]
