@@ -11,3 +11,6 @@
 ![[msedge_fNii2sqNZN.png]]
 
 ## Exporting and Importing in ES6 Modules
+To create a new module:
+
+Create a file with its name in camelCase. 
