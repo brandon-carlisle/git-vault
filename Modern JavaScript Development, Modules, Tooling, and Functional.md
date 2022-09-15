@@ -56,3 +56,5 @@ This works like importing an object, so see syntax below on how to use from the 
 
 Default Exports:
 
+Usually we use default exports when we only want to export one thing per module.
+
