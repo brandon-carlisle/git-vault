@@ -8,3 +8,6 @@
 
 ![[msedge_FNBwHbUt5j.png]]
 
+![[msedge_fNii2sqNZN.png]]
+
+## Exporting and Importing in ES6 Modules
