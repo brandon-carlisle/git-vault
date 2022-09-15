@@ -46,5 +46,13 @@ We can use aliases (change the name) of these imports like this:
 ![[Screenshot 2022-09-15 at 17.16.13.png]]
 This also works in the export as well ^.
 
-We can also import all the exports of a certain module at the same time:
+We can also import all the exports of a certain module at the same time
+
+This works like importing an object, so see syntax below on how to use from the shopping cart module:
+
+![[Screenshot 2022-09-15 at 17.21.26.png]]
+
+---------------------
+
+Default Exports:
 
