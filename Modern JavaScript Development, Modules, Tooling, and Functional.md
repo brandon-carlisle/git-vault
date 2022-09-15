@@ -35,3 +35,9 @@ Using named exports/imports:
 ![[Screenshot 2022-09-15 at 17.07.40.png]]
 Notice with named imports we need to make sure the name is the same of the thing we want to inport, and to add the curly braces when we import it.
 
+Exports always need to happen in top level code!
+
+Exporting multiple things from a module using names exports:
+
+![[Screenshot 2022-09-15 at 17.14.47.png]]
+![[Screenshot 2022-09-15 at 17.14.57.png]]
