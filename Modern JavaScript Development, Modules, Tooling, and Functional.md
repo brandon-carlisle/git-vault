@@ -21,3 +21,11 @@ Notice the exporting module log gets ran first.
 
 Defining variables:
 
+Variables that are defined inside a module, are scoped to that module (by default, all top level variables are private inside that module).
+
+![[Screenshot 2022-09-15 at 17.01.42.png]]
+![[Screenshot 2022-09-15 at 17.01.53.png]]
+If we wanted to use these variables inside the script.js module, then we would have to use exports:
+
+In ES Modules, there are two types of exports - named exports and default exports.
+
