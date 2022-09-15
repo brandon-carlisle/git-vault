@@ -29,3 +29,9 @@ If we wanted to use these variables inside the script.js module, then we would h
 
 In ES Modules, there are two types of exports - named exports and default exports.
 
+Using named exports/imports:
+
+![[Screenshot 2022-09-15 at 17.07.30.png]]
+![[Screenshot 2022-09-15 at 17.07.40.png]]
+Notice with named imports we need to make sure the name is the same of the thing we want to inport, and to add the curly braces when we import it.
+
