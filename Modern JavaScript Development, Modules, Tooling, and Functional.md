@@ -6,3 +6,5 @@
 ## An Overview of Modules in JavaScript
 ![[msedge_wW77rb6WeY.png]]
 
+![[msedge_FNBwHbUt5j.png]]
+
