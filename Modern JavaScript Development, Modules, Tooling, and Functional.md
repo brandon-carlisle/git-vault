@@ -58,3 +58,8 @@ Default Exports:
 
 Usually we use default exports when we only want to export one thing per module.
 
+![[Screenshot 2022-09-15 at 17.43.21.png]]
+![[Screenshot 2022-09-15 at 17.43.29.png]]
+We can give the import any name we want using default exports.
+
+Note: Try not to mix named imports with default imports.
