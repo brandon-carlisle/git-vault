@@ -99,3 +99,11 @@ We start with an IIFE, because then we don't need to call it ourselfs, and we ca
 
 The only purpose of the IIFE is to create a new scope, and return data once.
 
+![[Screenshot 2022-09-16 at 14.58.27.png]]
+Right now all of the data is private, because it is inside the scope of the function.
+All we have to do is to return some of the data to make it public and store the IIFE into a variable.
+
+![[Screenshot 2022-09-16 at 15.02.08.png]]
+Now we can access the data we made available outside of the function.
+
+
