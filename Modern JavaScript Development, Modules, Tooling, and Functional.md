@@ -73,4 +73,7 @@ Demo with a fetch request:
 
 This looks great but it actually blocks the execution on the entire module now. This wasn't the case while using async functions. This can be useful in some situations, but most of the time not.
 
-Many times, we have a situation where we do have an async function that we want to return some data. 
+Many times, we have a situation where we do have an async function that we want to return some data.
+
+Here we just want to return the last post from some API, using an async function. As it is an async function, whenever we return something from it, it will always return a promise. 
+
