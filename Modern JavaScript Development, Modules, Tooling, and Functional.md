@@ -114,3 +114,4 @@ Closures allow a function to have access to all the variables that were present 
 
 The problem with the module pattern is, if we wanted one module per file we would have to create different scripts and link all of them in the HTML file. This makes it difficult, because we have to be careful on the order in which we link them etc. We also wouldn't be able to bundle them together using a module bundler such as parcel and webpack.
 
+## CommonJS Modules
