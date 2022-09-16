@@ -117,4 +117,11 @@ The problem with the module pattern is, if we wanted one module per file we woul
 ## CommonJS Modules
 Besides native ES Modules and the module pattern, there are also other module systems that have been used in the past.
 
-Two examples are AMD modules and CommonJS modules. 
+Two examples are AMD modules and CommonJS modules.
+
+CommonJS modules are important because they have been used in Node.js for all of its existence. Almost all the modules in the NPM repo, use CommonJS module system.
+
+What does it look like?
+
+![[Screenshot 2022-09-16 at 15.49.57.png]]
+
