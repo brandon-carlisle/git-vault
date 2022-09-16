@@ -97,3 +97,5 @@ How the module pattern is implemented:
 
 We start with an IIFE, because then we don't need to call it ourselfs, and we can ensure it is called immedietly and once.
 
+The only purpose of the IIFE is to create a new scope, and return data once.
+
