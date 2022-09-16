@@ -106,4 +106,8 @@ All we have to do is to return some of the data to make it public and store the 
 ![[Screenshot 2022-09-16 at 15.02.08.png]]
 Now we can access the data we made available outside of the function.
 
+![[Screenshot 2022-09-16 at 15.04.59.png]]
+![[Screenshot 2022-09-16 at 15.05.13.png]]
+Even though the IIFE has actually finished running already, and we can still access the data that we returned, is because of closures! 
 
+Closures allow a function to have access to all the variables that were present at its birthplace.
