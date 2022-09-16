@@ -88,3 +88,5 @@ We can use top level await here on the returned value of the function call to ge
 
 Another implication of using top level await is that, if one module imports a module that has a top level await - then the importing module will wait for the imported module to finish the blocking code.
 
+## The Module Pattern
+The module pattern is the 'old way' of implementing modules in JavaScript. Just like in regular modules, the main goal of the module pattern is to encapsulate functionality, to have private 
