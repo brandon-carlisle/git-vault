@@ -63,3 +63,7 @@ Usually we use default exports when we only want to export one thing per module.
 We can give the import any name we want using default exports.
 
 Note: Try not to mix named imports with default imports.
+
+## Top-Level await (ES2022)
+In ES2022, we can now use the await keyword outside of async functions, this only works in modules.
+
