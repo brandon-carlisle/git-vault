@@ -111,3 +111,6 @@ Now we can access the data we made available outside of the function.
 Even though the IIFE has actually finished running already, and we can still access the data that we returned, is because of closures! 
 
 Closures allow a function to have access to all the variables that were present at its birthplace.
+
+The problem with the module pattern is, if we wanted one module per file we would have to create different scripts and link all of them in the HTML file. This makes it difficult, because we have to be careful on the order in which we link them etc. We also wouldn't be able to bundle them together using a module bundler such as parcel and webpack.
+
