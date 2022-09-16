@@ -77,3 +77,14 @@ Many times, we have a situation where we do have an async function that we want 
 
 Here we just want to return the last post from some API, using an async function. As it is an async function, whenever we return something from it, it will always return a promise. 
 
+![[Screenshot 2022-09-16 at 14.38.22.png]]
+![[Screenshot 2022-09-16 at 14.38.38.png]]
+The way to get around the before would be to then call the .then method on the returned value, but this looks messy.
+
+We can use top level await here on the returned value of the function call to get the data from it, and not the promise:
+
+![[Screenshot 2022-09-16 at 14.40.23.png]]
+![[Screenshot 2022-09-16 at 14.40.32.png]]
+
+Another implication of using top level await is that, if one module imports a module that has a top level await - then the importing module will wait for the imported module to finish the blocking code.
+
