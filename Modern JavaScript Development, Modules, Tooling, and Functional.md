@@ -125,3 +125,4 @@ What does it look like?
 
 ![[Screenshot 2022-09-16 at 15.49.57.png]]
 
+## A Brief Introduction to the Command Line
