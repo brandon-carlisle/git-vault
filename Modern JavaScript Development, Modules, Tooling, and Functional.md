@@ -73,3 +73,4 @@ Demo with a fetch request:
 
 This looks great but it actually blocks the execution on the entire module now. This wasn't the case while using async functions. This can be useful in some situations, but most of the time not.
 
+Many times, we have a situation where we do have an async function that we want to return some data. 
