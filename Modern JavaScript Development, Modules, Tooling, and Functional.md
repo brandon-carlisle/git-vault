@@ -67,3 +67,5 @@ Note: Try not to mix named imports with default imports.
 ## Top-Level await (ES2022)
 In ES2022, we can now use the await keyword outside of async functions, this only works in modules.
 
+Demo with a fetch request:
+
