@@ -133,3 +133,5 @@ What does it look like?
 ## Declarative and Functional JavaScript Principles
 ![[Screenshot 2022-09-17 at 22.06.23.png]]
 
+![[Screenshot 2022-09-17 at 22.15.38.png]]
+
