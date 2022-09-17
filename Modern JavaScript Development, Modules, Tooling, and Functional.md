@@ -130,3 +130,4 @@ What does it look like?
 
 ![[Screenshot 2022-09-17 at 21.22.39.png]]
 
+## Declarative and Functional JavaScript Principles
