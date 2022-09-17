@@ -128,3 +128,5 @@ What does it look like?
 ## Review: Writing Clean and Modern JavaScript
 ![[Screenshot 2022-09-17 at 21.19.03.png]]
 
+![[Screenshot 2022-09-17 at 21.22.39.png]]
+
