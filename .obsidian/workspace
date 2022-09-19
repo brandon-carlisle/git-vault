@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Modern JavaScript Development, Modules, Tooling, and Functional.md",
+            "file": "Building a Modern Application in JavaScript.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Modern JavaScript Development, Modules, Tooling, and Functional.md",
+                "file": "Building a Modern Application in JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,13 +89,13 @@
   },
   "active": "e8cbe707dd240444",
   "lastOpenFiles": [
+    "Modern JavaScript Development, Modules, Tooling, and Functional.md",
     "Advanced DOM and Events in JavaScript.md",
     "A Closer Look at Functions in JavaScript.md",
     "Working with Arrays in JavaScript.md",
     "OOP, Geolocation, External Libraries, and More in JavaScript.md",
     "Object-Oriented Programming (OOP) With JavaScript.md",
     "Numbers, Dates, Intl and Timers in JavaScript.md",
-    "Modern JavaScript Development, Modules, Tooling, and Functional.md",
     "Asynchronous JavaScript - Promises, Async-Await, and AJAX.md",
     "JavaScript.md",
     "attachments/Screenshot 2022-08-16 at 16.43.20.png"
