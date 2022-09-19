@@ -2,3 +2,5 @@
 ## The MVC Architecture
 ![[Screenshot 2022-09-19 at 18.57.06.png]]
 
+![[Screenshot 2022-09-19 at 19.01.14.png]]
+
