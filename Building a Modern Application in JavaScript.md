@@ -11,3 +11,5 @@
 ![[Screenshot 2022-09-19 at 19.11.02.png]]
 
 ## Event Handlers in MVC: Publisher-Subscriber Pattern
+![[Screenshot 2022-09-21 at 19.09.24.png]]
+
