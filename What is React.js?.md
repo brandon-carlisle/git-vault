@@ -8,4 +8,5 @@ React apps can feel like 'mobile apps'.
 - Things happen instantly
 - A client side JS library
 - All about building modern, reactive UI's for the web
-- 
+- Declarative, component focussed approach
+
