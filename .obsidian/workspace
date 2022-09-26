@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "OOP, Geolocation, External Libraries, and More in JavaScript.md",
-            "mode": "preview",
+            "file": "What is React.js?.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OOP, Geolocation, External Libraries, and More in JavaScript.md",
+                "file": "What is React.js?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "e8cbe707dd240444",
   "lastOpenFiles": [
-    "Advanced DOM and Events in JavaScript.md",
-    "Building a Modern Application in JavaScript.md",
-    "Modern JavaScript Development, Modules, Tooling, and Functional.md",
-    "Asynchronous JavaScript - Promises, Async-Await, and AJAX.md",
-    "A Closer Look at Functions in JavaScript.md",
-    "Working with Arrays in JavaScript.md",
-    "OOP, Geolocation, External Libraries, and More in JavaScript.md",
-    "Object-Oriented Programming (OOP) With JavaScript.md",
-    "Numbers, Dates, Intl and Timers in JavaScript.md",
-    "JavaScript.md"
+    "JavaScript/Modern JavaScript Development, Modules, Tooling, and Functional.md",
+    "JavaScript/A Closer Look at Functions in JavaScript.md",
+    "JavaScript/Building a Modern Application in JavaScript.md",
+    "JavaScript/Advanced DOM and Events in JavaScript.md",
+    "JavaScript/OOP, Geolocation, External Libraries, and More in JavaScript.md",
+    "JavaScript/Asynchronous JavaScript - Promises, Async-Await, and AJAX.md",
+    "JavaScript/Working with Arrays in JavaScript.md",
+    "JavaScript/Object-Oriented Programming (OOP) With JavaScript.md",
+    "JavaScript/Numbers, Dates, Intl and Timers in JavaScript.md",
+    "JavaScript/JavaScript.md"
   ]
 }
