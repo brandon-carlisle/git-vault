@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/Building a Modern Application in JavaScript.md",
-            "mode": "source",
+            "file": "JavaScript/Asynchronous JavaScript - Promises, Async-Await, and AJAX.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/Building a Modern Application in JavaScript.md",
+                "file": "JavaScript/Asynchronous JavaScript - Promises, Async-Await, and AJAX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +89,8 @@
   },
   "active": "e8cbe707dd240444",
   "lastOpenFiles": [
-    "JavaScript/JavaScript.md",
     "JavaScript/Building a Modern Application in JavaScript.md",
+    "JavaScript/JavaScript.md",
     "JavaScript/Advanced DOM and Events in JavaScript.md",
     "JavaScript/A Closer Look at Functions in JavaScript.md",
     "JavaScript/Working with Arrays in JavaScript.md",
