@@ -14,3 +14,10 @@ React uses a 'declarative' approach for building components.
 
 We just need to define the desired target state(s) and let react figure out the actual JavaScript DOM instructions.
 
+## Writing More Complex JSX Code
+In react, we can write HTML inside of JavaScript using something called JSX.
+
+![[Screenshot 2022-09-29 at 18.07.12.png]]
+
+In a react component, we can only return one 'root' element. A workaround of this is to just wrap our JSX inside of another div like in the example above.
+
