@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/Asynchronous JavaScript - Promises, Async-Await, and AJAX.md",
+            "file": "React/JavaScript Refresher.md",
             "mode": "preview",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/Asynchronous JavaScript - Promises, Async-Await, and AJAX.md",
+                "file": "React/JavaScript Refresher.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "e8cbe707dd240444",
   "lastOpenFiles": [
+    "JavaScript/Asynchronous JavaScript - Promises, Async-Await, and AJAX.md",
     "JavaScript/Building a Modern Application in JavaScript.md",
     "JavaScript/JavaScript.md",
     "JavaScript/Advanced DOM and Events in JavaScript.md",
@@ -97,7 +98,6 @@
     "JavaScript/OOP, Geolocation, External Libraries, and More in JavaScript.md",
     "JavaScript/Object-Oriented Programming (OOP) With JavaScript.md",
     "JavaScript/Numbers, Dates, Intl and Timers in JavaScript.md",
-    "JavaScript/Modern JavaScript Development, Modules, Tooling, and Functional.md",
-    "React/What is React.js?.md"
+    "JavaScript/Modern JavaScript Development, Modules, Tooling, and Functional.md"
   ]
 }
