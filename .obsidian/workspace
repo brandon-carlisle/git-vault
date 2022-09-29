@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "React/JavaScript Refresher.md",
-            "mode": "preview",
+            "file": "React/React Basics & Working With Components.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/JavaScript Refresher.md",
+                "file": "React/React Basics & Working With Components.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,8 +87,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e8cbe707dd240444",
+  "active": "d89ced64a9a90222",
   "lastOpenFiles": [
+    "React/JavaScript Refresher.md",
     "JavaScript/Asynchronous JavaScript - Promises, Async-Await, and AJAX.md",
     "JavaScript/Building a Modern Application in JavaScript.md",
     "JavaScript/JavaScript.md",
@@ -97,7 +98,6 @@
     "JavaScript/Working with Arrays in JavaScript.md",
     "JavaScript/OOP, Geolocation, External Libraries, and More in JavaScript.md",
     "JavaScript/Object-Oriented Programming (OOP) With JavaScript.md",
-    "JavaScript/Numbers, Dates, Intl and Timers in JavaScript.md",
-    "JavaScript/Modern JavaScript Development, Modules, Tooling, and Functional.md"
+    "JavaScript/Numbers, Dates, Intl and Timers in JavaScript.md"
   ]
 }
