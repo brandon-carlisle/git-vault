@@ -21,3 +21,8 @@ In react, we can write HTML inside of JavaScript using something called JSX.
 
 In a react component, we can only return one 'root' element. A workaround of this is to just wrap our JSX inside of another div like in the example above.
 
+## Outputting Dynamic Data & Working with Expressions in JSX
+We can pass in JS values just like we were using template literals, but we just use the curly braces to do this:
+
+![[Screenshot 2022-09-29 at 18.30.15.png]]
+
