@@ -27,4 +27,10 @@ We can pass in JS values just like we were using template literals, but we just 
 ![[Screenshot 2022-09-29 at 18.30.15.png]]
 
 ## Passing Data via "props"
-In react we can make our components reusable by passing in pa
+In react we can make our components reusable by passing in parameters and using a concept called props.
+
+![[Screenshot 2022-09-30 at 14.09.40.png]]
+
+- Components can't just use data stored in other components.
+
+Instead of this, we can pass dat
