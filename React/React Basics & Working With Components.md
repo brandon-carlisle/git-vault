@@ -51,3 +51,6 @@ Receiving that data as a props argument into our custom component and then using
 ![[Screenshot 2022-09-30 at 14.30.55.png]]
 We can now make as many as we want and just change the index in the App file.
 ![[Screenshot 2022-09-30 at 14.31.43.png]]![[Screenshot 2022-09-30 at 14.32.21.png]]
+## Adding "normal" JavaScript Logic to Components
+Here we can fix up the date to make it look more readable by doing some work on the date inside of the ExpenseItem component:
+
