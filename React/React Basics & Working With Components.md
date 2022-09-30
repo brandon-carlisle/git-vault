@@ -33,4 +33,9 @@ In react we can make our components reusable by passing in parameters and using 
 
 - Components can't just use data stored in other components.
 
-Instead of this, we can pass dat
+Instead of this, we can pass data to the custom component by adding an attribute, and then inside of the custom component we get access to these attributes.
+
+Just as HTML elements can have attributes, in React, our own custom components can also have attributes - this concept is just called 'props' which just means properties.
+
+- We can set properties (props) of our own custom compoenents.
+
