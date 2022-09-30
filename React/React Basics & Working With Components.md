@@ -39,3 +39,13 @@ Just as HTML elements can have attributes, in React, our own custom components c
 
 - We can set properties (props) of our own custom compoenents.
 
+Defining the data inside of our App:
+![[Screenshot 2022-09-30 at 14.27.50.png]]
+
+Passing the data inside of our custom component inside App:
+![[Screenshot 2022-09-30 at 14.28.40.png]]
+
+Receiving that data as a props argument into our custom component and then using it inside of the JSX:
+![[Screenshot 2022-09-30 at 14.29.39.png]]
+
+![[Screenshot 2022-09-30 at 14.30.55.png]]
