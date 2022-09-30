@@ -26,3 +26,5 @@ We can pass in JS values just like we were using template literals, but we just 
 
 ![[Screenshot 2022-09-29 at 18.30.15.png]]
 
+## Passing Data via "props"
+In react we can make our components reusable by passing in pa
