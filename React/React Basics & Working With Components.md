@@ -54,3 +54,4 @@ We can now make as many as we want and just change the index in the App file.
 ## Adding "normal" JavaScript Logic to Components
 Here we can fix up the date to make it look more readable by doing some work on the date inside of the ExpenseItem component:
 
+![[Screenshot 2022-09-30 at 14.55.00.png]]
