@@ -15,3 +15,5 @@ State is not a react specific concept, but it is a key concept in react.
 
 We first need to import a function called useState which will allow us to define values as state, where changes to the these values should reflect in the component function been called again
 
+useState is a so called 'hook'. All the react hooks can be recognised by the word 'use'. These hooks must also only be called inside of react component functions (or nested functions).
+
