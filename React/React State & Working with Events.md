@@ -17,3 +17,8 @@ We first need to import a function called useState which will allow us to define
 
 useState is a so called 'hook'. All the react hooks can be recognised by the word 'use'. These hooks must also only be called inside of react component functions (or nested functions).
 
+![[Screenshot 2022-10-01 at 14.42.53.png]]
+![[Screen Recording 2022-10-01 at 14.43.27.mov]]
+
+In React, if you have data which might change and where changes to that data should be reflected on the UI, then you need state.
+
