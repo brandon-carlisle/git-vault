@@ -3,3 +3,6 @@
 In React, for all events in JavaScript there is a prop equivalent (such as the click event).
 
 ![[Screenshot 2022-10-01 at 14.07.25.png]]
+## How Component Functions Are Executed
+Reacting to events is the first important step, how can we now change what is on the screen? 
+
