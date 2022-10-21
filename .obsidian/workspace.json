@@ -1,0 +1,125 @@
+{
+  "main": {
+    "id": "c9b926726a11bf06",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e0fc88f0892c93f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8cbe707dd240444",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/React State & Working with Events.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b87ed2f374fbe688",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.0"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a32cd58da0d457d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "79b8c16e548cf00d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d89ced64a9a90222",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9555cd99bac09bf1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c625e5cc0b5de280",
+    "type": "split",
+    "children": [
+      {
+        "id": "8eaf494fb094b6fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35810973a8ffb53f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "React/React State & Working with Events.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "b87ed2f374fbe688",
+  "lastOpenFiles": [
+    "React/What is React.js?.md",
+    "React/React State & Working with Events.md",
+    "React/React Basics & Working With Components.md",
+    "React/JavaScript Refresher.md",
+    "JavaScript/Asynchronous JavaScript - Promises, Async-Await, and AJAX.md",
+    "JavaScript/Building a Modern Application in JavaScript.md",
+    "JavaScript/JavaScript.md",
+    "JavaScript/Advanced DOM and Events in JavaScript.md",
+    "JavaScript/A Closer Look at Functions in JavaScript.md",
+    "JavaScript/Working with Arrays in JavaScript.md"
+  ]
+}
