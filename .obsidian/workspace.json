@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "React/React Hooks.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -101,6 +101,7 @@
   "active": "f712acebcebf63d4",
   "lastOpenFiles": [
     "React/React State & Working with Events.md",
+    "React/React Hooks.md",
     "React/JavaScript Refresher.md",
     "React/What is React.js?.md",
     "JavaScript/Object-Oriented Programming (OOP) With JavaScript.md",
@@ -108,7 +109,6 @@
     "React/React Basics & Working With Components.md",
     "JavaScript/Asynchronous JavaScript - Promises, Async-Await, and AJAX.md",
     "JavaScript/JavaScript.md",
-    "JavaScript/Advanced DOM and Events in JavaScript.md",
-    "JavaScript/A Closer Look at Functions in JavaScript.md"
+    "JavaScript/Advanced DOM and Events in JavaScript.md"
   ]
 }

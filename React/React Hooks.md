@@ -10,4 +10,40 @@ As useState always returns two values, we can use destructuring to take the two 
 
 `const [count, setCount] = useState(0)`
 
-Any time where you are setting state, and using the previous state to create the new value, you need to use the 'function version' of setting state. For example, instead of
+Any time where you are setting state, and using the previous state to create the new value, you need to use the 'function version' of setting state. For example, instead of doing this:
+
+```
+import { useState } from 'react';
+
+export default function Counter() {
+  const [count, setCount] = useState(0);
+
+  function decrementCount() {
+    setCount(count - 1);
+  }
+
+  return (
+    <button onClick={decrementCount}>-</button>
+      <span>{count}</span>
+    <button>+</button>
+  );
+}
+```
+Do this instead:
+```
+import { useState } from 'react';
+
+export default function Counter() {
+  const [count, setCount] = useState(0);
+
+  function decrementCount() {
+    setCount((prevCount) => prevCount - 1);
+  }
+
+  return (
+    <button onClick={decrementCount}>-</button>
+      <span>{count}</span>
+    <button>+</button>
+  );
+}
+```
