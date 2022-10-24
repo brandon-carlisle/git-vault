@@ -91,5 +91,7 @@ When we pass in the dependency array, the function in the useEffect will only re
 
 We can also add a 'clean-up' function to useEffect. This will run during unmount and also before every re-render with changed dependencies. This is very useful for things like 'disconnecting' and clearing intervals and timers etc. We just need to return the cleanup function from the useEffect.
 
-Here's an example of a component updated
+Here's an example of a component updates every second:
+
+
 
