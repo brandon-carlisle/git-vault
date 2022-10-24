@@ -74,9 +74,14 @@ export default function Counter() {
 
 ## useEffect
 
-In the React component lifecycle there is three main phases: 
+>In the React component lifecycle there is three main phases: 
+>
+>1) Component mounts when it's added to the screen
+>2) Component updates when it receives new state
+>3) Component unmounts when it's removed from the screen
 
-1) Component mounts when it's added to the screen
-2) Component updates when it receives new state
-3) Component unmounts when it's removed from the screen
+useEffect is a function, that will take a function that you define as an argument. React will then run your function after it has updated the DOM.
+
+In its default behaviour, the function inside of the useEffect will run every time the component is re-rendered. 
+
 
