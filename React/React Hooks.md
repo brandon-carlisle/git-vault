@@ -12,7 +12,7 @@ As useState always returns two values, we can use destructuring to take the two 
 
 Any time where you are setting state, and using the previous state to create the new value, you need to use the 'function version' of setting state. For example, instead of doing this:
 
-```
+```javascript
 import { useState } from 'react';
 
 export default function Counter() {
@@ -30,7 +30,7 @@ export default function Counter() {
 }
 ```
 Do this instead:
-```
+```javascript
 import { useState } from 'react';
 
 export default function Counter() {
@@ -54,7 +54,7 @@ This can be fine in a small counter, as we are just passing in the value 0 as th
 
 This can be addressed by passing a function into useState and an argument. This function will only the very first time your component renders.
 
-```
+```javascript
 import { useState } from 'react';
 
 export default function Counter() {
