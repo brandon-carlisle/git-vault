@@ -89,4 +89,7 @@ When we pass in the dependency array, the function in the useEffect will only re
 - If you add an empty dependency array, it will only run once when the component is first mounted.
 - When you pass in state to the dependency array, it will also run whenever that state you pass in changes.
 
+We can also add a 'clean-up' function to useEffect. This will run during unmount and also before every re-render with changed dependencies. This is very useful for things like 'disconnecting' and clearing intervals and timers etc. We just need to return the cleanup function from the useEffect.
+
+Here's an example of a component updated
 
