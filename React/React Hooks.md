@@ -47,3 +47,7 @@ export default function Counter() {
   );
 }
 ```
+
+We pass in the default state as an argument to useState. Setting the default value of useState will actually run everytime our component re-renders (so essentially everytime we set the set as this also triggers a re-render). 
+
+This can be fine 
