@@ -73,4 +73,10 @@ export default function Counter() {
 ```
 
 ## useEffect
-In the React component lifecyle 
+
+In the React component lifecycle there is three main phases: 
+
+1) Component mounts when it's added to the screen
+2) Component updates when it receives new state
+3) Component unmounts when it's removed from the screen
+
