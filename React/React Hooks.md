@@ -10,3 +10,4 @@ As useState always returns two values, we can use destructuring to take the two 
 
 `const [count, setCount] = useState(0)`
 
+Any time where you are setting state, and using the previous state to create the new value, you need to use the 'function version' of setting state. For example, instead of
