@@ -73,3 +73,4 @@ export default function Counter() {
 ```
 
 ## useEffect
+In the React component lifecyle 
