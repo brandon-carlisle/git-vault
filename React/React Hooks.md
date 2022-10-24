@@ -50,4 +50,24 @@ export default function Counter() {
 
 We pass in the default state as an argument to useState. Setting the default value of useState will actually run everytime our component re-renders (so essentially everytime we set the set as this also triggers a re-render). 
 
-This can be fine 
+This can be fine in a small counter, as we are just passing in the value 0 as the default state. But the problem is if we have a big computation as the initial state, it wouldn't be optimal to run the same code every time we re-render.
+
+This can be addressed by passing a function into useState and an argument. This function will only the very first time your component renders.
+
+```
+import { useState } from 'react';
+
+export default function Counter() {
+  const [count, setCount] = useState(() => 0);
+
+  function decrementCount() {
+    setCount((prevCount) => prevCount - 1);
+  }
+
+  return (
+    <button onClick={decrementCount}>-</button>
+      <span>{count}</span>
+    <button>+</button>
+  );
+}
+```
