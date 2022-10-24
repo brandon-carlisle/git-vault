@@ -93,5 +93,26 @@ We can also add a 'clean-up' function to useEffect. This will run during unmount
 
 Here's an example of a component updates every second:
 
+```javascript
+
+function App() {
+const [seconds, setSeconds] = useState(1);
+
+useEffect(() => {
+	const timer = setInterval(() => {
+	setSeconds(seconds + 1);
+}, 1000);
+	return () => clearInterval(timer);
+});
+
+return (
+	<div className="App">
+		<h1>Number of seconds is {seconds}</h1>
+	</div>
+	);
+}
+
+export default App
+```
 
 
