@@ -82,6 +82,11 @@ export default function Counter() {
 
 useEffect is a function, that will take a function that you define as an argument. React will then run your function after it has updated the DOM.
 
-In its default behaviour, the function inside of the useEffect will run every time the component is re-rendered. 
+In its default behaviour, the function inside of the useEffect will run every time the component is re-rendered. This behaviour can be changed by passing in a 'dependency' array as the second argument to the useEffect function.
+
+When we pass in the dependency array, the function in the useEffect will only rerun if any of your dependencies change.
+
+- If you add an empty dependency array, it will only run once when the component is first mounted.
+- When you pass in state to the dependency array, it will also run whenever that state you pass in changes.
 
 
