@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/JavaScript Refresher.md",
+                "file": "JavaScript/Advanced DOM and Events in JavaScript.md",
                 "mode": "preview",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/JavaScript Refresher.md",
+                "file": "JavaScript/Advanced DOM and Events in JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,13 +97,13 @@
   },
   "active": "f712acebcebf63d4",
   "lastOpenFiles": [
+    "React/JavaScript Refresher.md",
     "JavaScript/OOP, Geolocation, External Libraries, and More in JavaScript.md",
     "JavaScript/Object-Oriented Programming (OOP) With JavaScript.md",
     "JavaScript/Working with Arrays in JavaScript.md",
     "React/What is React.js.md",
     "React/React Hooks.md",
     "React/React State & Working with Events.md",
-    "React/JavaScript Refresher.md",
     "React/What is React.js?.md",
     "JavaScript/Building a Modern Application in JavaScript.md",
     "React/React Basics & Working With Components.md"
