@@ -97,15 +97,15 @@
   },
   "active": "79f93e71d698e64e",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "React/React State & Working with Events.md",
     "React/React Hooks.md",
+    "React/React State & Working with Events.md",
+    "React/Redux.md",
+    "conflict-files-obsidian-git.md",
     "React/JavaScript Refresher.md",
     "React/What is React.js?.md",
     "JavaScript/Object-Oriented Programming (OOP) With JavaScript.md",
     "JavaScript/Building a Modern Application in JavaScript.md",
     "React/React Basics & Working With Components.md",
-    "JavaScript/Asynchronous JavaScript - Promises, Async-Await, and AJAX.md",
-    "JavaScript/JavaScript.md"
+    "JavaScript/Asynchronous JavaScript - Promises, Async-Await, and AJAX.md"
   ]
 }
