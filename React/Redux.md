@@ -7,3 +7,9 @@ Redux is a state-management system for cross component or app-wide state.
 
 ![[Screenshot 2022-11-17 at 15.02.45.png]]
 
+## How Redux Works
+Core Redux concepts:
+- central data (state) store
+- components never directly manipulate the store data
+- we use a concept called reducers (functions)
+- components 'dispatch' certain 'actions'
