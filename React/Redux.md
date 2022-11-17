@@ -12,4 +12,7 @@ Core Redux concepts:
 - central data (state) store
 - components never directly manipulate the store data
 - we use a concept called reducers (functions)
-- components 'dispatch' certain 'actions'
+- components 'dispatch(trigger)' certain 'actions' that are forwarded to the reducer
+
+![[Screenshot 2022-11-17 at 17.06.58.png]]
+
