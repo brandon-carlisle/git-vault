@@ -17,3 +17,5 @@ Core Redux concepts:
 ![[Screenshot 2022-11-17 at 17.06.58.png]]
 
 ![[Screenshot 2022-11-17 at 17.15.58.png]]
+
+## Redux & Side Effects (and Asynchronous code)
