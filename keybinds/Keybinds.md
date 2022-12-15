@@ -10,7 +10,7 @@
 
 - React
 - NextJS
-- NextUI + CSS
+- CSS Modules
 - Firebase
 
 ## Basic flow of using the app
@@ -29,4 +29,9 @@
 1)  Visiting keybinds.app/brandon 
 2)  Will have two tabs, Liked configs & My configs
 3) Each tab will have a list of all the relevant configs with the ability to filter by game
-4) 
+
+### As a user viewing someone else's profile
+
+1)  Visiting keybinds.app/brandon 
+2)  Will have two tabs, Liked configs & My configs
+3) Each tab will have a list of all the relevant configs with the ability to filter by game
