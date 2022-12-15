@@ -10,7 +10,7 @@
 
 - React
 - NextJS
-- CSS Modules
+- NextUI + CSS
 - Firebase
 
 ## Basic flow of using the app
