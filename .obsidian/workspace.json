@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "8d16945f50ca97c5",
+        "id": "1503ad20c79a4b0c",
         "type": "tabs",
         "children": [
           {
-            "id": "79f93e71d698e64e",
+            "id": "f712acebcebf63d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/Redux.md",
+                "file": "JavaScript/Advanced DOM and Events in JavaScript.md",
                 "mode": "preview",
                 "source": false
               }
             }
+          },
+          {
+            "id": "f817ccd9221d3a90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "keybinds/Keybinds.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/Redux.md",
+                "file": "keybinds/Keybinds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,17 +108,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "79f93e71d698e64e",
+  "active": "f817ccd9221d3a90",
   "lastOpenFiles": [
-    "React/React State & Working with Events.md",
-    "React/React Hooks.md",
-    "React/Redux.md",
-    "conflict-files-obsidian-git.md",
+    "JavaScript/Advanced DOM and Events in JavaScript.md",
     "React/JavaScript Refresher.md",
-    "React/What is React.js?.md",
+    "JavaScript/OOP, Geolocation, External Libraries, and More in JavaScript.md",
     "JavaScript/Object-Oriented Programming (OOP) With JavaScript.md",
-    "JavaScript/Building a Modern Application in JavaScript.md",
-    "React/React Basics & Working With Components.md",
-    "JavaScript/Asynchronous JavaScript - Promises, Async-Await, and AJAX.md"
+    "JavaScript/Working with Arrays in JavaScript.md",
+    "React/What is React.js.md",
+    "React/React Hooks.md",
+    "React/React State & Working with Events.md",
+    "React/What is React.js?.md",
+    "JavaScript/Building a Modern Application in JavaScript.md"
   ]
 }
