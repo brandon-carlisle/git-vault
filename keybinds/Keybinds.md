@@ -17,4 +17,8 @@
 
 ### As creator making a game profile
 
-1) Visit keybind
+1) Visit keybinds.app and is met with the landing page
+2) Create account / login with Google account
+3) Visit keybinds.app/create
+4) Select game tab and will see a virtual keyboard on screen with a list of settings relevant to selected game
+5) Once finished filling in settings, clicking the create config button will save the config to server/account 
