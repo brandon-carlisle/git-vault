@@ -15,10 +15,18 @@
 
 ## Basic flow of using the app
 
-### As creator making a game profile
+### As user making a game config
 
 1) Visit keybinds.app and is met with the landing page
 2) Create account / login with Google account
 3) Visit keybinds.app/create
 4) Select game tab and will see a virtual keyboard on screen with a list of settings relevant to selected game
-5) Once finished filling in settings, clicking the create config button will save the config to server/account 
+5) Once finished filling in settings, clicking the create config button will save the config to server/account with a shareable link. (only the creator of that config can edit/delete)
+-- 
+
+### As a user viewing their profile
+
+1)  Visiting keybinds.app/brandon 
+2)  Will have two tabs, Liked configs & My configs
+3) Each tab will have a list of all the relevant configs with the ability to filter by game
+4) 
