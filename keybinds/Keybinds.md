@@ -28,10 +28,11 @@
 
 1)  Visiting keybinds.app/brandon 
 2)  Will have two tabs, Liked configs & My configs
-3) Each tab will have a list of all the relevant configs with the ability to filter by game
+3)  Each tab will have a list of all the relevant configs with the ability to filter by game
 
 ### As a user viewing someone else's profile
 
-1)  Visiting keybinds.app/brandon 
-2)  Will have two tabs, Liked configs & My configs
-3) Each tab will have a list of all the relevant configs with the ability to filter by game
+1)  Visiting keybinds.app/blue
+2)  Will have 1 tab, configs
+3)  Will be able to view all of that users configs
+4)  Will be able to like any of that users configs which will be saved to my liked configs
