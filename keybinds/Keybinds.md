@@ -36,3 +36,19 @@
 2)  Will have 1 tab, configs
 3)  Will be able to view all of that users configs
 4)  Will be able to like any of that users configs which will be saved to my liked configs
+
+## Ideas using ChatGPT
+
+Here are a few ideas for a tagline:
+
+1.  "Your shortcut to success: share and discover the best keybinds for your favorite games."
+2.  "Unlock your potential with the right keybinds."
+3.  "Find the perfect keybinds for your playstyle on keybinds.app."
+
+As for the features, you can highlight the following:
+
+-   Easy sharing of keybinds: With a simple interface, users can quickly and easily post their keybinds for specific games.
+-   Discover new keybinds: Browse through keybinds posted by other users and try out new configurations to find what works best for you.
+-   Search and filter: Use the search and filter functions to find keybinds for specific games, roles, or playstyles.
+-   Follow your favorite content creators: Keep track of your favorite content creators and pro players by following them on the site, and see their latest keybinds as they are posted.
+-   Customizable profiles: Create a personalized profile to showcase your keybinds and gaming accomplishments.
