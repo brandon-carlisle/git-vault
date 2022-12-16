@@ -11,7 +11,7 @@
 - React
 - NextJS
 - CSS Modules
-- Firebase
+- Supabase
 
 ## Basic flow of using the app
 
