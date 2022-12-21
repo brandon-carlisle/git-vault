@@ -52,3 +52,9 @@ As for the features, you can highlight the following:
 -   Search and filter: Use the search and filter functions to find keybinds for specific games, roles, or playstyles.
 -   Follow your favorite content creators: Keep track of your favorite content creators and pro players by following them on the site, and see their latest keybinds as they are posted.
 -   Customizable profiles: Create a personalized profile to showcase your keybinds and gaming accomplishments.
+
+
+## Fast ideas
+
+- Have 'user profiles', but also have the ability to give other users editing rights (useful for giving editing rights to twitch mods)
+
