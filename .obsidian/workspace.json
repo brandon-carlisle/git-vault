@@ -8,51 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f712acebcebf63d4",
+            "id": "ecc792ad13108a31",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/Advanced DOM and Events in JavaScript.md",
+                "file": "JavaScript/Numbers, Dates, Intl and Timers in JavaScript.md",
                 "mode": "preview",
                 "source": false
               }
             }
-          },
-          {
-            "id": "f817ccd9221d3a90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "keybinds/Keybinds.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5055bf486720d253",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.8"
-              }
-            }
-          },
-          {
-            "id": "ecc792ad13108a31",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.9"
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "keybinds/Keybinds.md",
+                "file": "JavaScript/Numbers, Dates, Intl and Timers in JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
