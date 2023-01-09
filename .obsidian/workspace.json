@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/Numbers, Dates, Intl and Timers in JavaScript.md",
+                "file": "JavaScript/Asynchronous JavaScript - Promises, Async-Await, and AJAX.md",
                 "mode": "preview",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/Numbers, Dates, Intl and Timers in JavaScript.md",
+                "file": "JavaScript/Asynchronous JavaScript - Promises, Async-Await, and AJAX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,7 @@
   },
   "active": "ecc792ad13108a31",
   "lastOpenFiles": [
+    "JavaScript/Numbers, Dates, Intl and Timers in JavaScript.md",
     "JavaScript/Advanced DOM and Events in JavaScript.md",
     "React/JavaScript Refresher.md",
     "JavaScript/OOP, Geolocation, External Libraries, and More in JavaScript.md",
@@ -114,7 +115,6 @@
     "React/What is React.js.md",
     "React/React Hooks.md",
     "React/React State & Working with Events.md",
-    "React/What is React.js?.md",
-    "JavaScript/Building a Modern Application in JavaScript.md"
+    "React/What is React.js?.md"
   ]
 }
