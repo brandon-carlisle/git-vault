@@ -62,4 +62,9 @@ We can then start listening to requests on the server using the listen method wh
 
 ## Routing
 
-In small apps, we can do our own routing (in larger / production apps we could use Express). This just means, based on the 
+In small apps, we can do our own routing (in larger / production apps we could use Express). This just means, based on the request URL, we can change what data we respond with.
+
+Here we check for 3 URL path names and respond with different things based on each:
+
+![[Code_e19ffGSWzf.png]]
+
