@@ -46,3 +46,9 @@ What if we want another readFile that depends of the first readFile? We can use 
 
 ![[Code_23B9wAIupi.png]]
 
+## Creating a simple web server
+
+When we build our server, we do two things:
+1) We create the server
+2) We start the server to listen for incoming requests
+
