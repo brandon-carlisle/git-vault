@@ -30,3 +30,7 @@ Reading the text from a txt file:
 
 ![[Code_rvHiljLHc6.png]]
 
+Writing a new file to the file system: 
+
+![[Code_IcZIpdn24y.png]]
+
