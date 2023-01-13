@@ -15,3 +15,12 @@ We can use the underscore to use the previous value:
 ![[Code_ZYIKRHjjUb.png]]
 
 [More info here]()
+
+## Using Modules
+
+Let's say we wanted to read and write files to the file system. In order to do that in Node, we need to use what is called a node module. A module basically adds extra functionality to node.
+
+In the case of reading files, we would use the fs (file system) module.
+
+How can we use these modules? We can 'require' them into our file and then store the result into a variable.
+
