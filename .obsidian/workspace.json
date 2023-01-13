@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/Working with Arrays in JavaScript.md",
-                "mode": "source",
+                "file": "React/What is React.js.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/Working with Arrays in JavaScript.md",
+                "file": "React/What is React.js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,15 +118,15 @@
   },
   "active": "ecc792ad13108a31",
   "lastOpenFiles": [
+    "React/React State & Working with Events.md",
+    "React/Redux.md",
+    "React/React Hooks.md",
+    "React/React Basics & Working With Components.md",
+    "React/JavaScript Refresher.md",
     "Node/Introduction to Node.js.md",
     "JavaScript/Working with Arrays in JavaScript.md",
     "JavaScript/OOP, Geolocation, External Libraries, and More in JavaScript.md",
     "JavaScript/Object-Oriented Programming (OOP) With JavaScript.md",
-    "JavaScript/Modern JavaScript Development, Modules, Tooling, and Functional.md",
-    "JavaScript/Building a Modern Application in JavaScript.md",
-    "JavaScript/JavaScript.md",
-    "JavaScript/Asynchronous JavaScript - Promises, Async-Await, and AJAX.md",
-    "JavaScript/Advanced DOM and Events in JavaScript.md",
-    "JavaScript/A Closer Look at Functions in JavaScript.md"
+    "JavaScript/Modern JavaScript Development, Modules, Tooling, and Functional.md"
   ]
 }
