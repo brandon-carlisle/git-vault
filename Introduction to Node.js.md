@@ -42,4 +42,7 @@ We can use the asynchronous version, readFile:
 
 ![[Code_gt9DNowbb8.png]]
 
-What if we want 
+What if we want another readFile that depends of the first readFile? We can use callbacks (this will cause callback hell, but will be solved later with async/await):
+
+![[Code_23B9wAIupi.png]]
+
