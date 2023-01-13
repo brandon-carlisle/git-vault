@@ -62,3 +62,4 @@ We can then start listening to requests on the server using the listen method wh
 
 ## Routing
 
+In small apps, we can do our own routing (in larger / production apps we could use Express). This just means, based on the 
