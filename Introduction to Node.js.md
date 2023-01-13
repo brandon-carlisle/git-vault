@@ -26,6 +26,8 @@ How can we use these modules? We can 'require' them into our file and then store
 
 ![[Code_uvQVhTXIEC.png]]
 
+## Reading and Writing files
+
 Reading the text from a txt file: 
 
 ![[Code_rvHiljLHc6.png]]
@@ -33,4 +35,6 @@ Reading the text from a txt file:
 Writing a new file to the file system: 
 
 ![[Code_IcZIpdn24y.png]]
+
+## Reading and Writing files asynchronously 
 
