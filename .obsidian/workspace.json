@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f172f0d61d7caa3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introduction to Node.js.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "local",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,8 +70,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/OOP, Geolocation, External Libraries, and More in JavaScript.md",
+                "file": "Introduction to Node.js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,13 +117,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "ecc792ad13108a31",
+  "active": "f172f0d61d7caa3b",
   "lastOpenFiles": [
+    "JavaScript/OOP, Geolocation, External Libraries, and More in JavaScript.md",
     "JavaScript/Asynchronous JavaScript - Promises, Async-Await, and AJAX.md",
     "JavaScript/Numbers, Dates, Intl and Timers in JavaScript.md",
     "JavaScript/Advanced DOM and Events in JavaScript.md",
     "React/JavaScript Refresher.md",
-    "JavaScript/OOP, Geolocation, External Libraries, and More in JavaScript.md",
     "JavaScript/Object-Oriented Programming (OOP) With JavaScript.md",
     "JavaScript/Working with Arrays in JavaScript.md",
     "React/What is React.js.md",
