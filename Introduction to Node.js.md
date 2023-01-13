@@ -64,7 +64,7 @@ We can then start listening to requests on the server using the listen method wh
 
 In small apps, we can do our own routing (in larger / production apps we could use Express). This just means, based on the request URL, we can change what data we respond with.
 
-Here we check for 3 URL path names and respond with different things based on each:
+Here we check for 3 URL path names and respond with different things based on each.  We also return a 404 response code, with a header telling the client to expect some HTML:
 
-![[Code_e19ffGSWzf.png]]
+![[Code_HWsx4SampV.png]]
 
