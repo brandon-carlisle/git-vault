@@ -1,5 +1,5 @@
-# Working with Arrays in [[JavaScript]]
 ## Simple Array methods
+
 #### Slice method
 ![[Code_S81Ngf5vDy.png]]
 
@@ -18,7 +18,7 @@ The reverse method DOES mutate the original array!
 ![[SitApp_IY8cV1p2HJ.png]]
 
 #### Concat
-The concat method is used to join two arrays. Does not mutate orignal array.
+The concat method is used to join two arrays. Does not mutate original array.
 
 ![[SitApp_tnCrvciCbz.png]]
 

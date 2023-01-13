@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/OOP, Geolocation, External Libraries, and More in JavaScript.md",
-                "mode": "preview",
+                "file": "JavaScript/Working with Arrays in JavaScript.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -26,13 +26,12 @@
               "type": "markdown",
               "state": {
                 "file": "Node/Introduction to Node.js.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Node/Introduction to Node.js.md",
+                "file": "JavaScript/Working with Arrays in JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,17 +116,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d89ced64a9a90222",
+  "active": "ecc792ad13108a31",
   "lastOpenFiles": [
-    "JavaScript/OOP, Geolocation, External Libraries, and More in JavaScript.md",
-    "JavaScript/Asynchronous JavaScript - Promises, Async-Await, and AJAX.md",
-    "JavaScript/Numbers, Dates, Intl and Timers in JavaScript.md",
-    "JavaScript/Advanced DOM and Events in JavaScript.md",
-    "React/JavaScript Refresher.md",
-    "JavaScript/Object-Oriented Programming (OOP) With JavaScript.md",
+    "Node/Introduction to Node.js.md",
     "JavaScript/Working with Arrays in JavaScript.md",
-    "React/What is React.js.md",
-    "React/React Hooks.md",
-    "React/React State & Working with Events.md"
+    "JavaScript/OOP, Geolocation, External Libraries, and More in JavaScript.md",
+    "JavaScript/Object-Oriented Programming (OOP) With JavaScript.md",
+    "JavaScript/Modern JavaScript Development, Modules, Tooling, and Functional.md",
+    "JavaScript/Building a Modern Application in JavaScript.md",
+    "JavaScript/JavaScript.md",
+    "JavaScript/Asynchronous JavaScript - Promises, Async-Await, and AJAX.md",
+    "JavaScript/Advanced DOM and Events in JavaScript.md",
+    "JavaScript/A Closer Look at Functions in JavaScript.md"
   ]
 }
