@@ -52,3 +52,7 @@ When we build our server, we do two things:
 1) We create the server
 2) We start the server to listen for incoming requests
 
+We make the server using createServer, which takes in a callback function which will be called every time a request is made to the server. It also gets called with two arguments, the request and the response:
+
+![[Code_heViIQHVtZ.png]]
+
