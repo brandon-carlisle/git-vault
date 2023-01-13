@@ -24,3 +24,5 @@ In the case of reading files, we would use the fs (file system) module.
 
 How can we use these modules? We can 'require' them into our file and then store the result into a variable.
 
+![[Code_uvQVhTXIEC.png]]
+
