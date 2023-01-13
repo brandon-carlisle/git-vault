@@ -56,3 +56,7 @@ We make the server using createServer, which takes in a callback function which 
 
 ![[Code_heViIQHVtZ.png]]
 
+We can then start listening to requests on the server using the listen method which will be on the server after making it with createServer. The listen method will take three arguments - the port on which we want the server to listen to, the IP address of where we want to run the server and then a callback function that will be called when the server starts to listen.
+
+![[Code_X0ME8tmiSu.png]]
+
