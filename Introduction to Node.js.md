@@ -38,3 +38,8 @@ Writing a new file to the file system:
 
 ## Reading and Writing files asynchronously 
 
+We can use the asynchronous version, readFile:
+
+![[Code_gt9DNowbb8.png]]
+
+What if we want 
