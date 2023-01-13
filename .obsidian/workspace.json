@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ecc792ad13108a31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React/What is React.js.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f172f0d61d7caa3b",
             "type": "leaf",
             "state": {
@@ -89,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/What is React.js.md",
+                "file": "Node/Introduction to Node.js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,8 +104,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "ecc792ad13108a31",
+  "active": "f172f0d61d7caa3b",
   "lastOpenFiles": [
+    "React/What is React.js.md",
     "React/React State & Working with Events.md",
     "React/Redux.md",
     "React/React Hooks.md",
@@ -126,7 +115,6 @@
     "Node/Introduction to Node.js.md",
     "JavaScript/Working with Arrays in JavaScript.md",
     "JavaScript/OOP, Geolocation, External Libraries, and More in JavaScript.md",
-    "JavaScript/Object-Oriented Programming (OOP) With JavaScript.md",
-    "JavaScript/Modern JavaScript Development, Modules, Tooling, and Functional.md"
+    "JavaScript/Object-Oriented Programming (OOP) With JavaScript.md"
   ]
 }
