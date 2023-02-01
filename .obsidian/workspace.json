@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f240332db130519d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git/Commit Messages.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Node/Introduction to Node.js.md",
+                "file": "Git/Commit Messages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,15 +117,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f172f0d61d7caa3b",
+  "active": "f240332db130519d",
   "lastOpenFiles": [
+    "Node/Introduction to Node.js.md",
     "React/What is React.js.md",
     "React/React State & Working with Events.md",
     "React/Redux.md",
     "React/React Hooks.md",
     "React/React Basics & Working With Components.md",
     "React/JavaScript Refresher.md",
-    "Node/Introduction to Node.js.md",
     "JavaScript/Working with Arrays in JavaScript.md",
     "JavaScript/OOP, Geolocation, External Libraries, and More in JavaScript.md",
     "JavaScript/Object-Oriented Programming (OOP) With JavaScript.md"
