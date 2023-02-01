@@ -5,3 +5,5 @@
 -   test: Everything related to testing
 -   docs: Everything related to documentation
 -   chore: Regular code maintenance.[ You can also use emojis to represent commit types]
+
+https://www.freecodecamp.org/news/writing-good-commit-messages-a-practical-guide/
