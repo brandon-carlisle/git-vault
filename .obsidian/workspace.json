@@ -11,8 +11,12 @@
             "id": "05526aedc3c7e1ad",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript/Working with Arrays in JavaScript.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ca",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,8 +57,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -74,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "JavaScript/Working with Arrays in JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,8 +104,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "9555cd99bac09bf1",
+  "active": "05526aedc3c7e1ad",
   "lastOpenFiles": [
+    "JavaScript/OOP, Geolocation, External Libraries, and More in JavaScript.md",
     "Git/Commit Messages.md",
     "Node/Introduction to Node.js.md",
     "React/What is React.js.md",
@@ -110,7 +115,6 @@
     "React/React Hooks.md",
     "React/React Basics & Working With Components.md",
     "React/JavaScript Refresher.md",
-    "JavaScript/Working with Arrays in JavaScript.md",
-    "JavaScript/OOP, Geolocation, External Libraries, and More in JavaScript.md"
+    "JavaScript/Working with Arrays in JavaScript.md"
   ]
 }
