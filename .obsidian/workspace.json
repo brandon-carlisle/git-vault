@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/Working with Arrays in JavaScript.md",
+                "file": "JavaScript/Advanced DOM and Events in JavaScript.md",
                 "mode": "preview",
                 "source": false
               }
             }
-          },
-          {
-            "id": "b6beb9a392b8da5a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.15"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/Working with Arrays in JavaScript.md",
+                "file": "JavaScript/Advanced DOM and Events in JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,8 +104,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b6beb9a392b8da5a",
+  "active": "05526aedc3c7e1ad",
   "lastOpenFiles": [
+    "JavaScript/Working with Arrays in JavaScript.md",
     "JavaScript/OOP, Geolocation, External Libraries, and More in JavaScript.md",
     "Git/Commit Messages.md",
     "Node/Introduction to Node.js.md",
@@ -125,7 +115,6 @@
     "React/Redux.md",
     "React/React Hooks.md",
     "React/React Basics & Working With Components.md",
-    "React/JavaScript Refresher.md",
-    "JavaScript/Working with Arrays in JavaScript.md"
+    "React/JavaScript Refresher.md"
   ]
 }
