@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b6beb9a392b8da5a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.15"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +115,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "05526aedc3c7e1ad",
+  "active": "b6beb9a392b8da5a",
   "lastOpenFiles": [
     "JavaScript/OOP, Geolocation, External Libraries, and More in JavaScript.md",
     "Git/Commit Messages.md",
