@@ -28,9 +28,21 @@
                 "currentVersion": "1.1.16"
               }
             }
+          },
+          {
+            "id": "5e3c5c05e19c36be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Voter.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -88,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/Advanced DOM and Events in JavaScript.md",
+                "file": "Voter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,8 +127,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "e061e1c164aad963",
+  "active": "5e3c5c05e19c36be",
   "lastOpenFiles": [
+    "Voter.md",
+    "ideas",
     "JavaScript/Working with Arrays in JavaScript.md",
     "JavaScript/OOP, Geolocation, External Libraries, and More in JavaScript.md",
     "Git/Commit Messages.md",
