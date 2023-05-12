@@ -35,24 +35,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ytvote.md",
+                "file": "ideas/ytvote.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "2f6ca3e330e08d48",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.8"
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -118,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ytvote.md",
+                "file": "ideas/ytvote.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,9 +135,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "2f6ca3e330e08d48",
+  "active": "d89ced64a9a90222",
   "lastOpenFiles": [
-    "ytvote.md",
+    "ideas/ytvote.md",
     "ideas",
     "JavaScript/Working with Arrays in JavaScript.md",
     "JavaScript/OOP, Geolocation, External Libraries, and More in JavaScript.md",
