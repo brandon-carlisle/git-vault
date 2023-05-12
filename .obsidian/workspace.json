@@ -40,9 +40,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2f6ca3e330e08d48",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.8"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -78,6 +88,14 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "7ff8f26c4c428203",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
             }
           }
         ]
@@ -127,7 +145,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "5e3c5c05e19c36be",
+  "active": "2f6ca3e330e08d48",
   "lastOpenFiles": [
     "ytvote.md",
     "ideas",
