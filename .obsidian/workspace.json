@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ideas/Music Collab.md",
-                "mode": "preview",
+                "file": "ideas/syncstudio.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ideas/Music Collab.md",
+                "file": "ideas/syncstudio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
   "active": "05526aedc3c7e1ad",
   "lastOpenFiles": [
     "ideas/ytvote.md",
-    "ideas/Music Collab.md",
+    "ideas/syncstudio.md",
     "JavaScript/Advanced DOM and Events in JavaScript.md",
     "ideas",
     "JavaScript/Working with Arrays in JavaScript.md",
