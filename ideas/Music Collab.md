@@ -1,4 +1,5 @@
-## What will it need?
+## What will it need
+
 - Teams with users (invite account to team)
 - Dashboard with projects
 - Project will have:

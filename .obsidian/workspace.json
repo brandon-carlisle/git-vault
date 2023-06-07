@@ -14,29 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "ideas/Music Collab.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e061e1c164aad963",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.16"
-              }
-            }
-          },
-          {
-            "id": "5e3c5c05e19c36be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ideas/ytvote.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -136,9 +114,9 @@
   },
   "active": "05526aedc3c7e1ad",
   "lastOpenFiles": [
-    "JavaScript/Advanced DOM and Events in JavaScript.md",
-    "ideas/Music Collab.md",
     "ideas/ytvote.md",
+    "ideas/Music Collab.md",
+    "JavaScript/Advanced DOM and Events in JavaScript.md",
     "ideas",
     "JavaScript/Working with Arrays in JavaScript.md",
     "JavaScript/OOP, Geolocation, External Libraries, and More in JavaScript.md",
