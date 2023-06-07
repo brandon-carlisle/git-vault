@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/Advanced DOM and Events in JavaScript.md",
-                "mode": "preview",
+                "file": "ideas/Music Collab.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -41,8 +41,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/Advanced DOM and Events in JavaScript.md",
+                "file": "ideas/Music Collab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,8 +134,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d89ced64a9a90222",
+  "active": "05526aedc3c7e1ad",
   "lastOpenFiles": [
+    "JavaScript/Advanced DOM and Events in JavaScript.md",
+    "ideas/Music Collab.md",
     "ideas/ytvote.md",
     "ideas",
     "JavaScript/Working with Arrays in JavaScript.md",
