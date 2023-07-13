@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8ccb8e5c0fa6d92c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +123,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "05526aedc3c7e1ad",
+  "active": "8ccb8e5c0fa6d92c",
   "lastOpenFiles": [
     "JavaScript/Advanced DOM and Events in JavaScript.md",
     "ideas/syncstudio.md",
