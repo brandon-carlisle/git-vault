@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/Numbers, Dates, Intl and Timers in JavaScript.md",
+                "file": "JavaScript/Object-Oriented Programming (OOP) With JavaScript.md",
                 "mode": "preview",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/Numbers, Dates, Intl and Timers in JavaScript.md",
+                "file": "JavaScript/Object-Oriented Programming (OOP) With JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,13 +126,15 @@
   },
   "active": "8ccb8e5c0fa6d92c",
   "lastOpenFiles": [
-    "JavaScript/Advanced DOM and Events in JavaScript.md",
-    "ideas/syncstudio.md",
+    "Git/Commit Messages.md",
+    "JavaScript/Object-Oriented Programming (OOP) With JavaScript.md",
     "ideas/ytvote.md",
+    "ideas/syncstudio.md",
+    "JavaScript/Numbers, Dates, Intl and Timers in JavaScript.md",
+    "JavaScript/Advanced DOM and Events in JavaScript.md",
     "ideas",
     "JavaScript/Working with Arrays in JavaScript.md",
     "JavaScript/OOP, Geolocation, External Libraries, and More in JavaScript.md",
-    "Git/Commit Messages.md",
     "Node/Introduction to Node.js.md",
     "React/What is React.js.md",
     "React/React State & Working with Events.md",

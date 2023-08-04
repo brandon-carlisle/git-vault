@@ -1,7 +1,0 @@
-- Vote on YouTube videos
-- Create a playlist and then create a vote
-- Anyone can vote
-- At the end of the vote, show win percentage
-- sign up to create a vote
-- Vote playlist could be anything from movie scenes to songs to Mr beast videos
-- Playlist will be randomised when user plays
