@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "065b061e08011b6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6b06ce4d84960479",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "go/Packages.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
+                "file": "go/Packages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,10 +149,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "20a537255effd49c",
+  "active": "6b06ce4d84960479",
   "lastOpenFiles": [
-    "JavaScript/Building a Modern Application in JavaScript.md",
+    "go/attachments/Screenshot 2023-10-02 at 20.36.33.png",
+    "go/attachments",
     "test.md",
+    "go/Packages.md",
+    "pa.md",
+    "go",
+    "JavaScript/Building a Modern Application in JavaScript.md",
     "JavaScript/Asynchronous JavaScript - Promises, Async-Await, and AJAX.md",
     "JavaScript/Advanced DOM and Events in JavaScript.md",
     "JavaScript/A Closer Look at Functions in JavaScript.md",
