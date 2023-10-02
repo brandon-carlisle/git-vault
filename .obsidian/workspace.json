@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/Asynchronous JavaScript - Promises, Async-Await, and AJAX.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8ccb8e5c0fa6d92c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaScript/Object-Oriented Programming (OOP) With JavaScript.md",
+                "file": "JavaScript/Building a Modern Application in JavaScript.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/Object-Oriented Programming (OOP) With JavaScript.md",
+                "file": "JavaScript/Building a Modern Application in JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -124,14 +112,16 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "8ccb8e5c0fa6d92c",
+  "active": "05526aedc3c7e1ad",
   "lastOpenFiles": [
-    "Git/Commit Messages.md",
+    "JavaScript/Asynchronous JavaScript - Promises, Async-Await, and AJAX.md",
+    "JavaScript/Advanced DOM and Events in JavaScript.md",
+    "JavaScript/A Closer Look at Functions in JavaScript.md",
     "JavaScript/Object-Oriented Programming (OOP) With JavaScript.md",
+    "Git/Commit Messages.md",
     "ideas/ytvote.md",
     "ideas/syncstudio.md",
     "JavaScript/Numbers, Dates, Intl and Timers in JavaScript.md",
-    "JavaScript/Advanced DOM and Events in JavaScript.md",
     "ideas",
     "JavaScript/Working with Arrays in JavaScript.md",
     "JavaScript/OOP, Geolocation, External Libraries, and More in JavaScript.md",
