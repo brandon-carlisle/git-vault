@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "40099bcb032c7775",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "go/Variables.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "go/Packages.md",
+                "file": "go/Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,12 +161,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "6b06ce4d84960479",
+  "active": "40099bcb032c7775",
   "lastOpenFiles": [
+    "go/attachments/Screenshot 2023-10-02 at 20.57.08.png",
+    "go/Packages.md",
+    "go/Variables.md",
     "go/attachments/Screenshot 2023-10-02 at 20.36.33.png",
     "go/attachments",
     "test.md",
-    "go/Packages.md",
     "pa.md",
     "go",
     "JavaScript/Building a Modern Application in JavaScript.md",
