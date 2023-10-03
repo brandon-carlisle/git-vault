@@ -7,3 +7,5 @@ Here is how we define a function:
 ![[Screenshot 2023-10-03 at 17.19.43.png]]
 
 ![[Screenshot 2023-10-03 at 17.21.42.png]]
+![[Screenshot 2023-10-03 at 17.22.41.png]]
+
