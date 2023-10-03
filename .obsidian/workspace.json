@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "go/Slices and For Loops.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -139,6 +139,8 @@
   },
   "active": "5c8340ee46ffadb6",
   "lastOpenFiles": [
+    "go/attachments/Screenshot 2023-10-03 at 16.24.32.png",
+    "go/attachments/Screenshot 2023-10-03 at 16.22.59.png",
     "JavaScript/Modern JavaScript Development, Modules, Tooling, and Functional.md",
     "JavaScript/Building a Modern Application in JavaScript.md",
     "JavaScript/Asynchronous JavaScript - Promises, Async-Await, and AJAX.md",
