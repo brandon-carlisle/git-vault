@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "go/Slices and For Loops.md",
+                "file": "go/Functions.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "go/Slices and For Loops.md",
+                "file": "go/Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,13 +139,16 @@
   },
   "active": "5c8340ee46ffadb6",
   "lastOpenFiles": [
+    "go/attachments/Screenshot 2023-10-03 at 17.21.42.png",
+    "go/attachments/Screenshot 2023-10-03 at 17.19.43.png",
+    "go/attachments/Screenshot 2023-10-03 at 17.19.13.png",
+    "go/Slices and For Loops.md",
     "go/attachments/Screenshot 2023-10-03 at 16.24.32.png",
     "go/attachments/Screenshot 2023-10-03 at 16.22.59.png",
     "JavaScript/Modern JavaScript Development, Modules, Tooling, and Functional.md",
     "JavaScript/Building a Modern Application in JavaScript.md",
     "JavaScript/Asynchronous JavaScript - Promises, Async-Await, and AJAX.md",
     "JavaScript/A Closer Look at Functions in JavaScript.md",
-    "go/Slices and For Loops.md",
     "go/Variables.md",
     "go/Functions.md",
     "go/Packages.md",
