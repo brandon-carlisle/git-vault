@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "38d3111833d52d72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "go/Functions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "go/Variables.md",
+                "file": "go/Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,10 +125,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "40099bcb032c7775",
+  "active": "38d3111833d52d72",
   "lastOpenFiles": [
-    "go/Packages.md",
+    "go/attachments/Screenshot 2023-10-03 at 16.03.14.png",
     "go/Variables.md",
+    "go/Functions.md",
+    "go/Packages.md",
     "go/attachments/Screenshot 2023-10-02 at 20.57.08.png",
     "go/attachments/Screenshot 2023-10-02 at 20.36.33.png",
     "go/attachments",
