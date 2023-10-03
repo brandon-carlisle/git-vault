@@ -7,3 +7,6 @@ In both data structures, every single item must be of the same type.
 ### Making a slice
 ![[Screenshot 2023-10-03 at 16.16.05.png]]
 
+### Adding to a slice
+![[Screenshot 2023-10-03 at 16.17.49.png]]
+
