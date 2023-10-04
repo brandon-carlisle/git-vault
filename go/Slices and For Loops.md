@@ -27,6 +27,15 @@ fruits := string[]{"Apple", "Banana", "Orange", "Passionfruit"}
 fruits[1 : 3] // "Banana" "Orange"
 ```
 
+We can also choose to leave out the index on either side of the colon to tell Go to start from the beginning / go to end:
+
+```go
+fruits := string[]{"Apple", "Banana", "Orange", "Passionfruit"}
+
+fruits[:3] // "Apple" "Banana" "Orange"
+fruits[1:] // "Banana" "Orange" "Passionfruit"
+```
+
 ## For Loops
 Looping over the slice and printing each element looks like this:
 ![[Screenshot 2023-10-03 at 16.22.59.png]]
