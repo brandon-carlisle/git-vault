@@ -17,3 +17,15 @@ func deal(d deck, handSize int) (deck, deck) {
 	return d[:handSize], d[handSize:]
 }
 ```
+
+We can the use that deal function that returns multiple values like this:
+```go
+func main() {
+	cards := newDeck()
+
+	hand, remainingDeck := deal(cards, 5)
+	
+	hand.print()
+	remainingDeck.print()
+}
+```
