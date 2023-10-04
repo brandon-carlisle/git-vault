@@ -24,7 +24,7 @@ We can also select a range of items with this syntax:
 fruits := string[]{"Apple", "Banana", "Orange", "Passionfruit"}
 
 // fruits[startingIndexIncluding : upToNotIncluding]
-fruits[1 : 3] // "Banana" ""
+fruits[1 : 3] // "Banana" "Orange"
 ```
 
 ## For Loops
