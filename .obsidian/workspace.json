@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "go/Functions.md",
+                "file": "go/Slices and For Loops.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "go/Functions.md",
+                "file": "go/Slices and For Loops.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,6 +139,7 @@
   },
   "active": "5c8340ee46ffadb6",
   "lastOpenFiles": [
+    "go/Functions.md",
     "go/attachments/Screenshot 2023-10-03 at 17.22.41.png",
     "go/attachments/Screenshot 2023-10-03 at 17.21.42.png",
     "go/attachments/Screenshot 2023-10-03 at 17.19.43.png",
@@ -151,13 +152,11 @@
     "JavaScript/Asynchronous JavaScript - Promises, Async-Await, and AJAX.md",
     "JavaScript/A Closer Look at Functions in JavaScript.md",
     "go/Variables.md",
-    "go/Functions.md",
     "go/Packages.md",
     "go/attachments/Screenshot 2023-10-03 at 16.17.49.png",
     "go/attachments/Screenshot 2023-10-03 at 16.16.05.png",
     "go/attachments/Screenshot 2023-10-03 at 16.03.14.png",
     "go/attachments/Screenshot 2023-10-02 at 20.57.08.png",
-    "go/attachments/Screenshot 2023-10-02 at 20.36.33.png",
     "go/attachments",
     "test.md",
     "pa.md",
