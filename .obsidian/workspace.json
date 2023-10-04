@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1b32e26e9402f743",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "go/Type Conversion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "go/Functions.md",
+                "file": "go/Type Conversion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,10 +149,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "5c8340ee46ffadb6",
+  "active": "1b32e26e9402f743",
   "lastOpenFiles": [
-    "go/Slices and For Loops.md",
     "go/Functions.md",
+    "go/Type Conversion.md",
+    "go/Slices and For Loops.md",
     "go/attachments/Screenshot 2023-10-03 at 17.22.41.png",
     "go/attachments/Screenshot 2023-10-03 at 17.21.42.png",
     "go/attachments/Screenshot 2023-10-03 at 17.19.43.png",
