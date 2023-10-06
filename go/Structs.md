@@ -28,3 +28,20 @@ fmt.Println(alix.firstName)
 fmt.Println(alix.lastName)
 }
 ```
+
+## Embedding a struct
+We can embed structs together.
+
+```go
+type contactInfo struct {
+	email string
+	zipCode int
+}
+
+type person struct {
+	firstName string
+	lastName string
+	contact contactInfo
+}
+```
+
