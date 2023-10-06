@@ -45,3 +45,18 @@ type person struct {
 }
 ```
 
+And then we can use it like this:
+```go
+func main() {
+	alix := person{
+	firstName: "Alix",
+	lastName: "Perez",  
+	contact: contactInfo{
+		email: "alix@perez.com",
+		zipCode: 46903,
+		},
+	}
+
+	fmt.Printf()
+}
+```
