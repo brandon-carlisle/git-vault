@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "579b2d791f3f4427",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "go/Pointers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "go/Structs.md",
+                "file": "go/Pointers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,10 +137,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "11fce055978349d5",
+  "active": "d89ced64a9a90222",
   "lastOpenFiles": [
-    "go/Testing.md",
     "go/Structs.md",
+    "go/Pointers.md",
+    "go/Testing.md",
     "go/attachments/Screenshot 2023-10-05 at 16.39.08.png",
     "go/Variables.md",
     "go/Functions.md",
@@ -164,7 +177,6 @@
     "React/What is React.js.md",
     "React/React State & Working with Events.md",
     "React/Redux.md",
-    "React/React Hooks.md",
-    "React/React Basics & Working With Components.md"
+    "React/React Hooks.md"
   ]
 }
