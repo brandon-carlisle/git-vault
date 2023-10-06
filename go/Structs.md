@@ -69,3 +69,23 @@ func main() {
 	fmt.Printf("%+v", alix)
 }
 ```
+
+## Structs with receiver functions
+```go
+func (p person) print() {
+	fmt.Printf("%+v", p)
+}
+
+func main() {
+	alix := person{
+	firstName: "Alix",
+	lastName: "Perez",
+	contactInfo: contactInfo{
+		email: "alix@perez.com",
+		zipCode: 46903,
+		},
+	}
+	
+	alix.print()
+}
+```
