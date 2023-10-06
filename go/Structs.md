@@ -57,6 +57,6 @@ func main() {
 		},
 	}
 
-	fmt.Printf()
+	fmt.Printf("%+v", alix)
 }
 ```
