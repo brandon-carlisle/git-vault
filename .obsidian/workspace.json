@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "11fce055978349d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "go/Structs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "go/Testing.md",
+                "file": "go/Structs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,8 +125,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "a87c4bfb6547f321",
+  "active": "11fce055978349d5",
   "lastOpenFiles": [
+    "go/Testing.md",
+    "go/Structs.md",
     "go/attachments/Screenshot 2023-10-05 at 16.39.08.png",
     "go/Variables.md",
     "go/Functions.md",
@@ -133,9 +148,7 @@
     "go/attachments/Screenshot 2023-10-03 at 16.17.49.png",
     "go/attachments/Screenshot 2023-10-03 at 16.16.05.png",
     "go/attachments/Screenshot 2023-10-03 at 16.03.14.png",
-    "go/attachments/Screenshot 2023-10-02 at 20.57.08.png",
     "go/attachments",
-    "go/Testing.md",
     "pa.md",
     "go",
     "JavaScript/Advanced DOM and Events in JavaScript.md",
