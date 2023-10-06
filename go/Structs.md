@@ -91,3 +91,26 @@ func main() {
 ```
 
 ## Structs with [[Pointers]]
+```go
+type person struct {
+	firstName string
+	lastName string 
+	contactInfo
+}
+
+func (pointerToPerson *person) updateName(newFirstName string) {
+	(*pointerToPerson).firstName = newFirstName
+}
+
+alix := person{
+	firstName: "Alix",
+	lastName: "Perez",
+	contactInfo: contactInfo{
+	email: "alix@perez.com",
+	zipCode: 46903,
+	},
+}
+
+alixPointer := &alix
+alixPointer.updateName("John")
+```
