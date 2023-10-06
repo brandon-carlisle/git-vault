@@ -89,3 +89,5 @@ func main() {
 	alix.print()
 }
 ```
+
+## Structs with [[Pointers]]
