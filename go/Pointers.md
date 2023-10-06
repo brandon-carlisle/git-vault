@@ -9,3 +9,7 @@ Go is a "pass by value" language. Meaning whenever we pass some value into a fun
 
 ![[Screenshot 2023-10-06 at 17.41.48.png]]
 
+## Type Description
+When we see a * in front of a type, this is a type description.
+![[Screenshot 2023-10-06 at 17.54.29.png]]
+
