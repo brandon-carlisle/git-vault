@@ -45,6 +45,15 @@ type person struct {
 }
 ```
 
+or shorthand:
+```go
+type person struct {
+	firstName string
+	lastName string
+	contactInfo
+}
+```
+
 And then we can use it like this:
 ```go
 func main() {
