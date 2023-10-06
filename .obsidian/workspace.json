@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "go/Structs.md",
-                "mode": "preview",
+                "file": "go/Pointers.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "go/Structs.md",
+                "file": "go/Pointers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,8 +127,9 @@
   },
   "active": "11fce055978349d5",
   "lastOpenFiles": [
-    "go/Pointers.md",
+    "go/attachments/Screenshot 2023-10-06 at 17.41.48.png",
     "go/Structs.md",
+    "go/Pointers.md",
     "go/attachments/Screenshot 2023-10-06 at 17.28.17.png",
     "go/attachments/Screenshot 2023-10-06 at 17.27.38.png",
     "go/Testing.md",

@@ -5,3 +5,7 @@ Go is a "pass by value" language. Meaning whenever we pass some value into a fun
 
 ![[Screenshot 2023-10-06 at 17.28.17.png]]
 
+## Pointer Operations
+
+![[Screenshot 2023-10-06 at 17.41.48.png]]
+
