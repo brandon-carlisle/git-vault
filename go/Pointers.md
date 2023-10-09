@@ -15,3 +15,19 @@ Go is a "pass by value" language. Meaning whenever we pass some value into a fun
 When we see a * in front of a type, this is a type description.
 ![[Screenshot 2023-10-06 at 17.54.29.png]]
 
+## Pointer Shortcut
+We can drop some code to make it easier to write when working with functions with receivers that have a type of *pointer.
+
+So instead of this:
+```go
+alix := person {
+	firstName: "Alex",
+	lastName: "Perez",
+}
+
+alixPointer := &alix
+
+func (pointerToPerson *person) updateName(newFirstName string) {
+	(*pointerToPerson).firstName = newFirstName
+}
+```
