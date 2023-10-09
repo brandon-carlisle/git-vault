@@ -49,3 +49,5 @@ func (pointerToPerson *person) updateName(newFirstName string) {
 	(*pointerToPerson).firstName = newFirstName
 }
 ```
+
+## Gotchas with Go Pointers
