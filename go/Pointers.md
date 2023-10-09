@@ -26,6 +26,24 @@ alix := person {
 }
 
 alixPointer := &alix
+alixPointer.updateName("Alix")
+
+func (pointerToPerson *person) updateName(newFirstName string) {
+	(*pointerToPerson).firstName = newFirstName
+}
+```
+
+Because our receiver function has the type of pointer, Go will know to turn the caller into a pointer, so we can do this:
+```go
+func main() {
+	alix := person{
+		firstName: "Alex",
+		lastName: "Perez",
+}
+
+alix.updateName("Alix")
+alix.print()
+}
 
 func (pointerToPerson *person) updateName(newFirstName string) {
 	(*pointerToPerson).firstName = newFirstName
