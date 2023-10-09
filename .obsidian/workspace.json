@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "go/Pointers.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -127,6 +127,7 @@
   },
   "active": "11fce055978349d5",
   "lastOpenFiles": [
+    "go/attachments/Screenshot 2023-10-09 at 16.09.51.png",
     "go/attachments/Screenshot 2023-10-09 at 16.05.21.png",
     "go/attachments/Screenshot 2023-10-09 at 15.32.45.png",
     "go/attachments/Screenshot 2023-10-06 at 17.54.29.png",
@@ -144,7 +145,6 @@
     "go/attachments/Screenshot 2023-10-03 at 17.22.41.png",
     "go/attachments/Screenshot 2023-10-03 at 17.21.42.png",
     "go/attachments/Screenshot 2023-10-03 at 17.19.43.png",
-    "go/attachments/Screenshot 2023-10-03 at 17.19.13.png",
     "JavaScript/Modern JavaScript Development, Modules, Tooling, and Functional.md",
     "JavaScript/Building a Modern Application in JavaScript.md",
     "JavaScript/Asynchronous JavaScript - Promises, Async-Await, and AJAX.md",

@@ -55,4 +55,8 @@ In Go - we have two types of data, value types and reference types.
 
 ![[Screenshot 2023-10-09 at 16.05.21.png]]
 
+Using this, if we need to change the underlying value in memory, we can tell if we need to use pointers or not.
+
+Take this function that updates a slice for example:
+![[Screenshot 2023-10-09 at 16.09.51.png]]
 
