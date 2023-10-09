@@ -51,4 +51,8 @@ func (pointerToPerson *person) updateName(newFirstName string) {
 ```
 
 ## Gotchas with Go Pointers
-In Go - 
+In Go - we have two types of data, value types and reference types.
+
+![[Screenshot 2023-10-09 at 16.05.21.png]]
+
+
