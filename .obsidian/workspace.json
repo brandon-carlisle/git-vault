@@ -18,33 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "11fce055978349d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "go/Pointers.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4d9cac568d16339a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "go/Maps.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "go/Maps.md",
+                "file": "go/Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,9 +112,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "4d9cac568d16339a",
+  "active": "a87c4bfb6547f321",
   "lastOpenFiles": [
     "go/Pointers.md",
+    "go/Testing.md",
     "go/Maps.md",
     "go/attachments/Screenshot 2023-10-10 at 15.15.06.png",
     "go/attachments/Screenshot 2023-10-10 at 14.11.53.png",
@@ -152,7 +128,6 @@
     "go/Structs.md",
     "go/attachments/Screenshot 2023-10-06 at 17.28.17.png",
     "go/attachments/Screenshot 2023-10-06 at 17.27.38.png",
-    "go/Testing.md",
     "go/Variables.md",
     "go/Functions.md",
     "go/Type Conversion.md",
