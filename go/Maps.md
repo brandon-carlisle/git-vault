@@ -8,7 +8,6 @@ Both the keys and values are statically typed -
 ![[Screenshot 2023-10-10 at 14.11.53.png]]
 
 ## Declaring a Map
-
 ```go
 colors := map[string]string{
 	"red": "#FF0000",
@@ -44,3 +43,6 @@ func printMap(c map[string]string) {
   }
 }
 ```
+
+## Difference between Maps and [[Structs]]
+![[Screenshot 2023-10-10 at 15.15.06.png]]

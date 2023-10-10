@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "go/Maps.md",
+                "file": "go/Pointers.md",
                 "mode": "preview",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "go/Maps.md",
+                "file": "go/Pointers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,10 +139,11 @@
   },
   "active": "4d9cac568d16339a",
   "lastOpenFiles": [
+    "go/Maps.md",
+    "go/attachments/Screenshot 2023-10-10 at 15.15.06.png",
     "go/attachments/Screenshot 2023-10-10 at 14.11.53.png",
     "go/attachments/Screenshot 2023-10-10 at 14.11.27.png",
     "go/Pointers.md",
-    "go/Maps.md",
     "go/attachments/Screenshot 2023-10-09 at 16.09.51.png",
     "go/attachments/Screenshot 2023-10-09 at 16.05.21.png",
     "go/attachments/Screenshot 2023-10-09 at 15.32.45.png",
@@ -152,12 +153,10 @@
     "go/attachments/Screenshot 2023-10-06 at 17.28.17.png",
     "go/attachments/Screenshot 2023-10-06 at 17.27.38.png",
     "go/Testing.md",
-    "go/attachments/Screenshot 2023-10-05 at 16.39.08.png",
     "go/Variables.md",
     "go/Functions.md",
     "go/Type Conversion.md",
     "go/Slices and For Loops.md",
-    "go/attachments/Screenshot 2023-10-03 at 17.22.41.png",
     "JavaScript/Modern JavaScript Development, Modules, Tooling, and Functional.md",
     "JavaScript/Building a Modern Application in JavaScript.md",
     "JavaScript/Asynchronous JavaScript - Promises, Async-Await, and AJAX.md",
