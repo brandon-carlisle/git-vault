@@ -36,3 +36,4 @@ fmt.Println(colors["white"])
 delete(colors, "white")
 ```
 
+## Iterating over a Map
