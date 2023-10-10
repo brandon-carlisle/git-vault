@@ -46,3 +46,7 @@ func printMap(c map[string]string) {
 
 ## Difference between Maps and [[Structs]]
 ![[Screenshot 2023-10-10 at 15.15.06.png]]
+
+### When to use
+- If we want to represent a collection of very closely related properties
+- 

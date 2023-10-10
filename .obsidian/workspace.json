@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "go/Pointers.md",
-                "mode": "preview",
+                "file": "go/Maps.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "go/Pointers.md",
+                "file": "go/Maps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,11 +139,11 @@
   },
   "active": "4d9cac568d16339a",
   "lastOpenFiles": [
+    "go/Pointers.md",
     "go/Maps.md",
     "go/attachments/Screenshot 2023-10-10 at 15.15.06.png",
     "go/attachments/Screenshot 2023-10-10 at 14.11.53.png",
     "go/attachments/Screenshot 2023-10-10 at 14.11.27.png",
-    "go/Pointers.md",
     "go/attachments/Screenshot 2023-10-09 at 16.09.51.png",
     "go/attachments/Screenshot 2023-10-09 at 16.05.21.png",
     "go/attachments/Screenshot 2023-10-09 at 15.32.45.png",
