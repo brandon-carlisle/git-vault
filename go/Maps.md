@@ -37,3 +37,10 @@ delete(colors, "white")
 ```
 
 ## Iterating over a Map
+```go
+func printMap(c map[string]string) {
+	for key, value := range c {
+	fmt.Println(key, value)
+  }
+}
+```
