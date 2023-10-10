@@ -18,12 +18,21 @@ colors := map[string]string{
 ```
 ```go
 var colors map[string]string
-
-colors["white"] = "#FFFFFF"
 ```
 ```go
 colors := make(map[string]string)
 
 colors["white"] = "#FFFFFF"
+```
+
+
+## Accessing a value
+```go
+fmt.Println(colors["white"])
+```
+
+## Delete keys and values
+```go
+delete(colors, "white")
 ```
 
