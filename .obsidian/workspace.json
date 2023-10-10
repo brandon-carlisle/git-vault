@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e0c9bda68e5bfad7",
+        "id": "fdc87491e19a4ad8",
         "type": "tabs",
         "children": [
           {
-            "id": "a87c4bfb6547f321",
+            "id": "6bdd6fa206d0a5a8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "go/Testing.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "go/Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,10 +107,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "a87c4bfb6547f321",
+  "active": "6bdd6fa206d0a5a8",
   "lastOpenFiles": [
-    "go/Pointers.md",
     "go/Testing.md",
+    "go/Pointers.md",
     "go/Maps.md",
     "go/attachments/Screenshot 2023-10-10 at 15.15.06.png",
     "go/attachments/Screenshot 2023-10-10 at 14.11.53.png",
