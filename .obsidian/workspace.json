@@ -11,8 +11,12 @@
             "id": "6bdd6fa206d0a5a8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "go/Interfaces.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "go/Interfaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +114,7 @@
   },
   "active": "6bdd6fa206d0a5a8",
   "lastOpenFiles": [
+    "go/Interfaces.md",
     "go/Testing.md",
     "go/Pointers.md",
     "go/Maps.md",
