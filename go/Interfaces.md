@@ -7,3 +7,4 @@ Does this mean
 ![[Screenshot 2023-10-10 at 16.05.14.png]]
 
 This is what interfaces aim to solve.
+
