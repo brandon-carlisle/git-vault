@@ -49,4 +49,5 @@ func printMap(c map[string]string) {
 
 ### When to use
 - If we want to represent a collection of very closely related properties
-- 
+- The data is dynamic and the number of elements may change at runtime
+- You want to perform quick lookups by key
