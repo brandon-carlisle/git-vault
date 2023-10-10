@@ -16,4 +16,14 @@ colors := map[string]string{
 	"blue": "#0000FF",
 }
 ```
+```go
+var colors map[string]string
+
+colors["white"] = "#FFFFFF"
+```
+```go
+colors := make(map[string]string)
+
+colors["white"] = "#FFFFFF"
+```
 
