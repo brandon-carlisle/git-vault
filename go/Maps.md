@@ -8,3 +8,12 @@ Both the keys and values are statically typed -
 ![[Screenshot 2023-10-10 at 14.11.53.png]]
 
 ## Declaring a Map
+
+```go
+colors := map[string]string{
+	"red": "#FF0000",
+	"green": "#00FF00",
+	"blue": "#0000FF",
+}
+```
+
