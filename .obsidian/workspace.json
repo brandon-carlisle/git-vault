@@ -114,6 +114,7 @@
   },
   "active": "6bdd6fa206d0a5a8",
   "lastOpenFiles": [
+    "go/attachments/Screenshot 2023-10-10 at 16.05.14.png",
     "go/Interfaces.md",
     "go/Testing.md",
     "go/Pointers.md",
@@ -151,7 +152,6 @@
     "JavaScript/Working with Arrays in JavaScript.md",
     "JavaScript/OOP, Geolocation, External Libraries, and More in JavaScript.md",
     "Node/Introduction to Node.js.md",
-    "React/What is React.js.md",
-    "React/React State & Working with Events.md"
+    "React/What is React.js.md"
   ]
 }
