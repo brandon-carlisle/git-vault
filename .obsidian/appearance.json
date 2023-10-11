@@ -1,6 +1,7 @@
 {
-  "baseFontSize": 23,
+  "baseFontSize": 16,
   "accentColor": "",
   "theme": "obsidian",
-  "cssTheme": "Minimal"
+  "cssTheme": "Material Ocean",
+  "textFontFamily": "Hack Nerd Font"
 }
