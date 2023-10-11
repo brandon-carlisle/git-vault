@@ -71,3 +71,8 @@ func (sb spanishBot) getGreeting() string {
 return "Hola"
 }
 ```
+![[Screenshot 2023-10-11 at 18.43.08.png]]
+
+## Interface Syntax
+![[Screenshot 2023-10-11 at 18.46.52.png]]
+

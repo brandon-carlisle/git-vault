@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "go/Interfaces.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -114,6 +114,8 @@
   },
   "active": "6bdd6fa206d0a5a8",
   "lastOpenFiles": [
+    "go/attachments/Screenshot 2023-10-11 at 18.46.52.png",
+    "go/attachments/Screenshot 2023-10-11 at 18.43.08.png",
     "go/attachments/Screenshot 2023-10-10 at 16.05.14.png",
     "go/Interfaces.md",
     "go/Testing.md",
@@ -128,8 +130,6 @@
     "go/attachments/Screenshot 2023-10-06 at 17.54.29.png",
     "go/attachments/Screenshot 2023-10-06 at 17.41.48.png",
     "go/Structs.md",
-    "go/attachments/Screenshot 2023-10-06 at 17.28.17.png",
-    "go/attachments/Screenshot 2023-10-06 at 17.27.38.png",
     "go/Variables.md",
     "go/Functions.md",
     "go/Type Conversion.md",
