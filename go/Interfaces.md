@@ -76,3 +76,6 @@ return "Hola"
 ## Interface Syntax
 ![[Screenshot 2023-10-11 at 18.46.52.png]]
 
+## Concrete types vs Interface types
+Concrete types:
+ - A type we can create a value out of directly
