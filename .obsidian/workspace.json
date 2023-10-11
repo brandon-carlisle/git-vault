@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "interface",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -115,6 +114,9 @@
   },
   "active": "6bdd6fa206d0a5a8",
   "lastOpenFiles": [
+    "go/Maps.md",
+    "go/Interfaces.md",
+    "go/attachments/Screenshot 2023-10-11 at 19.08.05.png",
     "go/Slices and For Loops.md",
     "go/Structs.md",
     "go/Testing.md",
@@ -122,8 +124,6 @@
     "go/Variables.md",
     "go/Pointers.md",
     "go/Packages.md",
-    "go/Maps.md",
-    "go/Interfaces.md",
     "go/Functions.md",
     "attachments/chrome_bv4nvW4iZs.png",
     "go/attachments/Screenshot 2023-10-11 at 18.46.52.png",
@@ -134,7 +134,6 @@
     "go/attachments/Screenshot 2023-10-10 at 14.11.27.png",
     "go/attachments/Screenshot 2023-10-09 at 16.09.51.png",
     "go/attachments/Screenshot 2023-10-09 at 16.05.21.png",
-    "go/attachments/Screenshot 2023-10-09 at 15.32.45.png",
     "JavaScript/Modern JavaScript Development, Modules, Tooling, and Functional.md",
     "JavaScript/Building a Modern Application in JavaScript.md",
     "JavaScript/Asynchronous JavaScript - Promises, Async-Await, and AJAX.md",

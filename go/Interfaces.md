@@ -79,3 +79,6 @@ return "Hola"
 ## Concrete types vs Interface types
 - Concrete types are types we can create a value out of directly
 - We cannot directly create a value out of an interface type
+
+## Extra
+![[Screenshot 2023-10-11 at 19.08.05.png]]
