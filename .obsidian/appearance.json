@@ -1,7 +1,7 @@
 {
   "baseFontSize": 16,
-  "accentColor": "",
+  "accentColor": "#fd5d6d",
   "theme": "obsidian",
-  "cssTheme": "Material Ocean",
-  "textFontFamily": "Hack Nerd Font"
+  "cssTheme": "Material Flat",
+  "textFontFamily": "Inter"
 }
