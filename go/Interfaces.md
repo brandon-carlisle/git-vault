@@ -39,3 +39,5 @@ func (sb spanishBot) getGreeting() string {
 return "Hola"
 }
 ```
+
+## Interfaces in practise
