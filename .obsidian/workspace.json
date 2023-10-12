@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "go/Interfaces.md",
+                "file": "go/Pointers.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "go/Interfaces.md",
+                "file": "go/Pointers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,8 +114,8 @@
   },
   "active": "6bdd6fa206d0a5a8",
   "lastOpenFiles": [
-    "go/Pointers.md",
     "go/Interfaces.md",
+    "go/Pointers.md",
     "go/Maps.md",
     "go/attachments/Screenshot 2023-10-11 at 19.08.05.png",
     "go/Slices and For Loops.md",
