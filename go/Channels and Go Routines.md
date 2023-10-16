@@ -66,3 +66,23 @@ We can use a channel to make sure that the main routine is aware of when each of
 Channels are values, and they are typed just like any other variable.
 ![[Screenshot 2023-10-16 at 18.53.46.png]]
 
+Because channels are values, we must treat them as such when trying to communicate between routines. 
+
+We make the channel:
+```go
+func main() {
+links := []string{
+"http://google.com",
+"http://facebook.com",
+}
+
+// Initialise the channel variable of type channel string
+c := make(chan string)
+
+for _, link := range links {
+go checkLink(link, c)
+}
+}
+```
+
+Then for the checkLink function to use the channel, it must accept a channel as its 
