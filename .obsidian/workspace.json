@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d85efdb2dc8f293f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +123,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "6bdd6fa206d0a5a8",
+  "active": "d85efdb2dc8f293f",
   "lastOpenFiles": [
     "go/Interfaces.md",
     "go/Pointers.md",
