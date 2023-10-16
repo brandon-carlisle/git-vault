@@ -134,3 +134,9 @@ fmt.Println(<-c)
 
 ![[Screenshot 2023-10-16 at 19.17.45.png]]
 
+The way we solve the main function exiting is by just setting up a simple loop:
+```go
+for i := 0; i < len(links); i++ {
+	fmt.Println(<-c)
+}
+```
