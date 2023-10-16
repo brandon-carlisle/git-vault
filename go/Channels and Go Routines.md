@@ -42,3 +42,4 @@ To create a new Go Routine is place the "go" keyword in front of a function call
 This then "spawns/creates" a new go routine separate to our "main" routine.
 
 As soon a Go runs into the blocking call inside of the new go routine, Go will move back onto the loop and create a new routine.
+
