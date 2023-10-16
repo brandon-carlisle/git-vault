@@ -45,5 +45,17 @@ As soon a Go runs into the blocking call inside of the new go routine, Go will m
 
 We can now do this:
 ```go
-
+for _, link := range links {
+	go checkLink(link)
+}
 ```
+
+But, when we run the program now, it breaks. This is because of "child" routines.
+![[Screenshot 2023-10-16 at 18.46.05.png]]
+
+Here's what happens when we've spawned all of our child go routines, we get an early exit:
+![[Screenshot 2023-10-16 at 18.47.56.png]]
+
+We can solve this with Channels.
+## Channels
+Channels are used to communicate betw
