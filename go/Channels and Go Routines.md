@@ -58,4 +58,11 @@ Here's what happens when we've spawned all of our child go routines, we get an e
 
 We can solve this with Channels.
 ## Channels
-Channels are used to communicate betw
+Channels are used to communicate between different running Go routines.
+![[Screenshot 2023-10-16 at 18.51.52.png]]
+
+We can use a channel to make sure that the main routine is aware of when each of the child routines have completed their code.
+
+Channels are values, and they are typed just like any other variable.
+![[Screenshot 2023-10-16 at 18.53.46.png]]
+
