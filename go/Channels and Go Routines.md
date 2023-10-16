@@ -94,3 +94,56 @@ func checkLink(link string, c chan string) {
 
 How do we communicate?
 ![[Screenshot 2023-10-16 at 19.04.25.png]]
+
+We send a value into the channel:
+```go
+func checkLink(link string, c chan string) {
+_, err := http.Get(link)
+
+if err != nil {
+	fmt.Println(link, "might be down!")
+	// send message into channel
+	c <- "might be down I think."
+	return
+}
+
+fmt.Println(link, "is working ok!")
+c <- "its working ok"
+}
+```
+
+We wait for a value to be sent inside of our main channel:
+```go
+func main() {
+links := []string{
+
+"http://google.com",
+
+"http://facebook.com",
+
+"http://stackoverflow.com",
+
+"http://go.dev",
+
+"http://amazon.com",
+
+}
+
+  
+
+c := make(chan string)
+
+  
+
+for _, link := range links {
+
+go checkLink(link, c)
+
+}
+
+  
+
+fmt.Println(<-c)
+
+}
+```
