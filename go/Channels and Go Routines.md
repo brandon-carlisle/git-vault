@@ -18,7 +18,7 @@ checkLink(link)
 }
 
 func checkLink(link string) {
-_, err := http.Get(link)
+_, err := http.Get(link) // blocking call
 if err != nil {
 fmt.Println(link, "might be down!")
 return
@@ -34,3 +34,11 @@ This works, but the problem is we are running each check in serial.
 This means we have to wait for google.com to respond to even start on the next link and so on. It would be better if we could run all the checks for every link in parallel.
 ![[Screenshot 2023-10-16 at 18.21.30.png]]
 
+The way we can solve this is Go Routines.
+
+## Go Routines
+To create a new Go Routine is place the "go" keyword in front of a function call.
+![[Screenshot 2023-10-16 at 18.31.20.png]]
+This then "spawns/creates" a new go routine separate to our "main" routine.
+
+As soon a Go runs into the blocking call inside of the new go routine, Go will move back onto the loop and create a new routine.
