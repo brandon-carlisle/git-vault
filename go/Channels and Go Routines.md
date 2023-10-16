@@ -85,4 +85,12 @@ go checkLink(link, c)
 }
 ```
 
-Then for the checkLink function to use the channel, it must accept a channel as its 
+Then for the checkLink function to use the channel, it must accept a channel in its parameters:
+```go
+func checkLink(link string, c chan string) {
+//...
+}
+```
+
+How do we communicate?
+![[Screenshot 2023-10-16 at 19.04.25.png]]
