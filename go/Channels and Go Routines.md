@@ -1,0 +1,1 @@
+Channels and Go Routines in Go are both structures inside of Go that are used for handling concurrent programming.

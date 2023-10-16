@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "fdc87491e19a4ad8",
+        "id": "e42a6ee2f6715d1c",
         "type": "tabs",
         "children": [
           {
-            "id": "6bdd6fa206d0a5a8",
+            "id": "91cb0cd2cd3b0d04",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "go/Pointers.md",
-                "mode": "preview",
+                "file": "go/Channels and Go Routines.md",
+                "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "d85efdb2dc8f293f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "go/Pointers.md",
+                "file": "go/Channels and Go Routines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,19 +112,20 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d85efdb2dc8f293f",
+  "active": "91cb0cd2cd3b0d04",
   "lastOpenFiles": [
-    "go/Interfaces.md",
+    "go/Channels and Go Routines.md",
     "go/Pointers.md",
+    "go/Packages.md",
     "go/Maps.md",
+    "go/Functions.md",
+    "go/Interfaces.md",
     "go/attachments/Screenshot 2023-10-11 at 19.08.05.png",
     "go/Slices and For Loops.md",
     "go/Structs.md",
     "go/Testing.md",
     "go/Type Conversion.md",
     "go/Variables.md",
-    "go/Packages.md",
-    "go/Functions.md",
     "attachments/chrome_bv4nvW4iZs.png",
     "go/attachments/Screenshot 2023-10-11 at 18.46.52.png",
     "go/attachments/Screenshot 2023-10-11 at 18.43.08.png",
