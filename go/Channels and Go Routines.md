@@ -116,34 +116,21 @@ We wait for a value to be sent inside of our main channel:
 ```go
 func main() {
 links := []string{
-
 "http://google.com",
-
 "http://facebook.com",
-
-"http://stackoverflow.com",
-
-"http://go.dev",
-
-"http://amazon.com",
-
-}
-
-  
+} 
 
 c := make(chan string)
 
-  
-
 for _, link := range links {
-
-go checkLink(link, c)
-
-}
-
-  
+	go checkLink(link, c)
+} 
 
 fmt.Println(<-c)
-
 }
 ```
+
+	Receiving messages for a channel is a blocking call
+
+![[Screenshot 2023-10-16 at 19.17.45.png]]
+
