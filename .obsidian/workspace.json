@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "go/Channels and Go Routines.md",
+                "file": "go/Structs.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "go/Channels and Go Routines.md",
+                "file": "go/Structs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +114,8 @@
   },
   "active": "91cb0cd2cd3b0d04",
   "lastOpenFiles": [
+    "go/Maps.md",
+    "go/Channels and Go Routines.md",
     "go/attachments/Screenshot 2023-10-16 at 19.17.45.png",
     "go/attachments/Screenshot 2023-10-16 at 19.04.25.png",
     "go/attachments/Screenshot 2023-10-16 at 18.53.46.png",
@@ -123,10 +125,8 @@
     "go/attachments/Screenshot 2023-10-16 at 18.31.20.png",
     "go/attachments/Screenshot 2023-10-16 at 18.21.30.png",
     "go/attachments/Screenshot 2023-10-16 at 18.21.11.png",
-    "go/Channels and Go Routines.md",
     "go/Pointers.md",
     "go/Packages.md",
-    "go/Maps.md",
     "go/Functions.md",
     "go/Interfaces.md",
     "go/attachments/Screenshot 2023-10-11 at 19.08.05.png",
@@ -135,7 +135,6 @@
     "go/Testing.md",
     "go/Type Conversion.md",
     "go/Variables.md",
-    "attachments/chrome_bv4nvW4iZs.png",
     "JavaScript/Modern JavaScript Development, Modules, Tooling, and Functional.md",
     "JavaScript/Building a Modern Application in JavaScript.md",
     "JavaScript/Asynchronous JavaScript - Promises, Async-Await, and AJAX.md",
